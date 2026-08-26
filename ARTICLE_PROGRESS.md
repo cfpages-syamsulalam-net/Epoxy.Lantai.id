@@ -1,6 +1,6 @@
 # Article progress — epoxy.lantai.id
 
-Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
+Last generated: **2026-08-26 14:55:51 (Asia/Jakarta)**
 
 > This is a derived clarity view. `PORTFOLIO_AUTHORITY_ROLLOUT.md` remains the portfolio authority, and the canonical repository remains the source for article bytes. Do not create or rewrite articles from this tracker alone.
 
@@ -15,9 +15,9 @@ Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-syamsulalam-net/Epoxy.Lantai.id/blob/main/ARTICLE_CATALOG.md) (`b3d03df4e8c6`) |
 | Prepared articles | 96 |
-| Accepted and pushed | 0 |
-| Remaining | 96 |
-| Repository status | 📝 Prepared outline; drafting not started |
+| Accepted and pushed | 1 |
+| Remaining | 95 |
+| Repository status | 🔄 Drafting in progress |
 | Open correction/re-review flags | 0 |
 
 ## Legend
@@ -47,7 +47,7 @@ Last generated: **2026-08-22 23:52:00 (Asia/Jakarta)**
 | No. | ID | Topic | Working title | Article file | Status | Review/correction note | Last review |
 |---:|---|---|---|---|---|---|---|
 | 1 | `EFL-01-01` | `EFL-01` | Apa Itu Sistem Epoxy Flooring? | `artikel/anatomi-sistem-epoxy-flooring.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
-| 2 | `EFL-01-02` | `EFL-01` | Kamus Istilah Epoxy Lantai | `artikel/kamus-istilah-epoxy-lantai.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 2 | `EFL-01-02` | `EFL-01` | Kamus Istilah Epoxy Lantai | `artikel/kamus-istilah-epoxy-lantai.md` | ✅ Accepted and pushed | Fresh current-SHA semantic ACCEPT; article commit and `origin/main` parity `463ffa472af98fc76f467c41c23835730dbc6646`. | 2026-08-26 |
 | 3 | `EFL-01-03` | `EFL-01` | Epoxy Coating, Topping, Screed, dan Paint | `artikel/beda-coating-topping-screed-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 4 | `EFL-01-04` | `EFL-01` | Komponen Sistem dari Substrate hingga Topcoat | `artikel/komponen-sistem-lantai-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 5 | `EFL-01-05` | `EFL-01` | Siklus Project Epoxy dari Survey hingga Recoat | `artikel/siklus-proyek-epoxy-lantai.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
