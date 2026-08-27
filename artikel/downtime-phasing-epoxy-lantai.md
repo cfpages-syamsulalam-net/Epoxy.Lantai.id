@@ -2,8 +2,9 @@
 article_id: EFL-02-04
 title: "Downtime dan Phasing Project Epoxy"
 slug: "downtime-phasing-epoxy-lantai"
-description: "Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist"
-status: outline
+description: "Panduan menerjemahkan arus lalu lintas, paparan, kebersihan, waktu berhenti operasi, tampilan, dan anggaran menjadi daftar pendek sistem epoxy yang realistis."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-06"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,24 @@ final_route: "/artikel/downtime-phasing-epoxy-lantai.html"
 technical_review: required
 sources:
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Downtime dan Phasing Project Epoxy
 
-## Assignment lock
+Sebelum masuk ke pembagian zona, kita luruskan dulu mengapa jeda operasi dan urutan tahap menentukan keputusan sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Downtime dan Phasing Project Epoxy”
-- **Reader and situation:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Reader outcome:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Primary intent:** Menyusun operational constraints
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Cure actual dimiliki EFL-14.
-- **Final public route:** `/artikel/downtime-phasing-epoxy-lantai.html`
-- **Appointed CMS date:** `2025-08-06` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Teman Lantai.id! Ketika lantai harus tetap melayani aktivitas, pertanyaannya bukan sekadar “epoxy apa yang paling kuat?”. Pengelola gudang, dapur, atau area produksi biasanya lebih dulu bingung: bagian mana yang boleh ditutup, berapa lama jalur harus berhenti, dan bagaimana pekerjaan tidak mengganggu kebersihan maupun arus orang.
 
-## Opening instructions
+Jawaban singkatnya, susun pekerjaan dari batas operasi, bukan dari nama produk. Petakan lalu lintas, jenis paparan, aturan kebersihan, jeda yang tersedia, tampilan yang dibutuhkan, dan anggaran; lalu bagi area menjadi tahap yang bisa diperiksa dan diserahterimakan. Waktu siap pakai harus mengikuti data produk dan kondisi lapangan, bukan bau yang sudah hilang atau kalender yang terasa cukup.
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Downtime dan Phasing Project Epoxy**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,186 +44,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Arti downtime dan pembagian tahap pada lantai epoxy
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Downtime adalah waktu ketika area tidak dapat dipakai seperti biasa. Phasing berarti membagi pekerjaan menjadi beberapa zona atau jendela kerja. Keduanya penting karena satu lapis lantai dapat memerlukan persiapan, pelapisan, perlindungan, dan pemeriksaan yang berbeda. Pembagian tahap tidak otomatis mempercepat proses; ia hanya membuat gangguan dapat diprediksi dan dikendalikan.
 
-### KR-01
+Mulailah dengan peta operasi: jalur material, pintu darurat, titik cuci, akses forklift, dan area yang wajib tetap higienis. Tandai siapa yang memberi izin menutup zona dan siapa yang menerima kembali area tersebut. Jika satu jalur menjadi satu-satunya akses, memasukkannya ke tahap pertama tanpa rute pengganti akan memindahkan masalah ke operasi harian.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Epoxy juga bukan satu benda yang seragam. Resin, bahan pengeras, pigmen, pengisi, pelarut atau air, ketebalan, serta kondisi dasar dapat mengubah perilaku dan waktu pengerasan. Karena itu, istilah “kering” perlu dipecah menjadi waktu kerja campuran, tidak lengket, boleh dilalui ringan, pengerasan penuh, dan siap menerima bahan kimia. Angka tiap tahap harus diambil dari lembar teknis produk yang benar dan kondisi aktual proyek.
 
-### KR-15
+## Cara menerjemahkan batas operasi menjadi urutan kerja
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Pertama, tulis kegiatan yang tidak boleh berhenti dan kegiatan yang dapat dipindahkan. Misalnya, jalur pengiriman mungkin hanya bisa ditutup malam hari, sedangkan ruang penyimpanan sementara dapat dipindah sehari. Keputusan ini adalah asumsi operasi; minta penanggung jawab mengesahkannya sebelum jadwal dibuat.
 
-### KR-20
+Kedua, tentukan batas fisik setiap zona. Sisakan lebar akses yang disepakati, lindungi area yang bersebelahan dari debu, dan jelaskan siapa yang menjaga pembatas. Persiapan permukaan bukan satu langkah tunggal: pembersihan, penghilangan kontaminan dan lapisan lemah, pemeriksaan kekuatan dasar, penanganan retak atau sambungan, pengendalian debu, dan pemeriksaan hasil perlu dipisahkan. Panduan ICRI 310.2R menempatkan pemilihan persiapan pada kondisi dasar, lapisan, lokasi, profil, dan kendali mutu; jangan menganggap satu mesin cocok untuk semua area ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)).
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Ketiga, pasang titik keputusan sebelum lapisan berikutnya. Dasar harus dinyatakan siap, campuran dan batch dicatat, kondisi aplikasi direkam, lalu hasil tiap zona diperiksa sebelum pembatas dipindah. ISO 12944-7 menjelaskan pentingnya pengawasan pelaksanaan dan rekaman, tetapi abstraknya bukan spesifikasi lantai; kriteria penerimaan tetap harus berasal dari dokumen proyek dan produk yang dipakai ([ISO 12944-7](https://www.iso.org/standard/64837.html)).
 
-### KR-11
+## Faktor yang mengubah pilihan sistem dan jadwal
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Lalu lintas menentukan beban berulang, benturan, dan abrasi. Troli ringan, forklift, dan roda keras memberi tuntutan berbeda. Paparan juga perlu diurai: air menggenang, bahan pembersih, tumpahan proses, sinar matahari, perubahan suhu, atau sambungan yang bergerak. Kategori lingkungan dari standar pelindung baja tidak boleh dipindahkan begitu saja menjadi persyaratan lantai; gunakan hanya sebagai kerangka bertanya, lalu cocokkan dengan penggunaan lantai yang nyata.
 
-### KR-02
+Kebersihan menambah batas waktu dan cara kerja. Jika proses menuntut pembersihan basah, jangan membuka area hanya karena permukaan tampak tidak lengket. Produk pembersih, resin, pengeras, dan hasil reaksinya dapat memiliki bahaya yang berbeda. NIOSH menekankan bahwa bau bukan ukuran paparan yang andal dan perlindungan kulit atau ventilasi harus mengikuti produk serta tugasnya ([panduan NIOSH tentang epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Minta lembar data keselamatan dan arahan produsen, bukan membuat aturan alat pelindung secara umum.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Kelembapan dasar adalah pemeriksaan terpisah dari tampilan kering. Metode ASTM F2170 menggunakan pengukuran kelembapan relatif di dalam pelat dengan penempatan dan waktu ekuilibrasi tertentu; satu titik tidak mewakili seluruh lantai dan tidak menetapkan ambang universal ([ASTM F2170](https://store.astm.org/standards/f2170)). Catat lokasi, kondisi ruang, sumber uap, dan batas produk sebelum memutuskan zona siap dilapis.
 
-### KR-03
+## Contoh menyusun daftar pendek phasing
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Bayangkan area kerja memiliki jalur masuk utama dan ruang cadangan yang dapat dipakai sementara. Daftar pendek awal dapat berisi tiga tahap: persiapan dan perbaikan di ruang cadangan, pelapisan ruang cadangan lalu pemindahan aktivitas, kemudian pelapisan jalur utama pada jendela malam. Ini bukan jadwal final; ia menjadi bahan diskusi setelah waktu kerja dan pengerasan produk diverifikasi.
 
-### KR-05
+Untuk setiap tahap, tulis lima hal: batas zona, aktivitas yang dipindah, kondisi dasar yang harus lulus, waktu tanpa akses, dan bukti penerimaan. Jika waktu tanpa akses hanya enam jam tetapi produk memerlukan masa sebelum terkena lalu lintas berat lebih lama, pilihannya bukan memaksa lapisan cepat. Pertimbangkan memperlebar jendela, menambah zona sementara, atau memilih sistem lain setelah peninjauan teknis.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Teman Lantai.id, bandingkan penawaran hanya setelah kolomnya setara: luas terukur, susunan lapisan, ketebalan atau dasar cakupan, persiapan dan perbaikan, pengujian, akses serta jeda operasi, pengecualian, jumlah, pajak, garansi, dan serah terima. Harga terendah dengan area lebih kecil atau persiapan yang dikeluarkan bukan pembanding yang jujur. Untuk bahasa penawaran dan hak konsumen, minta tinjauan hukum atau komersial yang berlaku; artikel ini tidak menetapkan kewajiban kontrak.
 
-### KR-06
+Untuk langkah berikutnya, lihat [kontraktor epoxy Yahukimo](/kontraktor-epoxy-yahukimo.html) dan [kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html) sebagai rute kontak yang tercantum di situs; detail pekerjaan tetap perlu diverifikasi.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+## Kesalahan umum saat mengejar waktu singkat
 
-### KR-12
+Kesalahan pertama adalah memakai kalender sebagai bukti pengerasan. Permukaan yang tidak lengket hanya menjawab satu tahap; kesiapan terhadap lalu lintas atau bahan kimia dapat berbeda. Tanyakan tahap kesiapan yang dimaksud, kondisi suhu dan kelembapan, serta dokumen produk yang mendasarinya.
 
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
+Kesalahan kedua adalah menutup area tanpa rute cadangan dan tanpa pemilik keputusan. Akibatnya, pembatas dibuka sebelum pemeriksaan selesai. Tetapkan nama pemeriksa, formulir atau foto yang diperlukan, dan aturan membuka kembali area sejak awal.
 
-## Evidence gates
+Kesalahan ketiga adalah menganggap satu pembacaan kelembapan atau satu metode persiapan cukup untuk seluruh pelat. Peta pengukuran dan pemeriksaan dasar harus mengikuti kondisi lokasi; jika data belum cukup, beri tanda `[NEEDS TECHNICAL REVIEW: batas kelembapan, kriteria penerimaan, dan waktu siap pakai harus disahkan dari produk serta proyek]`.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+## Aturan operasi sebelum pekerjaan dimulai
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Sebelum memilih sistem epoxy, bawa satu lembar keputusan ke rapat: peta zona dan jalur, aktivitas yang tidak boleh berhenti, jenis lalu lintas dan paparan, tuntutan kebersihan, jendela tanpa akses, data kelembapan dan persiapan, tahap pengerasan, bukti pemeriksaan, serta batas anggaran. Minta penanggung jawab operasi dan pemeriksa teknis menandatangani asumsi yang masih terbuka.
 
-## Internal-link plan
+Sobat Lantai.id, simpan lembar keputusan itu bersama catatan pemeriksaan agar perubahan tahap dapat ditelusuri.
 
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-02-02` → `/artikel/memilih-epoxy-sesuai-paparan.html` — Memilih Sistem dari Traffic dan Exposure
-- `EFL-02-03` → `/artikel/checklist-paparan-lantai-epoxy.html` — Checklist Traffic, Load, Chemical, dan Cleaning
-- `EFL-02-05` → `/artikel/menyusun-anggaran-epoxy-lantai.html` — Menyusun Budget Boundary Epoxy Flooring
-- `EFL-02-06` → `/artikel/matriks-pemilihan-sistem-lantai.html` — Matriks Shortlist Sistem Lantai
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Downtime dan Phasing Project Epoxy”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, downtime dan phasing yang sehat bukan janji bahwa lantai selesai secepat mungkin. Keduanya adalah cara mengubah batas operasi menjadi tahap yang dapat diverifikasi. Setelah data produk, kondisi dasar, dan kebutuhan area disetujui, barulah daftar pendek sistem dan jadwal layak dibandingkan. Biar tidak salah langkah, jangan membuka kembali zona hanya karena terlihat kering; buka ketika kriteria proyek dan pemeriksa yang berwenang menyatakan tahap itu siap.

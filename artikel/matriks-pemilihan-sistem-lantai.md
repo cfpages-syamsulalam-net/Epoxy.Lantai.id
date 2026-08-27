@@ -2,8 +2,9 @@
 article_id: EFL-02-06
 title: "Matriks Shortlist Sistem Lantai"
 slug: "matriks-pemilihan-sistem-lantai"
-description: "Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist"
-status: outline
+description: "Panduan menyusun shortlist sistem lantai berdasarkan lalu lintas, paparan, kebersihan, waktu henti, tampilan, dan anggaran."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,56 +17,92 @@ technical_review: required
 sources:
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
   - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
+  - "https://store.astm.org/standards/f2170"
+  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.iso.org/standard/52877.html"
   - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
+  - "https://www.iso.org/standard/64834.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Matriks Shortlist Sistem Lantai
 
-## Assignment lock
+Halo, Kawan Lantai.id! Ketika enam penawaran lantai sama-sama menyebut “epoxy berkualitas”, masalahnya biasanya bukan kurang banyak pilihan, melainkan belum ada cara membandingkan kebutuhan ruang secara setara. Lantai yang dilalui forklift, lantai yang sering dicuci, dan lantai yang harus tetap tampak rapi saat toko buka membutuhkan pertanyaan berbeda.
 
-- **Writer task:** Expand this file into one complete article answering: “Matriks Shortlist Sistem Lantai”
-- **Reader and situation:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Reader outcome:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Primary intent:** Membandingkan options
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan catalog/vendor ranking.
-- **Final public route:** `/artikel/matriks-pemilihan-sistem-lantai.html`
-- **Appointed CMS date:** `2025-08-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat matriks yang menempatkan lalu lintas, paparan, kebersihan, waktu henti, tampilan, dan anggaran sebagai baris kebutuhan; jadikan setiap sistem sebagai kolom; lalu isi dengan bukti, asumsi, dan konsekuensi. Shortlist bukan peringkat vendor. Ia adalah daftar pendek sistem yang masih masuk akal setelah kondisi dasar dan bukti proyek diperiksa.
 
-## Opening instructions
+Kesimpulan dapat berubah jika survei menunjukkan kelembapan beton, bahan kimia, sambungan bergerak, atau jadwal operasi yang tidak tercatat. Karena itu matriks harus menyisakan kolom “belum terverifikasi” dan keputusan berhenti, bukan memaksa angka agar semua pilihan terlihat setara.
 
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Matriks Shortlist Sistem Lantai**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Apa yang sebenarnya dibandingkan dalam matriks shortlist?
+
+Bagian ini menjelaskan objek perbandingan supaya Anda tidak mencampur produk, merek, dan sistem dalam satu baris.
+
+Sistem lantai adalah rangkaian lapisan, persiapan permukaan, cara aplikasi, dan masa perlindungan sampai siap dipakai. Nama “epoxy” hanya menyebut keluarga bahan; resin, bahan pengeras, pigmen, pengisi, pelarut atau air, ketebalan, dan kondisi substrat dapat mengubah perilakunya. Ringkasan metode ISO tentang resin dan bahan pengikat menunjukkan bahwa pengujian berlangsung pada komposisi dan spesimen tertentu, bukan otomatis pada semua lantai terpasang (https://www.iso.org/standard/52877.html; https://www.iso.org/standard/83331.html).
+
+Jadi satu kolom sebaiknya berisi satu susunan sistem yang jelas: persiapan beton, primer, lapisan pengisi atau perata, lapisan utama, dan pelindung akhir bila memang disyaratkan. Catat juga area pemakaian. Sistem untuk ruang kering tidak boleh diperlakukan sama dengan sistem di area pencucian atau tumpahan kimia; bila perlu konteks layanan umum, Anda dapat mulai dari [beranda Lantai.id](/).
+
+Batas artikel ini penting: matriks membantu membandingkan kecocokan, bukan memilih katalog atau memberi ranking vendor. Persetujuan akhir tetap memerlukan spesifikasi proyek, data produk yang berlaku, dan peninjauan kompeten.
+
+## Cara menyusun matriks dari kebutuhan ruang
+
+Jembatan berikut membantu mengubah kata-kata umum seperti “heavy duty” menjadi pertanyaan yang dapat diperiksa.
+
+Mulai dengan mengamati pekerjaan nyata. Berapa sering roda lewat, apakah ada beban jatuh, ke mana cairan mengalir, bagaimana lantai dibersihkan, dan kapan area boleh ditutup? Tulis jawaban beserta siapa yang mengonfirmasi. “Traffic tinggi” tanpa jenis roda dan pola belok belum cukup untuk memilih ketebalan atau lapisan.
+
+Untuk paparan, pisahkan bahan kimia, air atau perendaman, sinar ultraviolet, perubahan suhu, dan abrasi. Kerangka klasifikasi lingkungan ISO 12944 dibuat terutama untuk korosi baja; halaman standarnya tidak boleh dipakai sebagai persyaratan lantai tanpa adopsi proyek yang jelas (https://www.iso.org/standard/64834.html). Gunakan kerangka itu hanya sebagai pengingat bahwa paparan adalah beberapa masukan terpisah, bukan label tunggal.
+
+Kebersihan dan waktu henti harus ditulis sebagai operasi. Tanyakan bahan pembersih, suhu, frekuensi, akses alat, serta berapa lama area dapat dikosongkan. Waktu permukaan tidak lengket, boleh diinjak ringan, boleh menerima bahan kimia, dan benar-benar selesai curing adalah tonggak berbeda; data produk dan kondisi lapangan yang menentukan, bukan bau atau kalender semata.
+
+Untuk substrat, jangan berhenti pada kesan “beton tampak kering”. Metode ASTM F2170 mengukur kelembapan relatif di dalam pelat dengan penempatan dan keseimbangan tertentu; satu titik tidak memetakan seluruh pelat dan tidak menggantikan batas produk yang berlaku (https://store.astm.org/standards/f2170). Jika jalur uap air, konstruksi pelat, atau kondisi pengeringan belum jelas, tandai matriks sebagai belum siap memutuskan.
+
+## Mengisi kolom bukti, konsekuensi, dan keputusan
+
+Matriks berguna ketika setiap sel menjawab “apa buktinya” dan “apa akibatnya”, bukan hanya memberi skor warna.
+
+Gunakan empat kolom tambahan untuk setiap kebutuhan: kondisi yang diasumsikan, bukti yang tersedia, konsekuensi bila meleset, dan keputusan sementara. Misalnya, pada baris pencucian harian, bukti yang dicari adalah daftar bahan pembersih dan suhu pemakaian. Konsekuensinya bisa berupa perubahan jadwal operasi atau perlunya sistem lain; jangan mengisi “aman” hanya karena permukaan terlihat mengilap.
+
+Untuk pekerjaan persiapan, catat pembersihan, penghilangan lapisan lemah, kontaminan, profil permukaan, retak, sambungan, dan kendali debu sebagai tugas terpisah. Pedoman ICRI 310.2R menekankan bahwa metode persiapan dipilih dari kondisi substrat, sistem pelapis, dan kendali mutu; ia bukan rekomendasi satu mesin untuk semua lantai (https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521).
+
+Pada baris keselamatan kerja, hindari kesimpulan dari bau. NIOSH menjelaskan bahwa resin, bahan pengeras, pelarut, pengisi, pigmen, pembersih, dan hasil reaksi dapat memiliki bahaya berbeda; kompatibilitas sarung tangan dan ventilasi perlu disesuaikan dengan produk serta tugas (https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html; https://www.cdc.gov/niosh/skin-exposure/about/). Matriks dapat menandai dokumen keselamatan yang harus diminta, tetapi bukan resep alat pelindung umum atau diagnosis paparan.
+
+## Contoh keputusan praktis tanpa mengarang angka
+
+Skenario bersyarat membuat matriks mudah dipakai tanpa berpura-pura mengetahui proyek Anda.
+
+Bayangkan area produksi dengan lalu lintas roda rutin, pencucian terjadwal, dan jendela penutupan pendek. Sistem A menawarkan lapisan lebih sederhana, tetapi tidak menyertakan bukti kompatibilitas bahan pembersih. Sistem B memiliki urutan lapisan dan jadwal curing yang lebih lengkap, namun membutuhkan persiapan tambahan. Jangan memilih berdasarkan harga awal; isi dulu sel bukti, durasi penutupan, dan pekerjaan perbaikan substrat. Jika satu sel kritis kosong, keluarkan sistem itu dari shortlist sementara.
+
+Untuk area pajangan yang jarang menerima beban tetapi menuntut tampilan konsisten, baris tampilan dapat berisi toleransi warna, tekstur, sambungan, dan contoh persetujuan. Tampilan tidak menggantikan ketahanan operasi. Sebaliknya, area servis mungkin menerima variasi visual jika akses perbaikan dan pembersihan lebih penting. Keputusan bergantung pada prioritas ruang yang dicatat, bukan selera satu orang.
+
+Kawan Lantai.id, saat membandingkan penawaran, minta luas survei, susunan lapisan, dasar ketebalan atau cakupan, persiapan dan perbaikan, pengujian, akses, waktu henti, pengecualian, kuantitas, pajak, masa pemeliharaan, dan lingkup serah terima ditulis pada dasar yang sama. Undang-Undang Perlindungan Konsumen dan PP Perdagangan Melalui Sistem Elektronik memberi konteks hukum untuk informasi dan transaksi, tetapi bukan penetapan otomatis atas harga, garansi, atau ganti rugi proyek Anda (https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999; https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf). Minta peninjauan hukum dan komersial terkini sebelum mengandalkan hak tertentu.
+
+## Kesalahan umum dan cara memeriksanya
+
+Kesalahan pertama adalah memberi bobot sama pada semua baris. Risiko paparan atau kelembapan yang belum diketahui dapat lebih menentukan daripada variasi tampilan. Tandai baris yang dapat menghentikan pekerjaan, lalu minta bukti sebelum menghitung skor, Sobat Lantai.id.
+
+Kesalahan kedua adalah menjumlahkan brosur menjadi janji kinerja. Data bahan, hasil laboratorium, dan kinerja sistem terpasang adalah hal berbeda. Tanyakan konfigurasi pengujian, substrat, kondisi curing, dan apakah data berlaku untuk susunan yang ditawarkan.
+
+Kesalahan ketiga adalah menganggap satu pembacaan kelembapan, uji sentuh, atau hilangnya bau sebagai izin membuka area. Periksa lokasi dan metode pengukuran, kondisi lingkungan, jendela pelapisan ulang, serta kriteria produk. Jika syarat belum disepakati, tulis [NEEDS PROJECT EVIDENCE: kriteria kelembapan, curing, dan kesiapan layanan harus ditetapkan oleh spesifikasi serta peninjau kompeten.].
+
+Kesalahan keempat adalah memilih vendor sebelum menyamakan lingkup. Buat tabel perbandingan yang menyembunyikan nama penawar pada tahap awal, lalu buka identitas setelah sistem dan bukti lolos. Hal ini menjaga matriks tetap sebagai alat keputusan teknis-komersial, bukan kompetisi merek.
+
+## Jika ingin memilih yang paling murah
+
+Harga terendah terasa praktis ketika waktu mepet, tetapi biaya dapat berpindah ke persiapan tambahan, penutupan lebih lama, atau perbaikan ulang. Mekanismenya sederhana: penawaran dengan lapisan atau pemeriksaan lebih sedikit mungkin tampak murah karena sebagian pekerjaan ditempatkan sebagai pengecualian.
+
+Uji jalan pintas itu dengan menyamakan lingkup, lalu beri tanda pada setiap asumsi yang belum dibuktikan. Bila dua sistem tetap dapat dibandingkan, pilih yang paling baik menjawab kebutuhan kritis dengan bukti yang tersedia. Bila tidak, keputusan yang aman adalah menahan shortlist dan meminta klarifikasi, bukan mengisi sel kosong dari perkiraan.
+
+## Langkah berikutnya untuk mengunci shortlist
+
+Matriks shortlist sistem lantai adalah alat untuk menerjemahkan penggunaan ruang menjadi keputusan yang dapat diaudit: definisikan kondisi, minta bukti, catat konsekuensi, lalu singkirkan pilihan yang gagal pada kebutuhan kritis. Ia tidak menggantikan persetujuan desain, instruksi produk, pemeriksaan substrat, atau peninjauan profesional.
+
+Sebelum meminta revisi penawaran, buat satu lembar yang memuat peta lalu lintas, daftar paparan dan pembersih, jadwal waktu henti, target tampilan, anggaran dengan pengecualian, hasil survei kelembapan, serta dokumen produk yang harus diserahkan. Tandai siapa yang menyetujui setiap baris dan kapan data perlu diperbarui. Sederhananya: jangan memilih sistem yang skornya paling tinggi; pilih hanya sistem yang syarat kritisnya terbukti dan batas ketidakpastiannya diterima secara tertulis.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,179 +113,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-20
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-12
-
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-02-04` → `/artikel/downtime-phasing-epoxy-lantai.html` — Downtime dan Phasing Project Epoxy
-- `EFL-02-05` → `/artikel/menyusun-anggaran-epoxy-lantai.html` — Menyusun Budget Boundary Epoxy Flooring
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Matriks Shortlist Sistem Lantai”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

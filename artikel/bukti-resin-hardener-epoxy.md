@@ -2,8 +2,9 @@
 article_id: EFL-03-01
 title: "Resin dan Hardener: Evidence Apa yang Harus Diminta?"
 slug: "bukti-resin-hardener-epoxy"
-description: "Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence"
-status: outline
+description: "Panduan memeriksa dokumen resin, hardener, primer, body coat, dan topcoat sebelum menyetujui pekerjaan lantai epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -21,49 +22,19 @@ sources:
   - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
   - "https://store.astm.org/standards/f2170"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Resin dan Hardener: Evidence Apa yang Harus Diminta?
 
-## Assignment lock
+Halo, Kawan Lantai.id! Saat vendor menyebut “epoxy premium”, Anda mungkin langsung diminta menyetujui warna dan harga. Keputusan yang lebih penting justru: dokumen apa yang membuktikan resin, hardener, primer, body coat, dan topcoat memang satu sistem, serta bagaimana campurannya harus dilakukan?
 
-- **Writer task:** Expand this file into one complete article answering: “Resin dan Hardener: Evidence Apa yang Harus Diminta?”
-- **Reader and situation:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Reader outcome:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Primary intent:** Memeriksa product chemistry
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Formula/ratio dari current docs.
-- **Final public route:** `/artikel/bukti-resin-hardener-epoxy.html`
-- **Appointed CMS date:** `2025-08-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, minta lembar data teknis (TDS), lembar data keselamatan (SDS), instruksi rasio campur dan urutan lapisan yang berlaku untuk produk yang dikirim. Cocokkan nomor lot, masa simpan, kondisi penyimpanan, waktu kerja setelah dicampur, jendela pelapisan ulang, dan tanda kesiapan layanan. Jangan menganggap nama “epoxy” atau permukaan yang sudah tidak lengket sebagai bukti formula tepat dan sudah matang.
 
-## Opening instructions
+Bukti itu harus berasal dari dokumen produk dan pemeriksaan proyek saat ini. Standar seperti ISO 18280 dan ISO 7142 menjelaskan bahwa bahan penyusun, pengisi, pigmen, pelarut, ketebalan film, substrat, dan cara menyiapkan benda uji dapat mengubah hasil; abstraknya tidak memberi rasio campur atau syarat lantai terpasang ([ISO 18280](https://www.iso.org/standard/52877.html), [ISO 7142](https://www.iso.org/standard/83331.html)).
 
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Resin dan Hardener: Evidence Apa yang Harus Diminta?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-003`
@@ -74,184 +45,58 @@ sources:
 - **Selection basis:** filename/source metadata identifies `jasa Floor Hardener` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-003]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi jasa Floor Hardener](/wp-content/uploads/2025/07/jasa-Floor-Hardener.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Ilustrasi umum dari aset lokal Lantai.id; bukan dokumentasi proyek tertentu.*
 
-### KR-01
+## Dokumen produk yang perlu diminta
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bagian ini menerjemahkan “evidence” menjadi berkas yang dapat Anda cocokkan, bukan brosur. Tujuannya mencegah keputusan hanya berdasarkan nama dagang atau foto kemasan.
 
-### KR-02
+Mulai dari TDS untuk setiap komponen: resin, hardener, primer, lapisan pengisi (body coat), dan lapisan pelindung akhir (topcoat). TDS harus menyebut pasangan komponen, rasio berdasarkan berat atau volume, cara mencampur, waktu kerja, jeda sebelum lapisan berikutnya, serta kondisi suhu dan kelembapan yang berlaku. Jika satu angka rasio ditulis tanpa satuan atau tanpa menyebut komponen A dan B, tandai sebagai pertanyaan terbuka.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+SDS melengkapi TDS dengan bahaya bahan, penanganan tumpahan, penyimpanan, dan pertolongan pertama. Resin, hardener, pelarut, pigmen, pembersih, dan hasil reaksi dapat memiliki bahaya berbeda; bau bukan alat ukur paparan yang andal ([CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Karena itu, minta tim membaca SDS produk yang benar dan mencocokkan sarung tangan serta ventilasi dengan tugasnya, bukan menyalin aturan umum dari produk lain ([panduan paparan kulit NIOSH](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
-### KR-03
+Minta pula label lot dan tanggal kedaluwarsa, catatan kondisi penyimpanan, serta contoh lembar inspeksi saat material tiba. Dokumen-dokumen ini tidak membuktikan lantai pasti berhasil, tetapi membuat identitas bahan dan instruksi yang dipakai dapat diaudit.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+## Cara membaca rasio campur dan urutan lapisan
 
-### KR-15
+Rasio campur adalah hubungan jumlah resin dan hardener yang ditetapkan produsen; mekanismenya memungkinkan reaksi silang berlangsung sesuai desain. Mengubah rasio untuk “memperpanjang waktu kerja” dapat menyisakan komponen yang tidak bereaksi, sedangkan menambah pelarut atau agregat mengubah ketebalan dan sifat film. ISO 3673-2 menekankan bahwa sifat spesimen epoksi terkait komposisi dan persiapan, sehingga hasil satu formulasi tidak otomatis berlaku untuk formulasi lain ([ISO 3673-2](https://www.iso.org/standard/59248.html)).
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Minta instruksi tertulis tentang urutan: persiapan beton, primer, body coat, penaburan agregat bila ada, lalu topcoat. Untuk setiap tahap, catat siapa yang mengukur, alat yang dipakai, waktu mulai pencampuran, dan kapan lapisan berikutnya boleh dikerjakan. Jika vendor hanya memberi “ikuti standar aplikasi” tanpa dokumen produk, tahan persetujuan dan minta [NEEDS FORMULA/RATIO: rasio dan urutan harus berasal dari dokumen produk yang berlaku].
 
-### KR-08
+## Waktu kerja, jendela lapis ulang, dan kematangan
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Pot life berarti waktu campuran masih dapat dikerjakan setelah komponen digabung; ini berbeda dari waktu kering sentuh, boleh diinjak ringan, jendela lapis ulang, dan matang penuh. Metode DSC dan FTIR ISO 14322 serta ISO 20368 digunakan untuk mengkaji pengikatan silang, tetapi abstraknya tidak dapat menetapkan kapan lantai proyek Anda siap menerima beban ([ISO 14322](https://www.iso.org/standard/74606.html), [ISO 20368](https://www.iso.org/standard/67794.html)).
 
-### KR-19
+Mekanismenya dipengaruhi suhu, ukuran batch, ketebalan, ventilasi, dan kondisi beton. Karena itu, tulis waktu dan kondisi aktual di lembar kerja, lalu bandingkan dengan TDS produk yang sama. Permukaan yang tidak lengket hanya satu pengamatan; jangan jadikan itu satu-satunya dasar membuka area untuk lalu lintas atau bahan kimia. Bila jadwal meminta lapisan berikutnya di luar jendela TDS, minta keputusan teknis tertulis sebelum meneruskan.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+## Pemeriksaan substrat dan bukti hasil
 
-### KR-18
+Bukti kimia tidak berdiri sendiri. Beton yang masih memiliki sumber uap air, kontaminasi, atau profil permukaan tidak sesuai dapat membuat sistem gagal meski rasio campur benar. ASTM F2170 membahas pengukuran kelembapan relatif dalam beton, dan menekankan pentingnya lokasi uji, ekuilibrasi, serta kondisi slab; satu pembacaan tidak memetakan seluruh lantai ([ASTM F2170](https://store.astm.org/standards/f2170)). Minta peta titik ukur dan kriteria proyek atau produsen yang dipakai, bukan angka universal.
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Untuk daya lekat, ASTM D7234 adalah metode uji tarik lepas pada beton. Mode kegagalan—di lem, antar-lapisan, antarmuka, atau beton—harus dicatat karena angka tanpa lokasi patahan tidak menjelaskan penyebab ([ASTM D7234](https://store.astm.org/d7234-21.html)). Uji ini merusak area, jadi sepakati titik dan rencana perbaikannya. Foto lepuh atau pengelupasan saja tidak cukup untuk mendiagnosis sumber masalah; bila gejalanya berulang, hentikan penutupan dan minta pemeriksaan kompeten.
 
-### KR-10
+## Contoh keputusan saat dokumen tidak lengkap
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Bayangkan tiga set dokumen tiba di lokasi. Set pertama memiliki TDS dan SDS untuk A/B, nomor lot cocok, serta instruksi suhu; Anda dapat melanjutkan verifikasi substrat dan membuat panel uji sesuai prosedur proyek. Set kedua hanya memiliki brosur warna dan rasio “1:1” tanpa satuan; jangan menebak apakah itu berat atau volume—minta klarifikasi tertulis. Set ketiga memiliki TDS lama, sedangkan kemasan menunjukkan revisi baru; tahan aplikasi sampai versi dan lot dipastikan sama.
 
-### KR-05
+Kawan Lantai.id, keputusan praktisnya bukan memilih dokumen yang paling tebal, melainkan memilih set yang identitasnya konsisten dari pengiriman sampai catatan aplikasi. Simpan salinan TDS/SDS yang disetujui bersama lembar lot, hasil pemeriksaan kelembapan, dan catatan waktu pencampuran. Jika syarat penerimaan, paparan bahan kimia, atau keselamatan kerja belum jelas, tandai [NEEDS TECHNICAL REVIEW] dan minta penanggung jawab proyek yang kompeten memutuskan.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-floor-hardener-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-floor-hardener-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-floor-hardener-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-floor-hardener-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-floor-hardener-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-floor-hardener-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-03-02` → `/artikel/susunan-layer-epoxy-lantai.html` — Primer, Body Coat, Broadcast, dan Topcoat
-- `EFL-03-03` → `/artikel/mixing-pot-life-epoxy.html` — Mixing Ratio, Induction, dan Pot Life
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Lantai.id, bila satu komponen berganti merek atau revisi, ulangi pencocokan dari awal; jangan menganggap perubahan kecil tidak memengaruhi sistem.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Resin dan Hardener: Evidence Apa yang Harus Diminta?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menyamakan semua produk berlabel epoxy. Periksa nama komponen, revisi TDS, dan penggunaan yang dinyatakan; jangan memindahkan rasio dari merek atau lapisan lain. Kesalahan kedua adalah menambah hardener atau pelarut agar campuran terasa lebih mudah. Catat deviasi sebagai ketidaksesuaian dan jangan klaim performa tanpa bukti baru.
 
-## Objection or shortcut to address
+Kesalahan ketiga adalah menganggap kering sentuh berarti matang penuh. Cocokkan status pekerjaan dengan istilah TDS: waktu kerja, lapis ulang, lalu matang untuk layanan. Kesalahan keempat adalah menutup beton hanya karena tampak kering. Gunakan pemeriksaan kelembapan yang disepakati dan telusuri sumber uap air sebelum melapisi.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Untuk langkah lanjutan pekerjaan lantai, Anda dapat melihat [penjelasan layanan floor hardener di Yogyakarta](/kontraktor-floor-hardener-yogyakarta.html) sebagai konteks jenis pekerjaan, atau [layanan floor hardener Yahukimo](/kontraktor-floor-hardener-yahukimo.html) bila lokasi proyek Anda di sana. Tautan itu bukan pengganti persetujuan sistem resin-hardener yang spesifik.
 
-## Required conclusion
+## Kesimpulan: minta bukti yang bisa dicocokkan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Evidence yang layak diminta adalah TDS dan SDS terbaru untuk setiap komponen, rasio serta urutan lapisan yang jelas, identitas lot dan penyimpanan, catatan pot life dan jendela lapis ulang, serta hasil pemeriksaan substrat dan uji yang metodenya disepakati. Dokumen standar membantu memahami metode, bukan memberikan formula atau menjamin lantai Anda.
 
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum pekerjaan dilepas, cocokkan dokumen dengan kemasan dan catatan lapangan, selesaikan [NEEDS FORMULA/RATIO] serta gate teknis yang masih terbuka, lalu minta peninjauan profesional bila kondisi proyek berbeda dari TDS. Aturan operasinya sederhana: tanpa identitas produk dan instruksi campur yang dapat diverifikasi, jangan mengisi celah dengan asumsi.

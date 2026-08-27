@@ -3,7 +3,8 @@ article_id: EFL-02-03
 title: "Checklist Traffic, Load, Chemical, dan Cleaning"
 slug: "checklist-paparan-lantai-epoxy"
 description: "Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-03"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,57 +16,15 @@ final_route: "/artikel/checklist-paparan-lantai-epoxy.html"
 technical_review: required
 sources:
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
+  - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/64837.html"
-  - "https://www.iso.org/standard/64838.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Traffic, Load, Chemical, dan Cleaning
 
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Checklist Traffic, Load, Chemical, dan Cleaning”
-- **Reader and situation:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Reader outcome:** Menerjemahkan traffic, exposure, hygiene, downtime, appearance, dan budget menjadi shortlist
-- **Primary intent:** Mencatat operating conditions
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Performance evidence dimiliki EFL-07.
-- **Final public route:** `/artikel/checklist-paparan-lantai-epoxy.html`
-- **Appointed CMS date:** `2025-08-03` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Traffic, Load, Chemical, dan Cleaning**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -76,186 +35,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Kawan Lantai.id! Ketika diminta memilih lantai epoxy, banyak orang langsung membandingkan merek atau harga per meter. Padahal keputusan pertama bukan “produk mana yang paling kuat”, melainkan “paparan apa yang benar-benar terjadi di lantai ini”. Lantai gudang yang dilalui forklift, ruang produksi yang sering terkena bahan kimia, dan area yang dicuci berkali-kali memiliki kebutuhan berbeda.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya: buat catatan kondisi operasi sebelum meminta penawaran. Catat jenis lalu lintas, beban dan benturan, bahan kimia, pola pembersihan, target kebersihan, waktu henti yang tersedia, tampilan, serta batas anggaran. Dari catatan itu Anda menyusun daftar pendek sistem yang layak dibahas; bukan menetapkan performa final. Bukti performa untuk sistem terpasang berada di luar artikel ini dan memerlukan data proyek serta tinjauan kompeten.
 
-### KR-01
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-### KR-15
+## Hasil yang harus ada sebelum memilih sistem
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Bagian ini membantu Anda melihat keluaran praktis dari checklist, sehingga istilah teknis tidak menggantikan keputusan. Tujuannya adalah satu lembar kondisi operasi yang dapat dibaca pemilik, pengawas, dan calon aplikator dengan arti yang sama.
 
-### KR-20
+Tulis fungsi setiap zona lantai, jam operasi, jumlah orang atau kendaraan, jenis roda, beban diam, kemungkinan benda jatuh, cairan yang tumpah, metode pembersihan, tingkat kebersihan yang diharapkan, tampilan yang diinginkan, dan batas waktu area boleh ditutup. Sertakan gambar denah sederhana dengan jalur lalu lintas dan titik rawan. Hasil akhirnya bukan rekomendasi merek, melainkan daftar pertanyaan dan data yang belum terjawab.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Berikan lembar tersebut kepada pihak yang berwenang menyetujui sistem dan kepada aplikator untuk ditanggapi tertulis. Jika angka beban, komposisi bahan kimia, atau kriteria kebersihan belum tersedia, tandai sebagai `[NEEDS DATA: kondisi operasi belum terukur]`. Jangan mengubah kekosongan itu menjadi asumsi “pemakaian normal”.
 
-### KR-11
+## Petakan lalu lintas, beban, dan benturan
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Traffic berarti gerak berulang di atas permukaan; beban adalah gaya yang diterima lantai; benturan adalah kejadian singkat dengan energi lebih tinggi. Ketiganya saling terkait tetapi tidak sama. Peta harus menjawab siapa atau apa yang melintas, seberapa sering, dan di titik mana gaya terkonsentrasi.
 
-### KR-02
+Catat pejalan kaki, troli, pallet jack, forklift, atau kendaraan lain secara terpisah. Roda keras dan muatan terpusat dapat memberi tekanan berbeda dari langkah kaki, sementara putaran di tempat menggeser permukaan. Tandai ambang pintu, tikungan, area antre, dan titik bongkar karena di sanalah pengulangan dan gesekan sering meningkat. Minta data berat aktual dari pemilik; jangan menebak dari ukuran kendaraan.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Pisahkan beban statis, seperti rak yang menetap, dari beban bergerak. Catat juga apakah benda bisa jatuh, diseret, atau diturunkan mendadak. Checklist ini tidak mengubah catatan tersebut menjadi kelas ketahanan otomatis. Ia hanya membuat pembahasan dengan perancang sistem menjadi spesifik. [NEEDS REVIEW: kriteria penerimaan terhadap beban dan benturan harus ditetapkan dari data proyek dan produk yang dipilih.]
 
-### KR-03
+## Catat bahan kimia, air, dan kebersihan
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Exposure berarti paparan lantai terhadap zat, air, suhu, atau proses pembersihan. Mulailah dari nama bahan dan cara kontaknya, bukan dari kata “tahan kimia”. Tulis konsentrasi yang digunakan, suhu, lama genangan, frekuensi tumpahan, dan apakah cairan segera dibilas. Jika komposisi berubah menurut produksi, lampirkan lembar data keselamatan produk terkait.
 
-### KR-05
+Pembersihan juga perlu diurai: sapu, mesin penggosok, air bertekanan, deterjen, disinfektan, atau pelarut memiliki mekanisme berbeda. Tentukan apakah permukaan harus mudah dibilas, tidak menyimpan genangan, atau memenuhi prosedur kebersihan internal. ISO 12944-2 dapat membantu memisahkan masukan lingkungan seperti air, bahan kimia, suhu, dan paparan mekanis, tetapi kerangka itu terutama untuk korosi baja dan bukan persyaratan lantai otomatis ([ISO 12944-2](https://www.iso.org/standard/64834.html)).
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Resin, pengeras, pelarut, pigmen, pembersih, dan hasil reaksinya dapat memiliki bahaya yang berbeda. Bau yang lemah bukan bukti paparan aman; CDC/NIOSH menekankan perlunya melihat bahan dan tugas secara spesifik ([panduan epoksi NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Karena itu, minta instruksi produk dan penilaian kerja yang berlaku di lokasi. Jangan menyalin kewajiban negara lain atau menetapkan alat pelindung secara generik dari checklist ini.
 
-### KR-06
+## Cocokkan kondisi dengan bukti produk dan lantai
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Setelah kondisi terkumpul, susun tabel tiga kolom: kondisi yang diamati, bukti yang diminta, dan keputusan sementara. Untuk lalu lintas, minta data sistem yang memang membahas abrasi atau gesekan. Untuk bahan kimia, minta daftar kompatibilitas yang merujuk pada bahan dan konsentrasi Anda. Untuk kebersihan, minta prosedur pencucian dan batas penggunaan yang dinyatakan produsen.
 
-### KR-12
+Periksa lantai dasarnya sebelum membahas lapisan. Retak, sambungan, lapisan lemah, minyak, debu, dan profil permukaan adalah persoalan berbeda. Pedoman ICRI 310.2R menempatkan pembersihan, penghilangan kontaminan, penghilangan lapisan lemah, pemeriksaan kekuatan, profil, tepi, dan verifikasi sebagai tugas terpisah ([catatan ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)). Jadi, foto “beton tampak kering” belum cukup untuk menyatakan siap.
 
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
+Kelembapan perlu bukti yang sesuai. ASTM F2170 menjelaskan pengukuran kelembapan relatif di dalam pelat; satu titik tidak otomatis mewakili seluruh area atau menjamin kondisi masa depan ([ringkasan ASTM F2170](https://store.astm.org/standards/f2170)). Minta peta titik uji, kondisi lingkungan, serta batas produk yang dipakai. Jika data belum ada, keputusan sistem harus tetap berstatus sementara.
 
-## Evidence gates
+## Susun urutan kerja dan waktu berhenti
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Urutannya sederhana: survei area, cocokkan data dengan lembar produk, sepakati persiapan permukaan, tentukan zona kerja, lalu tetapkan cara pemeriksaan. Setiap tahap menghasilkan catatan yang menjadi dasar tahap berikutnya. ISO 12944-7 membedakan persiapan, pelaksanaan, pengawasan, dan pencatatan; material yang sudah disetujui tetap tidak membuktikan pencampuran atau kondisi aplikasi yang benar ([ISO 12944-7](https://www.iso.org/standard/64837.html)).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Tentukan kondisi berhenti sebelum pekerjaan dimulai. Contohnya, hentikan pembahasan sistem bila bahan kimia utama belum teridentifikasi, hentikan aplikasi bila hasil pemeriksaan kelembapan belum dibandingkan dengan batas produk, dan hentikan pembukaan area bila waktu pengerasan penuh belum dikonfirmasi secara tertulis. Permukaan yang terasa kering hanya satu tanda; waktu kerja, bebas lekat, pelapisan ulang, lalu lintas ringan, pengerasan penuh, dan kesiapan terhadap bahan kimia adalah tonggak berbeda.
 
-## Internal-link plan
+Kawan Lantai.id, bila calon aplikator menjawab “nanti kita lihat di lapangan” untuk semua titik di atas, minta jawaban tertulis yang menyebut data apa yang diperlukan dan siapa yang menyetujuinya. Itu bukan memperlambat pekerjaan; itu mencegah keputusan berubah setelah lantai terlanjur dilapisi.
 
-### Existing local routes
+## Verifikasi hasil dan serah terima
 
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Sebelum area dibuka, cocokkan kondisi aktual dengan lembar awal: zona yang dikerjakan, sistem dan batch material, kondisi lingkungan yang direkam, hasil pemeriksaan permukaan, waktu mulai dan selesai, serta pembatasan penggunaan. Tanyakan siapa yang memeriksa dan dokumen apa yang menjadi dasar penerimaan. Jangan menyatakan lantai “lulus semua beban” tanpa kriteria proyek yang memang mengaturnya.
 
-### Planned sibling articles
+Simpan foto sebelum dan sesudah, denah zona, catatan pembersihan, lembar data produk, hasil uji yang benar-benar dilakukan, dan daftar penyimpangan. Jika ada area yang belum memenuhi, catat sebagai pekerjaan terbuka dengan batas penggunaan yang jelas. Untuk langkah lanjutan di wilayah tertentu, Anda bisa melihat informasi [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau [kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html), lalu tetap minta survei dan penawaran yang merujuk pada checklist Anda.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Mengapa mengandalkan harga per meter sering menyesatkan
 
-- `EFL-02-01` → `/artikel/membuat-brief-epoxy-flooring.html` — Cara Membuat Brief Epoxy Flooring
-- `EFL-02-02` → `/artikel/memilih-epoxy-sesuai-paparan.html` — Memilih Sistem dari Traffic dan Exposure
-- `EFL-02-04` → `/artikel/downtime-phasing-epoxy-lantai.html` — Downtime dan Phasing Project Epoxy
-- `EFL-02-05` → `/artikel/menyusun-anggaran-epoxy-lantai.html` — Menyusun Budget Boundary Epoxy Flooring
+Jalan pintas yang umum adalah memilih penawaran termurah dengan ketebalan yang tampak sama. Cara itu gagal ketika satu penawaran memasukkan perbaikan dan pengujian, sedangkan yang lain hanya menghitung luas sapuan. Mekanismenya jelas: kondisi dasar, jumlah lapisan, persiapan, waktu henti, dan prosedur pembersihan memengaruhi pekerjaan serta biaya, sehingga angka per meter tanpa definisi tidak dapat dibandingkan.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Bandingkan penawaran memakai baris yang sama: luas hasil survei, susunan lapisan, dasar ketebalan atau cakupan, perbaikan, pemeriksaan, akses, pembatasan operasi, pengecualian, pajak, pemeliharaan, dan dokumen serah terima. Bila ada klaim ketahanan tertentu, minta bukti yang memang relevan dengan bahan, konsentrasi, suhu, dan cara kontak di lokasi Anda. Jika bukti tidak tersedia, tulis `[NEEDS REVIEW: klaim performa belum didukung data proyek]` dan jangan memasukkannya sebagai kepastian.
 
-## Hasil akhir dan prasyarat
+## Penutup: jadikan checklist sebagai keputusan tertulis
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Checklist traffic, load, chemical, dan cleaning yang berguna bukan daftar istilah, melainkan catatan kondisi yang bisa diuji: siapa yang melintas, beban apa yang bekerja, cairan apa yang mengenai lantai, bagaimana lantai dibersihkan, kapan area harus berhenti, dan tampilan apa yang diterima. Dari sana Anda membuat daftar pendek sistem untuk ditinjau, bukan menebak performa.
 
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Traffic, Load, Chemical, dan Cleaning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah Anda berikutnya adalah mengisi satu lembar per zona, melampirkan data bahan kimia dan pola pembersihan, meminta bukti kelembapan serta persiapan permukaan, lalu memperoleh persetujuan teknis atas kriteria penerimaan. Sobat Lantai.id, pegang aturan ini: jika kondisi operasi belum tertulis atau bukti kunci belum cocok dengan produk dan proyek, keputusan belum siap dilepas. Minta review kompeten sebelum pekerjaan diteruskan.
