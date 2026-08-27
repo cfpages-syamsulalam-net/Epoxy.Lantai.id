@@ -15,11 +15,11 @@ Last generated: **2026-08-28 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-syamsulalam-net/Epoxy.Lantai.id/blob/main/ARTICLE_CATALOG.md) (`b3d03df4e8c6`) |
 | Prepared articles | 96 |
-| Accepted and pushed | 13 |
-| Remaining | 83 |
+| Accepted and pushed | 16 |
+| Remaining | 80 |
 | Repository status | 🔄 Drafting in progress |
 | Open correction/re-review flags | 0 |
-| Patient-reader rewrites accepted | 8 |
+| Patient-reader rewrites accepted | 11 |
 
 ## Legend
 
@@ -68,12 +68,12 @@ Last generated: **2026-08-28 (Asia/Jakarta)**
 | 11 | `EFL-02-05` | `EFL-02` | Menyusun Budget Boundary Epoxy Flooring | `artikel/menyusun-anggaran-epoxy-lantai.md` | ✅ Accepted and pushed | Current-SHA semantic ACCEPT; article SHA-256 `01a5b35a9bf997223f720428e832af04c014c9ee6a5d0465ebe717e2ce974a75`; commit and current `origin/main` parity `c389d3a25e781a637f5fb19abc0e2d19627c2cfb`; semantic receipt SHA-256 `c0ac1faff977da1ac6c1c2b215a7769b0eab6ea2d99c97f19b97561470d3ef88`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
 | 12 | `EFL-02-06` | `EFL-02` | Matriks Shortlist Sistem Lantai | `artikel/matriks-pemilihan-sistem-lantai.md` | ✅ Accepted and pushed | Current-SHA semantic ACCEPT; article SHA-256 `e4bcb4a694eb13d46fa349ccf27190ed0bbda0a1a3ea3c10da18f249c6fb0886`; commit and current `origin/main` parity `c389d3a25e781a637f5fb19abc0e2d19627c2cfb`; semantic receipt SHA-256 `6c1613d814b9008473e4e00da714546e43aae715d59de2b502791ae4318ef010`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
 | 13 | `EFL-03-01` | `EFL-03` | Resin dan Hardener: Evidence Apa yang Harus Diminta? | `artikel/bukti-resin-hardener-epoxy.md` | ✅ Accepted and pushed | Current-SHA semantic ACCEPT; article SHA-256 `bcdd862b6197dc0e8f0f5f17f2446d6507622765a68454a1c707bbd1c1ab0239`; commit and current `origin/main` parity `c389d3a25e781a637f5fb19abc0e2d19627c2cfb`; semantic receipt SHA-256 `f658b4e8fed58ca274cf502b39a986a12fe730db0f794945055cb4851d08e717`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
-| 14 | `EFL-03-02` | `EFL-03` | Primer, Body Coat, Broadcast, dan Topcoat | `artikel/susunan-layer-epoxy-lantai.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
-| 15 | `EFL-03-03` | `EFL-03` | Mixing Ratio, Induction, dan Pot Life | `artikel/mixing-pot-life-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
+| 14 | `EFL-03-02` | `EFL-03` | Primer, Body Coat, Broadcast, dan Topcoat | `artikel/susunan-layer-epoxy-lantai.md` | ✅ Accepted and pushed | Current semantic ACCEPT; article SHA-256 `9195d9ffaa3706ae2632675241ff8f9745c9703376adc133c4010cb6f7c82775`; commit and remote-main parity `fa881451dc1e3ce747a073c60909ecf77eb7c28d`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
+| 15 | `EFL-03-03` | `EFL-03` | Mixing Ratio, Induction, dan Pot Life | `artikel/mixing-pot-life-epoxy.md` | ✅ Accepted and pushed | Current semantic ACCEPT; article SHA-256 `ea0c4ff9ef07c2a37a75b29394063498aef8338a68b2fb14e1053e73702bb5dd`; commit and remote-main parity `fa881451dc1e3ce747a073c60909ecf77eb7c28d`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
 | 16 | `EFL-03-04` | `EFL-03` | Cure Time, Recoat Window, dan Full Service | `artikel/cure-recoat-window-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
 | 17 | `EFL-03-05` | `EFL-03` | Epoxy vs Polyurethane Chemistry | `artikel/epoxy-vs-polyurethane-coating.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
 | 18 | `EFL-03-06` | `EFL-03` | Batch Compatibility dan Material Substitution | `artikel/batch-substitusi-material-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
-| 19 | `EFL-04-01` | `EFL-04` | Checklist Assessment Concrete Substrate | `artikel/assessment-substrate-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
+| 19 | `EFL-04-01` | `EFL-04` | Checklist Assessment Concrete Substrate | `artikel/assessment-substrate-epoxy.md` | ✅ Accepted and pushed | Current semantic ACCEPT; article SHA-256 `7e0af5dbabd35f13acd20d2a6314ec6ffcd3f0dc64f051307871713cdd8caae8`; commit and remote-main parity `fa881451dc1e3ce747a073c60909ecf77eb7c28d`. | 2026-08-28 | ✅ Patient-reader rewrite accepted |
 | 20 | `EFL-04-02` | `EFL-04` | Moisture Testing sebelum Epoxy | `artikel/uji-kelembapan-sebelum-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
 | 21 | `EFL-04-03` | `EFL-04` | Concrete Strength dan Surface Soundness | `artikel/kekuatan-permukaan-beton-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
 | 22 | `EFL-04-04` | `EFL-04` | Oil, Dust, Curing Compound, dan Contamination | `artikel/kontaminasi-substrate-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — | 📝 Current patient-reader contract required |
