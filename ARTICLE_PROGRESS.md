@@ -15,8 +15,8 @@ Last generated: **2026-08-26 14:55:51 (Asia/Jakarta)**
 | Repository-local progress tracker | ✅ This repository tracker |
 | Catalog | [ARTICLE_CATALOG.md](https://github.com/cfpages-syamsulalam-net/Epoxy.Lantai.id/blob/main/ARTICLE_CATALOG.md) (`b3d03df4e8c6`) |
 | Prepared articles | 96 |
-| Accepted and pushed | 3 |
-| Remaining | 93 |
+| Accepted and pushed | 4 |
+| Remaining | 92 |
 | Repository status | 🔄 Drafting in progress |
 | Open correction/re-review flags | 0 |
 
@@ -48,7 +48,7 @@ Last generated: **2026-08-26 14:55:51 (Asia/Jakarta)**
 |---:|---|---|---|---|---|---|---|
 | 1 | `EFL-01-01` | `EFL-01` | Apa Itu Sistem Epoxy Flooring? | `artikel/anatomi-sistem-epoxy-flooring.md` | ✅ Accepted and pushed | Fresh semantic ACCEPT; article commit and current remote-main parity `59d991e3e2af6dd22536945f4a24b69848cd486b`. | 2026-08-27 |
 | 2 | `EFL-01-02` | `EFL-01` | Kamus Istilah Epoxy Lantai | `artikel/kamus-istilah-epoxy-lantai.md` | ✅ Accepted and pushed | Fresh current-SHA semantic ACCEPT; article commit and `origin/main` parity `463ffa472af98fc76f467c41c23835730dbc6646`. | 2026-08-26 |
-| 3 | `EFL-01-03` | `EFL-01` | Epoxy Coating, Topping, Screed, dan Paint | `artikel/beda-coating-topping-screed-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
+| 3 | `EFL-01-03` | `EFL-01` | Epoxy Coating, Topping, Screed, dan Paint | `artikel/beda-coating-topping-screed-epoxy.md` | ✅ Accepted and pushed | Fresh semantic ACCEPT receipt `964e5a44bd0c025e0b033a3bd6759dd9128757709b46d21a769097ecb90c4c60`; article commit and current remote-main parity `64987c85c7ae59c63cbdf588550f780c3e085d3d`. | 2026-08-28 |
 | 4 | `EFL-01-04` | `EFL-01` | Komponen Sistem dari Substrate hingga Topcoat | `artikel/komponen-sistem-lantai-epoxy.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
 | 5 | `EFL-01-05` | `EFL-01` | Siklus Project Epoxy dari Survey hingga Recoat | `artikel/siklus-proyek-epoxy-lantai.md` | ✅ Accepted and pushed | Fresh current-SHA semantic ACCEPT at `d4d324155de05a5bf3e976aed5241c92837096687bb6c0801a10ef26f346a722`; article commit and `origin/main` parity `c2f917bc0ce0342bd338e9e86faffce5e3f15dfe`. | 2026-08-27 |
 | 6 | `EFL-01-06` | `EFL-01` | Cara Membaca Klaim Epoxy Lantai secara Kritis | `artikel/membaca-klaim-epoxy-lantai.md` | 📝 Outline prepared | Drafting has not reached accepted pushed state. | — |
