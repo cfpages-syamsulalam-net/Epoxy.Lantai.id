@@ -2,8 +2,9 @@
 article_id: EFL-01-01
 title: "Apa Itu Sistem Epoxy Flooring?"
 slug: "anatomi-sistem-epoxy-flooring"
-description: "Memahami terminology, layers, functions, dan system boundaries"
-status: outline
+description: "Panduan memahami lapisan, fungsi, dan batas sistem lantai epoxy sebelum memilih atau meminta penawaran."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,58 +16,20 @@ final_route: "/artikel/anatomi-sistem-epoxy-flooring.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Apa Itu Sistem Epoxy Flooring?
 
-## Assignment lock
+Halo, Teman Lantai.id! Anda mungkin menerima penawaran “epoxy flooring” yang hanya menyebut satu produk atau satu harga per meter persegi. Padahal lantai epoxy bukan cat tunggal; ia adalah susunan lapisan yang bekerja bersama di atas beton. Pertanyaan yang perlu dijawab bukan sekadar “epoxynya merek apa?”, melainkan lapisan apa yang dipakai, fungsi tiap lapisan, dan kondisi lantai yang akan menerimanya.
 
-- **Writer task:** Expand this file into one complete article answering: “Apa Itu Sistem Epoxy Flooring?”
-- **Reader and situation:** Memahami terminology, layers, functions, dan system boundaries
-- **Reader outcome:** Memahami terminology, layers, functions, dan system boundaries
-- **Primary intent:** Memahami components dan layers
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Chemistry dimiliki EFL-03.
-- **Final public route:** `/artikel/anatomi-sistem-epoxy-flooring.html`
-- **Appointed CMS date:** `2025-07-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sistem epoxy flooring adalah rangkaian bahan dan pekerjaan—persiapan permukaan, lapisan dasar, lapisan pengisi atau penguat bila diperlukan, lalu lapisan penutup—yang dirancang untuk beban dan paparan tertentu. Komposisi resin, bahan pengeras, pigmen, pengisi, agregat, ketebalan, dan cara pemeraman dapat mengubah perilakunya; gambaran metode pengujian resin epoksi di ISO 18280 tidak menetapkan satu resep atau satu kinerja lantai untuk semua produk ([ISO 18280:2010](https://www.iso.org/standard/52877.html)).
 
-## Opening instructions
+Artikel ini membantu Anda mengenali anatomi sistem, membaca hubungan sebab-akibatnya, dan menentukan pertanyaan sebelum pekerjaan dimulai. Kimia formulasi dan perbandingan campuran merupakan bahasan tersendiri; kita berhenti pada lapisan dan batas keputusan proyek.
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Apa Itu Sistem Epoxy Flooring?**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,184 +40,70 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-### KR-01
+## Mengenali objek dan batas pembahasannya
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bagian ini menempatkan istilah “sistem” dalam konteks yang bisa diperiksa agar Anda tidak menganggap semua permukaan berlapis epoksi sebagai benda yang sama.
 
-### KR-02
+Sistem dimulai dari substrat, yaitu beton atau permukaan dasar yang menerima lapisan. Permukaan harus cukup bersih, kuat, dan memiliki kelembapan yang sesuai dengan produk; lapisan mahal tidak dapat menggantikan dasar yang rapuh atau terkontaminasi. Di atasnya dapat ada primer untuk membantu pembasahan dan ikatan, lapisan badan untuk membentuk ketebalan, agregat untuk tekstur atau pengisian, dan topcoat sebagai lapisan paling atas yang berhadapan langsung dengan pemakaian.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Nama lapisan tidak otomatis memberi tahu fungsinya. “Primer” bukan jaminan semua masalah beton selesai; “topcoat” bukan bukti lantai tahan semua bahan kimia. Hubungkan tiap fungsi dengan data produk, kondisi proyek, dan cara pemasangan. Jika dokumen hanya menyebut “epoxy tiga lapis” tanpa menjelaskan pekerjaan permukaan dan tujuan tiap lapisan, minta uraian itu sebelum membandingkan harga.
 
-### KR-15
+Batas artikel ini: kita membahas anatomi dan keputusan awal, bukan menetapkan formula kimia, menerima hasil struktur, atau menyatakan kepatuhan aturan. Untuk area Yogyakarta, Anda dapat menyiapkan pertanyaan teknis saat menghubungi [kontraktor epoxy di Yogyakarta](/kontraktor-epoxy-yogyakarta.html), lalu meminta jawaban tertulis sesuai kondisi lokasi.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+## Urutan kerja yang membuat lapisan saling bergantung
 
-### KR-14
+Urutan berikut menunjukkan mengapa hasil akhir bukan penjumlahan klaim tiap produk.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Pertama, permukaan diperiksa dan dipersiapkan. Debu, minyak, laitance (lapisan lemah di permukaan beton), retak, atau kelembapan yang tidak sesuai dapat menghalangi kontak antara lapisan dan beton. Pembersihan, penggerindaan, atau perbaikan dipilih berdasarkan temuan; tidak ada satu metode untuk semua lantai.
 
-### KR-03
+Kedua, primer atau lapisan dasar diaplikasikan sesuai petunjuk. Lapisan ini harus membasahi pori dan membentuk bidang yang dapat menerima lapisan berikutnya. Bila waktu tunggu, suhu, atau kondisi permukaan meleset, ikatan antarlapis bisa berubah meski warna terlihat rapi.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Ketiga, lapisan badan dan agregat (jika direncanakan) membangun ketebalan, mengisi profil, atau memberi tekstur. “Lebih tebal” bukan selalu “lebih kuat”; ketebalan, waktu kerja, dan pemeraman harus cocok dengan sistem yang diuji. Waktu kerja campuran, tidak lengket, boleh diinjak, dan siap menerima paparan adalah tonggak berbeda; sentuhan kering tidak cukup menyatakan sistem siap.
 
-### KR-11
+Terakhir, topcoat menutup permukaan sesuai kebutuhan. Uji tarik-lepas ASTM D7234 dapat gagal di perekat, salah satu lapisan, batas antarlapis, atau beton; baca hasil bersama pola kerusakan dan kondisi uji, bukan sebagai satu angka universal ([ASTM D7234-21](https://store.astm.org/d7234-21.html)).
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+## Kondisi yang mengubah pilihan sistem
 
-### KR-08
+Ubah keluhan “lantai harus awet” menjadi paparan yang dapat dijelaskan dan diperiksa.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Tanyakan siapa dan apa yang bergerak: pejalan kaki, troli, roda keras, benturan, atau gesekan berulang. Metode abrasi ASTM D4060 bergantung pada penggesek, beban, jumlah siklus, ketebalan, dan kriteria penilaian; hasil laboratorium tidak langsung berarti umur pakai bangunan Anda ([ASTM D4060-19](https://store.astm.org/d4060-19.html)).
 
-### KR-09
+Catat air, bahan pembersih, tumpahan, suhu, sinar matahari, sambungan, dan waktu henti. Konsentrasi serta lama kontak bahan kimia dapat mengubah penilaian “tahan kimia”. Tekstur yang terasa aman saat kering dapat berbeda ketika basah atau kotor, jadi permintaan “anti-slip” memerlukan metode uji dan kondisi pemakaian yang jelas.
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+Sobat Lantai.id, tuliskan paparan itu sebelum meminta sistem; daftar singkat di lapangan lebih berguna daripada janji “tahan segala kondisi”.
 
-### KR-10
+Perhatikan pekerja saat pencampuran dan aplikasi. Resin, bahan pengeras, pelarut, pengisi, pigmen, serta produk reaksi dapat memiliki bahaya berbeda. NIOSH menekankan bahwa bau bukan indikator paparan yang andal dan kecocokan sarung tangan bergantung pada bahan serta tugas ([panduan NIOSH tentang epoksi dan resin](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html)). Minta lembar data keselamatan dan instruksi produk yang digunakan; jangan mengubahnya menjadi kesimpulan hukum Indonesia.
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+## Contoh keputusan saat menerima penawaran
 
-## Evidence gates
+Bayangkan dua penawaran untuk gudang yang sering dilalui troli. Penawaran pertama hanya menulis “epoxy dua lapis”. Penawaran kedua menjelaskan kondisi beton, metode persiapan, fungsi primer dan lapisan badan, tekstur, waktu antar-lapis, serta cara memeriksa hasil. Pilihan yang dapat dipertanggungjawabkan adalah yang memungkinkan Anda menguji kecocokan sistem dengan paparan nyata.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Gunakan pertanyaan berurutan: kondisi dasar apa yang ditemukan; lapisan mana yang mengatasinya; paparan apa yang menjadi dasar pemilihan; bukti uji mana yang relevan; dan siapa menyetujui perubahan bila kondisi lapangan berbeda. Jika jawaban belum tersedia, tandai `[NEEDS REVIEW: data proyek dan persetujuan teknis belum tersedia]` dan tahan keputusan akhir.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Untuk lokasi lain, misalnya saat menilai [kontraktor epoxy di Yalimo](/kontraktor-epoxy-yalimo.html), minta sistem dijelaskan sebagai urutan fungsi, bukan daftar merek. Rute layanan membantu langkah berikutnya, tetapi bukan bukti kinerja teknis proyek tertentu.
 
-## Internal-link plan
+## Kesalahan yang sering terjadi dan cara memeriksanya
 
-### Existing local routes
+Kesalahan pertama adalah menyamakan ketebalan dengan mutu. Periksa satuan, toleransi, cara ukur, dan apakah angka berlaku pada seluruh susunan atau satu lapisan. Kesalahan kedua adalah memakai foto mengilap sebagai bukti ketahanan; foto tidak menunjukkan paparan, pemeraman, atau pola kegagalan.
 
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan ketiga adalah menganggap permukaan yang tidak berbau berarti aman. Ikuti lembar data keselamatan dan perlindungan yang ditetapkan untuk bahan serta pekerjaan itu. Kesalahan keempat adalah membandingkan angka uji dari metode, alat, substrat, atau kondisi pemeraman berbeda seolah-olah setara.
 
-### Planned sibling articles
+Buat catatan serah-terima yang menyimpan nama produk, nomor batch, kondisi permukaan, tahapan pekerjaan, waktu pemeraman, hasil pemeriksaan, dan penyimpangan yang disetujui. Catatan ini tidak menggantikan persetujuan ahli, tetapi membuat pertanyaan lanjutan dapat ditelusuri.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Mengapa jalan pintas “pilih yang paling tebal” bisa gagal
 
-- `EFL-01-02` → `/artikel/kamus-istilah-epoxy-lantai.html` — Kamus Istilah Epoxy Lantai
-- `EFL-01-03` → `/artikel/beda-coating-topping-screed-epoxy.html` — Epoxy Coating, Topping, Screed, dan Paint
+Jalan pintas tampak masuk akal karena lapisan tebal terlihat kokoh. Namun, ketebalan mengubah kebutuhan pemeraman, tegangan susut, dan cara lapisan menempel pada dasar. Jika penyebab kerusakan adalah kelembapan, kontaminasi, atau pergerakan sambungan, menambah bahan di atasnya tidak menghilangkan mekanismenya.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Alternatif yang lebih aman adalah meminta diagnosis kondisi dasar, tujuan tiap lapisan, dan bukti yang cocok dengan paparan. Bila ada retak atau kerusakan struktural, jangan menganggap bahan epoksi lantai sama dengan bahan perbaikan; pemilihan perbaikan memerlukan data proyek dan tenaga kompeten.
 
-## Jawaban singkat dan salah paham utama
+## Kesimpulan: sistem adalah rangkaian keputusan yang bisa diperiksa
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sistem epoxy flooring berarti substrat, persiapan, lapisan dengan fungsi berbeda, pemeraman, dan topcoat yang dipilih untuk paparan tertentu. Ia bukan nama tunggal untuk semua produk dan bukan jaminan otomatis atas umur pakai.
 
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Apa Itu Sistem Epoxy Flooring?”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Lantai.id, minta susunan sistem tertulis dan cocokkan dengan kondisi lantai, lalu libatkan pemeriksa teknis ketika keputusan menyentuh struktur, keselamatan, atau paparan khusus. Aturan operasionalnya: jangan menyetujui “epoxy” sebelum Anda dapat menunjuk lapisan, fungsi, kondisi penerimaan, dan bukti pendukungnya.
