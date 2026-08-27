@@ -2,8 +2,9 @@
 article_id: EFL-04-01
 title: "Checklist Assessment Concrete Substrate"
 slug: "assessment-substrate-epoxy"
-description: "Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs"
-status: outline
+description: "Panduan memeriksa kondisi beton, kelembapan, kekuatan permukaan, kontaminasi, profil, dan kebutuhan perbaikan sebelum epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,54 +16,20 @@ final_route: "/artikel/assessment-substrate-epoxy.html"
 technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Checklist Assessment Concrete Substrate
 
-## Assignment lock
+Halo, Sobat Lantai.id! Lantai beton yang tampak kering dan rata belum otomatis siap dilapisi epoxy. Kelembapan dari bawah, lapisan lemah, minyak, debu, atau retak yang masih bergerak dapat membuat lapisan menggelembung atau terkelupas setelah pekerjaan selesai.
 
-- **Writer task:** Expand this file into one complete article answering: “Checklist Assessment Concrete Substrate”
-- **Reader and situation:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Reader outcome:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Primary intent:** Mengumpulkan concrete condition
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan structural diagnosis.
-- **Final public route:** `/artikel/assessment-substrate-epoxy.html`
-- **Appointed CMS date:** `2025-09-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: sebelum memilih sistem epoxy, kumpulkan bukti tentang kondisi beton, kelembapan, kekuatan permukaan, kontaminasi, profil, dan cacat yang perlu diperbaiki. Keputusan “siap dilapis” baru masuk akal setelah setiap temuan dicocokkan dengan persyaratan produk dan kondisi proyek. Checklist ini membantu mengumpulkan data; ini bukan diagnosis struktur.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Assessment Concrete Substrate**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,184 +40,84 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Hasil akhir dan prasyarat penilaian beton
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bagian ini menjelaskan seperti apa hasil assessment yang berguna, supaya Anda tidak berhenti pada foto permukaan. Hasil akhirnya adalah lembar kondisi per area, bukti pengukuran yang dapat ditelusuri, daftar perbaikan, dan keputusan sementara: lanjut uji, perbaiki dulu, atau tahan pekerjaan.
 
-### KR-05
+Tentukan lebih dulu siapa yang berwenang menyatakan area siap. Siapkan denah atau pembagian zona, riwayat pengecoran bila ada, sistem epoxy yang direncanakan, lembar data produk, dan catatan kondisi lingkungan. Catat tanggal, lokasi titik uji, kondisi ruangan, serta metode yang dipakai. Tanpa identitas titik dan metode, angka sulit dibandingkan atau diulang.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Periksa juga antarmuka: siapa yang mengendalikan sumber air, pembersihan, perbaikan retak, dan persetujuan produk. Jika dokumen produk mensyaratkan kondisi tertentu, persyaratan itulah yang menjadi pembanding, bukan angka umum dari internet.
 
-### KR-06
+## Langkah 1 — tetapkan objek dan batas pemeriksaan
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Sebelum menguji, sepakati area mana yang akan dilapisi dan area mana yang dikecualikan. Tandai sambungan, tepi dinding, sekitar drainase, bekas tambalan, serta zona yang menerima lalu lintas atau bahan kimia berbeda. Batas yang jelas mencegah satu titik yang bagus dianggap mewakili seluruh lantai.
 
-### KR-08
+Tanyakan: apakah pekerjaan hanya pelapis permukaan, atau ada retak, penurunan, dan pergerakan struktur yang ikut terlihat? Checklist ini menilai kesiapan permukaan untuk sistem lantai. Ia tidak menentukan penyebab retak struktural, kapasitas pelat, atau desain injeksi. Untuk gejala tersebut, sisakan penanda `[NEEDS TECHNICAL REVIEW: penyebab retak, pergerakan, atau kapasitas struktur belum dibuktikan oleh checklist permukaan]`.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Buat peta sederhana dengan kode zona. Foto boleh membantu menunjukkan lokasi, tetapi foto tidak dapat memastikan sumber kelembapan, jenis kontaminan, atau mutu beton. Keputusan harus mengacu pada observasi langsung dan catatan uji di zona yang sama.
 
-### KR-18
+## Langkah 2 — kumpulkan dan cocokkan bukti kelembapan
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Beton yang terlihat kering hanya memberi informasi visual. Kelembapan dapat berasal dari bawah pelat, sisi bangunan, kebocoran, atau kondisi pengeringan yang belum selesai. Metode ASTM F2170 membahas pengukuran kelembapan relatif di dalam pelat dan menekankan pengaruh konstruksi, penghalang uap, lokasi pemasangan sensor, waktu ekuilibrasi, serta kondisi lingkungan ([ASTM F2170](https://store.astm.org/standards/f2170)).
 
-### KR-14
+Catat sumber dan jalur air yang mungkin: pelat di atas tanah, ruang bawah, dinding perimeter, pipa, atau aktivitas pencucian. Tempatkan titik uji berdasarkan variasi zona, bukan hanya di area yang paling mudah dijangkau. Satu hasil tidak memetakan seluruh lantai dan tidak menjamin kondisi tetap sama setelah hujan atau perubahan operasi.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Jangan mencampur metode atau menetapkan ambang universal tanpa membaca metode lengkap dan persyaratan produsen epoxy. Bila hasil berada di luar kriteria produk, tahan pelapisan dan minta rencana pengeringan atau mitigasi yang disetujui. Bila metode, lokasi, atau waktu pengukuran belum lengkap, tulis “data belum cukup”, bukan “kering”.
 
-### KR-13
+## Langkah 3 — periksa kekuatan dan kesatuan permukaan
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Permukaan yang terdengar kopong, mudah rontok, berdebu, atau meninggalkan butiran pada telapak tangan mungkin memiliki lapisan lemah. Bedakan kondisi permukaan dari kekuatan struktur: pemeriksaan ini mencari apakah lapisan atas cukup utuh untuk menerima sistem, bukan menghitung kapasitas bangunan.
 
-### KR-07
+Uji tarik lepas (pull-off) dapat menunjukkan lokasi dan jenis kegagalan, tetapi hasilnya tidak bermakna sebagai satu angka saja. Kegagalan bisa terjadi pada lem, lapisan coating, batas antar-lapis, atau beton; pengujian ini juga merusak titik uji ([ASTM D7234](https://store.astm.org/d7234-21.html)). Karena itu, catat alat, susunan lapisan, umur curing, lokasi, nilai, dan mode patahnya. Bandingkan hanya dengan prosedur dan kriteria proyek yang sama.
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Jika tidak ada uji tarik lepas, gabungkan observasi ketahanan permukaan, hasil pembersihan uji, dan catatan perbaikan sebagai bukti awal. Bukti awal tetap memerlukan konfirmasi pihak yang berwenang sebelum area dinyatakan siap.
 
-### KR-16
+## Langkah 4 — identifikasi minyak, debu, dan kontaminasi
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Kontaminasi menghalangi ikatan antara beton dan epoxy. Minyak dapat meresap ke pori, debu dapat menjadi lapisan pemisah, sedangkan senyawa curing atau sisa bahan kimia dapat mengubah pembasahan dan pengerasan. Tanyakan asal noda, apakah menyebar, dan apakah pembersihan uji benar-benar menghilangkan residu—bukan hanya memindahkan noda ke kain.
 
-## Evidence gates
+Catat metode pembersihan yang direncanakan dan cara memeriksa hasilnya. Penggunaan mesin tanpa pengendalian debu dapat memindahkan masalah ke area lain dan menambah paparan. OSHA menjelaskan bahwa pembentukan debu silika bergantung pada material, pekerjaan, peralatan, pengurungan, durasi, pemeliharaan, dan pembersihan; panduan itu bukan pengganti penilaian kepatuhan di Indonesia ([OSHA floor-grinder fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)).
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Untuk area yang tetap berbau, licin, atau menunjukkan noda menembus setelah pembersihan uji, jangan menutupinya dengan primer secara otomatis. Tahan pekerjaan dan minta metode dekontaminasi serta verifikasi yang sesuai produk.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Langkah 5 — nilai profil permukaan, tepi, dan cacat
 
-## Internal-link plan
+Epoxy membutuhkan permukaan yang bersih dan memiliki tekstur yang cocok dengan sistemnya. Halaman ICRI 310.2R mengidentifikasi dokumen tentang persiapan permukaan beton, sealer, coating, dan perbaikan ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)); halaman katalog itu bukan rincian pekerjaan untuk proyek Anda. Jadi, “sudah digerinda” belum menjawab apakah profil dan kebersihannya sesuai.
 
-### Existing local routes
+Periksa perubahan tekstur antar-zona, sudut yang tidak terjangkau alat, tepi drainase, dan bekas lapisan lama. Jangan menetapkan angka kategori profil tanpa pedoman yang berlaku, persyaratan produk, dan peninjauan kompeten. Catat metode pembentukan profil dan cara mengangkat debu; bila area bersebelahan memiliki tekstur berbeda, perlakukan sebagai zona terpisah sampai ada keputusan.
 
-- `/epoxy/polished-concrete` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/polished-concrete/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Tandai lubang, gompal, retak, sambungan, dan perbedaan elevasi. Perbaikan permukaan bukan berarti semua retak boleh diisi epoxy yang sama. Pemilihan bahan tetap perlu mempertimbangkan penyebab dan pergerakan retak, kelembapan, temperatur, beban, geometri, kompatibilitas, pemasangan, dan inspeksi. Halaman katalog ASTM C881/C881M hanya mengidentifikasi standar terkait bahan perekat untuk beton; halaman itu tidak membuktikan faktor pemilihan rinci atau kecocokan suatu produk ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)). Untuk retak yang diduga struktural, gunakan `[NEEDS ENGINEERING REVIEW: jenis dan pergerakan retak belum ditetapkan]` dan hentikan keputusan material sampai data tersedia.
 
-### Planned sibling articles
+## Kapan harus berhenti dan meminta peninjauan
 
-These are future routes. Do not link them as live until their HTML exists.
+Nah, Sobat Lantai.id, tanda berhenti bukan kegagalan pekerjaan; itu cara mencegah lapisan baru menyembunyikan masalah lama. Tahan pelapisan bila kelembapan belum memenuhi kriteria produk, sumber air belum dikendalikan, permukaan terus mengeluarkan debu atau minyak, hasil uji tidak konsisten antar-zona, atau retak menunjukkan pergerakan.
 
-- `EFL-04-02` → `/artikel/uji-kelembapan-sebelum-epoxy.html` — Moisture Testing sebelum Epoxy
-- `EFL-04-03` → `/artikel/kekuatan-permukaan-beton-epoxy.html` — Concrete Strength dan Surface Soundness
+Hentikan juga pekerjaan jika pembersihan menimbulkan debu tanpa pengendalian yang memadai, area masih digunakan orang lain tanpa pengaturan zona kerja, atau ventilasi dan housekeeping belum dinilai. Peraturan Menteri Ketenagakerjaan Nomor 5 Tahun 2018 mencakup faktor kimia, fisik, ergonomi, ventilasi, dan lingkungan kerja; halaman resmi tersebut menjadi rujukan status peraturan, bukan sumber untuk mengarang ambang atau resep APD ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Mintalah peninjauan teknis tertulis ketika temuan utama menyentuh struktur, sumber kelembapan, bahan kimia yang tidak diketahui, atau kompatibilitas sistem. Simpan semua penanda `[NEEDS ...]` sampai bukti dan pihak yang berwenang menutupnya.
 
-## Hasil akhir dan prasyarat
+## Verifikasi hasil dan serah terima data
 
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum area diserahkan untuk aplikasi, cocokkan peta zona dengan daftar bukti: foto sebelum dan sesudah persiapan, catatan kelembapan beserta metode, observasi kesatuan permukaan, hasil uji tarik bila dipakai, catatan kontaminasi, profil dan debu, daftar perbaikan, serta persetujuan sistem. Setiap catatan harus memiliki lokasi dan tanggal agar dapat ditelusuri.
 
-## Langkah 1 — tetapkan scope
+Kawan Lantai.id dapat memakai aturan sederhana: tidak ada status “siap” tanpa pemilik keputusan, kriteria pembanding, dan bukti yang menunjuk ke zona yang sama. Tandai item sebagai terbuka bila datanya belum lengkap; jangan mengubahnya menjadi “lulus” hanya karena jadwal pemasangan sudah dekat.
 
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika seluruh item memenuhi dokumen proyek, lakukan pemeriksaan pra-aplikasi terakhir setelah area bersih dan kering sesuai instruksi produk. Rekam siapa yang memeriksa dan apa yang berubah sejak pemeriksaan sebelumnya. Serah terima data bukan persetujuan performa jangka panjang; kondisi operasi dan perawatan setelah aplikasi tetap berada di luar checklist ini.
 
-## Langkah 2 — kumpulkan dan cocokkan bukti
+## Mengapa cara cepat “lihat, gerinda, lalu lapis” sering gagal
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Cara cepat ini terasa efisien karena mengurangi waktu pengujian. Masalahnya, tampilan dan tekstur baru menjawab sebagian kecil pertanyaan. Kelembapan dari bawah tetap dapat mendorong lapisan, kontaminan dapat tetap berada di pori, dan permukaan lemah dapat ikut terangkat saat menerima tarikan.
 
-## Langkah 3 — jalankan urutan kerja
+Alternatif yang lebih dapat dipertanggungjawabkan adalah membuat peta zona, memilih metode uji berdasarkan sistem yang akan dipasang, lalu menutup temuan satu per satu. Bila hasil awal mengarah pada masalah menyeluruh, jangan hanya menambal titik yang terlihat; cari penyebab dan minta keputusan teknis. Satu titik yang tampak bagus tidak boleh menjadi alasan mengabaikan titik yang berbeda. Untuk membandingkan pilihan permukaan yang tetap terlihat sebagai beton, Anda dapat membaca panduan [polished concrete](/epoxy/polished-concrete) sebagai langkah lanjutan, bukan pengganti assessment ini.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Kesimpulan: checklist untuk keputusan yang dapat ditelusuri
 
-## Hold point dan kondisi berhenti
+Checklist assessment concrete substrate yang berguna menghubungkan kondisi beton dengan keputusan: lanjut menguji, perbaiki, atau tahan pekerjaan. Periksa kelembapan, kesatuan permukaan, kontaminasi, profil, tepi, retak, sambungan, dan kesiapan area; catat metode, lokasi, serta kriteria yang dipakai.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Checklist Assessment Concrete Substrate”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Langkah berikutnya, minta lembar data sistem epoxy, denah zona, dan penanggung jawab persetujuan sebelum pengujian dimulai. Temuan yang menyentuh struktur, sumber air, atau bahan tak dikenal harus ditinjau ahli; bila Anda memerlukan peninjauan lapangan, rute [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta) dapat menjadi titik koordinasi awal. Sederhananya, jangan melapisi sesuatu yang belum bisa Anda jelaskan kondisinya—dan jangan menganggap checklist permukaan sebagai diagnosis struktur.

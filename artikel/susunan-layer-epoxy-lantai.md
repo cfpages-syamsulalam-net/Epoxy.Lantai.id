@@ -2,8 +2,9 @@
 article_id: EFL-03-02
 title: "Primer, Body Coat, Broadcast, dan Topcoat"
 slug: "susunan-layer-epoxy-lantai"
-description: "Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence"
-status: outline
+description: "Panduan menilai fungsi tiap lapisan epoxy, kecocokan material, pencampuran, dan bukti pengerasan sebelum lantai dipakai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-22"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,54 +17,19 @@ technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
   - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
   - "https://store.astm.org/standards/f2170"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Primer, Body Coat, Broadcast, dan Topcoat
 
-## Assignment lock
+Halo, Teman Lantai.id! Saat menerima penawaran epoxy, Anda mungkin mengira semakin banyak lapisan pasti semakin kuat. Padahal tiap lapisan punya pekerjaan berbeda: primer menyiapkan ikatan ke beton, body coat membentuk tubuh dan ketebalan, broadcast menaburkan agregat atau serpihan bila sistem memerlukannya, sedangkan topcoat melindungi permukaan yang dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Primer, Body Coat, Broadcast, dan Topcoat”
-- **Reader and situation:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Reader outcome:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Primary intent:** Memahami layer functions
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Compatibility wajib verified.
-- **Final public route:** `/artikel/susunan-layer-epoxy-lantai.html`
-- **Appointed CMS date:** `2025-08-22` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, nilai susunan berdasarkan kecocokan resin–pengeras, urutan aplikasi, kondisi beton, dan bukti bahwa setiap lapisan sudah cukup mengeras. Nama produk atau kilap permukaan bukan bukti kompatibilitas. Data teknis dan pemeriksaan proyeklah yang mengubah keputusan.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Primer, Body Coat, Broadcast, dan Topcoat**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,185 +40,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-### KR-01
+## Apa arti setiap lapisan epoxy?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Istilah dagang dapat berbeda, maka minta fungsi dan produk tiap lapisan ditulis jelas dalam dokumen sistem.
 
-### KR-02
+### Primer: jembatan ke beton
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Primer membasahi dan mengikat permukaan beton agar lapisan berikutnya memiliki dasar seragam. Ia bukan obat untuk beton lembap, berdebu, atau berminyak. ASTM F2170 membahas pengukuran kelembapan relatif di dalam beton, tetapi satu pembacaan tidak memetakan seluruh pelat (https://store.astm.org/standards/f2170). Tanyakan lokasi, waktu, dan kriteria pemeriksaannya sebelum primer disetujui.
 
-### KR-03
+### Body coat: pembentuk tubuh
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Body coat membawa sebagian besar volume sistem. Resin, pengeras, pigmen, bahan pengisi, agregat, dan kondisi pengerasan dapat mengubah perilaku terukur; ISO 18280 menjelaskan pentingnya komposisi dan persiapan spesimen (https://www.iso.org/standard/52877.html). Karena itu, minta lembar data material yang benar-benar dipakai, bukan brosur kategori umum.
 
-### KR-15
+### Broadcast: sebaran agregat
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Broadcast berarti menaburkan agregat, pasir khusus, atau serpihan pada lapisan yang masih berada dalam jendela aplikasi. Tekstur dan isi sistem bergantung pada jenis, jumlah, serta waktu sebaran. Istilah “broadcast penuh” tanpa catatan konsumsi dan material belum cukup untuk menjanjikan hasil; cocokkan dengan sampel serta instruksi produsen.
 
-### KR-08
+### Topcoat: pelindung permukaan
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Topcoat menerima gesekan, pembersihan, dan paparan sehari-hari. Lapisan mengilap tidak otomatis siap untuk bahan kimia atau lalu lintas berat. Waktu kerja, tidak lengket, boleh diinjak, dan siap layanan adalah tahapan berbeda; ISO 14322 menempatkan pengukuran pengerasan sebagai hal yang bergantung pada metode dan bahan (https://www.iso.org/standard/74606.html). Gunakan data produk dan pemeriksaan proyek, bukan tes sentuh saja.
 
-### KR-19
+## Bagaimana urutan lapisan bekerja?
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Mulai dari beton yang dibersihkan dan diprofilkan, aplikasikan primer sesuai petunjuk, lalu body coat. Bila desain memerlukan broadcast, sebarkan pada jendela yang ditentukan dan singkirkan material lepas sebelum topcoat. Catat waktu pencampuran, mulai aplikasi, kondisi lingkungan, dan status pemeriksaan setiap zona.
 
-### KR-18
+Resin dan pengeras harus berasal dari pasangan yang dinyatakan kompatibel. ISO 83331 membedakan binder dan aditif sebagai karakter bahan yang perlu diverifikasi (https://www.iso.org/standard/83331.html). Mengganti pengeras, primer, atau topcoat tanpa persetujuan tertulis mengubah sistem. Jika bukti belum ada, tandai **[NEEDS COMPATIBILITY REVIEW: kecocokan resin, pengeras, primer, body coat, broadcast, dan topcoat belum dibuktikan.]**
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Primer yang dibiarkan melewati jendela pelapisan ulang dapat memerlukan persiapan ulang. Body coat yang masih lunak bisa terangkat saat broadcast atau terperangkap di bawah topcoat. Nah, setiap antarmuka adalah titik keputusan, bukan sekadar langkah berikutnya.
 
-### KR-10
+## Faktor yang mengubah hasil di lapangan
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Beton yang tampak kering belum tentu memenuhi kondisi kelembapan. Uap, retak, lapisan lama, debu, minyak, dan bahan curing dapat menghalangi ikatan. Gelembung atau pengelupasan memiliki banyak kemungkinan penyebab; foto saja tidak cukup untuk diagnosis, sehingga pemeriksaan dan kadang pengujian destruktif diperlukan.
 
-### KR-05
+Suhu, kelembapan, dan aliran udara mengubah waktu kerja serta pengerasan. Pot life adalah masa campuran masih dapat diaplikasikan; lewat masa itu campuran bisa mengental meski belum tampak keras. Waktu buka lapisan berikutnya berbeda dari waktu siap layanan. Cocokkan data produk dengan kondisi aktual, lalu simpan catatannya.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Keselamatan pencampuran juga harus dinilai. Resin, pengeras, pelarut, dan produk reaksi dapat memiliki bahaya berbeda. CDC/NIOSH menegaskan bahwa bau bukan indikator paparan yang andal dan kecocokan sarung tangan bergantung pada bahan serta tugas (https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html). Ikuti lembar data keselamatan dan ventilasi yang ditetapkan untuk produk; jangan menyimpulkan area aman hanya karena baunya berkurang.
 
-## Evidence gates
+## Contoh keputusan saat memeriksa penawaran
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Dua penawaran sama-sama menulis “epoxy tiga lapis”. Penawaran pertama hanya menyebut primer, body coat, dan topcoat. Penawaran kedua merinci produk, urutan, broadcast, jendela pelapisan ulang, dan pemeriksaan kelembapan. Telaah penawaran kedua lebih dulu karena keputusannya dapat diaudit, bukan karena jumlah lapisannya.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-03-01` → `/artikel/bukti-resin-hardener-epoxy.html` — Resin dan Hardener: Evidence Apa yang Harus Diminta?
-- `EFL-03-03` → `/artikel/mixing-pot-life-epoxy.html` — Mixing Ratio, Induction, dan Pot Life
-- `EFL-03-04` → `/artikel/cure-recoat-window-epoxy.html` — Cure Time, Recoat Window, dan Full Service
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Gunakan pertanyaan ini: apa fungsi dan produk tiap lapisan; bukti kompatibilitasnya; bagaimana beton diperiksa; kapan campuran dibuat dan berapa pot life-nya; serta bukti curing apa yang dipakai selain sentuhan atau hitungan hari. Untuk area luas, cocokkan catatan batch dengan zona. Bila uji tarik adhesi disyaratkan, ASTM D7234 mengingatkan bahwa kegagalan dapat terjadi di perekat, lapisan, antarmuka, atau beton (https://store.astm.org/d7234-21.html); angka tanpa mode kegagalan tidak layak dibandingkan.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Primer, Body Coat, Broadcast, dan Topcoat”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Topcoat tidak dapat memperbaiki body coat yang tidak kompatibel. Hentikan aplikasi dan minta penilaian teknis bila dokumen produk berbeda atau permukaan tetap lunak. Jangan memakai satu angka waktu untuk semua cuaca; cocokkan lembar data dengan kondisi aktual sebelum membuka area.
 
-## Objection or shortcut to address
+Jangan menilai mutu hanya dari kilap dan warna. Kawan Lantai.id, jadikan daftar pemeriksaan, rekaman batch, dan hasil uji sebagai bukti utama. Mengganti produk karena stok habis juga memerlukan verifikasi baru; jika belum tersedia, beri tanda **[NEEDS MATERIAL REVIEW: produk pengganti dan dampaknya belum diverifikasi.]**
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: setujui fungsi dan buktinya
 
-## Required conclusion
+Primer, body coat, broadcast, dan topcoat adalah rangkaian fungsi—menyiapkan ikatan, membentuk tubuh, memberi sebaran bila dirancang, lalu melindungi permukaan. Setujui sistem hanya setelah kompatibilitas, kondisi beton, urutan, jendela pencampuran, dan bukti pengerasan dapat ditinjau.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Minta lembar susunan sistem yang memuat produk, urutan, batch, kondisi aplikasi, dan pemeriksaan penerimaan. Untuk konsultasi lokasi, Anda dapat menghubungi [kontraktor epoxy di Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau [layanan epoxy di Yahukimo](/kontraktor-epoxy-yahukimo.html); tautan itu bukan bukti bahwa sistem otomatis cocok. Aturan operasinya: jangan menambah lapisan sebelum lapisan sebelumnya, kondisi dasar, dan kompatibilitasnya memiliki bukti.

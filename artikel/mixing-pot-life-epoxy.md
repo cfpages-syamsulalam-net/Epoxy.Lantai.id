@@ -2,8 +2,9 @@
 article_id: EFL-03-03
 title: "Mixing Ratio, Induction, dan Pot Life"
 slug: "mixing-pot-life-epoxy"
-description: "Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence"
-status: outline
+description: "Panduan menilai rasio pencampuran, masa tunggu, dan waktu kerja epoxy dari instruksi produk serta bukti kondisi lapangan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-08-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,55 +16,85 @@ final_route: "/artikel/mixing-pot-life-epoxy.html"
 technical_review: required
 sources:
   - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
   - "https://store.astm.org/standards/f2170"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Mixing Ratio, Induction, dan Pot Life
 
-## Assignment lock
+Halo, Kawan Lantai.id! Saat resin dan hardener sudah dicampur, banyak orang langsung mengejar waktu aplikasi. Padahal keputusan pertama bukan “berapa menit sampai kering”, melainkan apakah rasio campur, masa tunggu setelah aduk, dan waktu kerja memang tertulis untuk produk serta kondisi yang sedang dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Mixing Ratio, Induction, dan Pot Life”
-- **Reader and situation:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Reader outcome:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Primary intent:** Menilai workability constraints
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Angka dari product instructions.
-- **Final public route:** `/artikel/mixing-pot-life-epoxy.html`
-- **Appointed CMS date:** `2025-08-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: ikuti rasio resin–hardener pada instruksi produk, jalankan masa tunggu (induction) hanya jika diwajibkan, lalu rencanakan volume agar seluruh campuran selesai digunakan sebelum pot life berakhir. Angka ini bukan jadwal universal; suhu, jumlah campuran, alat, substrat, dan sistem lapisan dapat mengubah hasil. Standar pengujian epoxy memisahkan formulasi, bahan pengisi, ketebalan film, substrat, dan kondisi pengujian, sehingga satu angka tidak boleh dipindahkan ke semua proyek ([ISO 18280](https://www.iso.org/standard/52877.html)).
 
-## Opening instructions
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mixing Ratio, Induction, dan Pot Life**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
+## Rasio pencampuran menentukan titik awal keputusan
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Bagian ini membedakan apa yang harus dibaca dari lembar instruksi dan bukti apa yang belum boleh diasumsikan.
+
+Rasio pencampuran adalah perbandingan komponen resin dan bahan pengeras (hardener) yang ditetapkan produsen, berdasarkan berat atau volume. Satuan itu tidak dapat ditukar begitu saja: angka 2:1 berdasarkan berat berbeda dari 2:1 berdasarkan volume karena massa jenis tiap komponen dapat berbeda. Catat basis pengukuran, toleransi alat ukur, dan ukuran satu batch sebelum menuang.
+
+Campuran yang tampak homogen belum membuktikan rasionya benar. Kekurangan hardener dapat menyisakan bagian lunak, sedangkan kelebihan tidak otomatis mempercepat pengerasan dan bisa mengganggu sifat lapisan. Karena formulasi dan bahan tambahan memengaruhi perilaku epoxy, bukti yang sah untuk rasio adalah instruksi produk dan catatan penimbangan batch, bukan perkiraan dari warna atau kekentalan ([ISO 18280](https://www.iso.org/standard/52877.html)).
+
+Sebelum mencampur, ajukan tiga pertanyaan: basisnya berat atau volume, berapa ukuran batch yang diizinkan, dan apakah komponen perlu dikondisikan pada suhu tertentu? Jika salah satunya tidak jelas, tahan aplikasi dan minta lembar data teknis. [NEEDS RASIO PRODUK: konfirmasi angka, basis ukur, dan toleransi dari instruksi produk yang berlaku.]
+
+## Induction adalah masa tunggu yang harus punya alasan
+
+Induction berarti masa tunggu terkontrol setelah dua komponen dicampur, bila instruksi produk memang mensyaratkannya. Tujuannya memberi waktu reaksi awal dan pembasahan berlangsung sebelum campuran dipakai; tahap ini bukan jeda yang boleh ditambah sesuka hati.
+
+Urutannya harus mengikuti dokumen: aduk dengan alat dan durasi yang ditentukan, diamkan selama masa tunggu tertulis, lalu aduk ulang atau aplikasikan sesuai petunjuk. Catat waktu mulai aduk dan akhir induction pada wadah. Bila instruksi tidak menyebut induction, jangan meminjam durasi dari merek lain; minta klarifikasi tertulis.
+
+Bukti reaksi silang (crosslinking) memerlukan metode dan spesimen terkendali, bukan sentuhan permukaan atau bau ([ISO 14322](https://www.iso.org/standard/74606.html)).
+
+## Pot life adalah batas waktu kerja campuran di wadah
+
+Pot life, atau masa pakai dalam wadah, adalah periode ketika campuran masih dapat diaplikasikan sesuai cara yang ditetapkan. Ini berbeda dari waktu bebas lengket, boleh diinjak, boleh dilapis ulang, atau siap menerima bahan kimia. Semua tonggak tersebut harus diambil dari instruksi produk.
+
+Reaksi kimia menghasilkan panas. Semakin besar volume campuran dalam satu wadah, semakin sulit panas keluar, sehingga viskositas dapat naik dan waktu kerja efektif menyusut. Suhu material, bentuk wadah, dan aliran udara ikut memengaruhi mekanisme ini. Membagi batch ke wadah dangkal hanya boleh dilakukan jika kompatibel dengan petunjuk produk.
+
+Dua batch dengan rasio sama dapat terasa berbeda ketika satu dibuat dalam massa besar dan satu lagi dalam massa kecil. Perbedaan rasa saat mengaduk bukan alat ukur resmi. Gunakan pencatat waktu, ukuran batch, suhu, dan observasi konsistensi sebagai rekaman kerja.
+
+## Faktor lapangan yang mengubah hasil
+
+Angka di lembar instruksi harus dibaca bersama kondisi yang benar-benar dilihat operator agar “pot life 30 menit” tidak diperlakukan sebagai janji mutlak.
+
+Suhu dan kelembapan memengaruhi kecepatan reaksi serta kondisi substrat. Kadar air beton perlu dibuktikan memakai metode dan kriteria proyek yang sesuai; permukaan tampak kering tidak memetakan seluruh slab. ASTM F2170 menjelaskan ruang lingkup pengukuran kelembapan relatif di tempat, tetapi batas penerimaan tetap mengikuti sistem dan spesifikasi yang berlaku ([ASTM F2170](https://store.astm.org/standards/f2170)).
+
+Primer, lapisan badan, dan lapisan penutup membawa kebutuhan waktu berbeda. Jangan meminjam pot life primer untuk topcoat, dan jangan menganggap permukaan tidak lengket berarti pengerasan penuh. Resin, hardener, pelarut, dan produk samping reaksi juga dapat memiliki bahaya berbeda; bau bukan indikator paparan yang andal. Pilih sarung tangan dan ventilasi berdasarkan informasi produk serta penilaian tugas ([CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html); [panduan paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
+
+Jika instruksi, kondisi ruang, atau rekaman batch bertentangan, tandai [NEEDS REVIEW: verifikasi suhu, kelembapan, ukuran batch, dan jendela kerja oleh penanggung jawab teknis.] Jangan memaksa pekerjaan demi jadwal.
+
+## Contoh keputusan praktis sebelum menuang
+
+Misalkan tim akan membuat lapisan badan dengan satu operator. Operator mencocokkan nama produk, rasio berbasis berat atau volume, ukuran batch maksimum, dan syarat induction. Ia menulis waktu mulai aduk serta batas akhir pot life pada wadah, lalu membagi luas bidang menjadi bagian yang realistis diselesaikan sebelum batas itu.
+
+Bila luas melebihi kemampuan satu batch, pilih batch lebih kecil atau tambah tenaga setelah disetujui instruksi produk. Jangan menambahkan pelarut, hardener, atau komponen lain untuk “menghidupkan kembali” campuran yang mulai mengental. Campuran yang melewati batas kerja dipisahkan dan ditangani sesuai prosedur limbah produk.
+
+Untuk konteks pengaturan pekerjaan lokal, lihat [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau [kontraktor epoxy Yahukimo](/kontraktor-epoxy-yahukimo.html). Tautan itu bukan bukti kecocokan sistem; kecocokan tetap diverifikasi pada dokumen proyek.
+
+## Kesalahan umum dan cara memeriksanya
+
+Mengukur “kira-kira” dengan gelas tidak terkalibrasi mengubah rasio. Gunakan alat sesuai basis ukur dan simpan catatan setiap komponen. Memulai pot life saat wadah dibuka juga keliru; ikuti definisi titik awal pada instruksi, biasanya terkait awal pencampuran.
+
+Kesalahan lain adalah menyamakan permukaan kering sentuh dengan cure penuh. Sobat Lantai.id, pemeriksaan visual hanya menjawab kondisi permukaan saat itu. Gunakan tonggak yang ditetapkan produsen, rekaman kondisi, dan pemeriksaan kompeten.
+
+Teman Lantai.id, jadikan catatan waktu dan batch sebagai bagian dari serah terima pekerjaan agar keputusan berikutnya dapat ditelusuri.
+
+## Jalan pintas yang sering dipilih
+
+Mencampur satu wadah besar terasa cepat, tetapi panas lebih sulit keluar dan waktu kerja dapat menyusut. Alternatif yang lebih dapat dipertanggungjawabkan adalah menghitung kapasitas aplikasi per batch, membagi campuran dalam ukuran yang diizinkan, dan menghentikan pekerjaan ketika bukti kondisi tidak memenuhi instruksi.
+
+## Kesimpulan: putuskan dari tiga bukti
+
+Mixing ratio menetapkan komposisi, induction—bila diwajibkan—menetapkan urutan tunggu, dan pot life menetapkan batas penggunaan campuran di wadah. Ketiganya bermakna hanya bersama instruksi produk, kondisi lapangan, dan catatan batch yang dapat diperiksa.
+
+Sebelum mulai, minta dokumen yang menyatakan basis rasio, syarat induction, definisi pot life, rentang kondisi, serta tonggak cure berikutnya. Cocokkan dengan suhu, kelembapan, ukuran batch, dan kapasitas tenaga. Jika satu bukti utama hilang, pasang penanda [NEEDS TECHNICAL REVIEW] dan tunda keputusan. Aturan operasionalnya: campur sesuai dokumen, catat waktunya, gunakan sebelum batas kerja, dan jangan mengubah formula untuk mengejar jadwal.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,186 +105,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-19
-
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-10
-
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-03-01` → `/artikel/bukti-resin-hardener-epoxy.html` — Resin dan Hardener: Evidence Apa yang Harus Diminta?
-- `EFL-03-02` → `/artikel/susunan-layer-epoxy-lantai.html` — Primer, Body Coat, Broadcast, dan Topcoat
-- `EFL-03-04` → `/artikel/cure-recoat-window-epoxy.html` — Cure Time, Recoat Window, dan Full Service
-- `EFL-03-05` → `/artikel/epoxy-vs-polyurethane-coating.html` — Epoxy vs Polyurethane Chemistry
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mixing Ratio, Induction, dan Pot Life”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
