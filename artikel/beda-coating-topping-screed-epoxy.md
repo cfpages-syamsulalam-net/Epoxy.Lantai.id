@@ -2,8 +2,9 @@
 article_id: EFL-01-03
 title: "Epoxy Coating, Topping, Screed, dan Paint"
 slug: "beda-coating-topping-screed-epoxy"
-description: "Memahami terminology, layers, functions, dan system boundaries"
-status: outline
+description: "Panduan membedakan lapisan, fungsi, dan batas sistem epoxy agar pilihan material tidak tertukar."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-07-10"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,54 +20,18 @@ sources:
   - "https://www.iso.org/standard/59248.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.iso.org/standard/64834.html"
   - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy Coating, Topping, Screed, dan Paint
 
-## Assignment lock
+Halo, Sobat Lantai.id! Saat menerima penawaran lantai epoxy, Anda mungkin melihat istilah coating, topping, screed, dan paint dipakai bergantian. Padahal istilah itu menunjuk susunan lapisan dan pekerjaan yang berbeda. Jika tertukar, keputusan material bisa tidak cocok dengan kondisi lantai atau cara ruang dipakai.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Coating, Topping, Screed, dan Paint”
-- **Reader and situation:** Memahami terminology, layers, functions, dan system boundaries
-- **Reader outcome:** Memahami terminology, layers, functions, dan system boundaries
-- **Primary intent:** Membedakan system build-up
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Classification; bukan thickness recommendation.
-- **Final public route:** `/artikel/beda-coating-topping-screed-epoxy.html`
-- **Appointed CMS date:** `2025-07-10` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: coating biasanya lapisan tipis pelindung di atas beton; topping adalah lapisan tambahan yang membentuk permukaan baru; screed merupakan lapisan perata atau pembentuk kemiringan yang menjadi dasar; sedangkan paint adalah cat pelapis dengan tujuan dekoratif atau perlindungan ringan. “Epoxy” sendiri menyebut keluarga resin dan sistem pengeras, bukan otomatis ketebalan atau fungsi tertentu. Pilihan akhirnya bergantung pada kondisi substrat, beban, paparan, dan sistem produk yang disetujui—bukan pada nama dagang saja.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Coating, Topping, Screed, dan Paint**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -77,186 +42,60 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy PU Coating` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy PU Coating](/wp-content/uploads/2025/07/Epoxy-PU-Coating.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Empat istilah, empat peran dalam susunan lantai
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bagian ini memetakan arti praktis setiap istilah supaya Anda dapat membaca penawaran tanpa menganggap semua lapisan bekerja dengan cara sama.
 
-### KR-02
+### Coating: pelindung yang mengikuti permukaan dasar
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Coating (pelapis) adalah lapisan resin yang menutup permukaan beton yang sudah disiapkan. Ia mengikuti bentuk dasar dan menambah perlindungan terhadap lalu lintas atau bahan tertentu sesuai data produk. Karena tetap bergantung pada beton di bawahnya, retak, lembap, atau kotoran pada substrat dapat memengaruhi hasil. Tanyakan apa persiapan permukaan dan kondisi kelembapan yang disyaratkan sebelum menyamakan coating dengan perbaikan lantai.
 
-### KR-15
+### Topping: membangun lapisan permukaan baru
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Topping (lapisan tambahan) menambah material di atas lantai dasar untuk membentuk permukaan baru dengan fungsi tertentu. Epoxy topping dapat berisi agregat atau pengisi, sehingga perilakunya tidak sama dengan film coating. Resin, pengeras, pigmen, pengisi, agregat, dan cara pengerasan memengaruhi sifat yang diukur. Tiga halaman ISO yang ditautkan di sini membantu mengenali standar dan ruang lingkupnya, tetapi bukan bukti langsung tentang formulasi atau kinerja topping tertentu ([ISO 18280](https://www.iso.org/standard/52877.html), [ISO 7142](https://www.iso.org/standard/83331.html), [ISO 3673-2](https://www.iso.org/standard/59248.html)). Jadi, jangan memilih topping hanya dari kata “epoxy”.
 
-### KR-14
+### Screed: dasar perata atau pembentuk kemiringan
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Screed (lapisan perata) dipakai untuk meratakan, mengatur elevasi, atau membentuk kemiringan sebelum lapisan akhir. Screed bisa berbasis semen atau resin, dan tidak selalu berfungsi sebagai lapisan tahan kimia. Pertanyaan kuncinya adalah: apakah lapisan ini menjadi bagian struktur permukaan yang menanggung lalu lintas, atau hanya menyiapkan bidang untuk coating berikutnya? Jawaban itu menentukan pemeriksaan sambungan, kelembapan, dan kompatibilitas antar lapisan.
 
-### KR-03
+### Paint: cat pelapis dengan tuntutan yang lebih spesifik
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Paint (cat) membentuk film untuk warna dan perlindungan sesuai sistem catnya. Cat lantai dapat memakai resin epoxy, tetapi label cat tidak menjamin ia setara dengan topping atau screed. Untuk membandingkan dua produk, lihat lembar data: substrat yang diizinkan, jumlah komponen, waktu kerja, jendela pelapisan ulang, dan kondisi pengerasan. Standar bahan pengikat dan spesimen menunjukkan bahwa “epoxy” mencakup berbagai formulasi, bukan satu produk seragam.
 
-### KR-11
+## Cara kerja sistem dari beton sampai lapisan akhir
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Setelah istilahnya jelas, sekarang lihat hubungan sebab-akibatnya. Lantai bekerja sebagai sistem berlapis: kondisi beton memengaruhi lapisan dasar, lapisan dasar memengaruhi lapisan berikutnya, dan semua harus cocok dengan paparan ruang.
 
-### KR-08
+Pertama, permukaan dibersihkan dan diprofilkan agar lapisan dapat menempel. Berikutnya, primer atau lapisan pengikat mengisi pori dan membantu membentuk antarmuka. Coating, topping, atau screed kemudian diletakkan sesuai fungsi masing-masing, lalu topcoat (lapisan paling atas) memberi warna, tekstur, atau perlindungan tambahan. Setiap tahap memiliki waktu kerja dan waktu pengerasan berbeda; permukaan yang terasa kering belum tentu siap menerima beban penuh.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Adhesi (daya lekat) juga bukan satu angka yang berlaku untuk semua lantai. Halaman katalog ASTM D7234 mengidentifikasi metode tarik-lepas yang bersifat merusak; rincian mode kegagalan dan cara menafsirkan hasilnya harus mengikuti dokumen metode lengkap serta kondisi pengujian yang dicatat ([ASTM D7234](https://store.astm.org/d7234-21.html)). Karena itu, hasil uji harus dibaca bersama jenis alat, lokasi, mode kegagalan, dan persyaratan proyek; jangan membandingkan angka dari sistem berbeda seolah-olah setara.
 
-### KR-09
+## Faktor yang mengubah pilihan lapisan
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+Nama lapisan baru bermakna setelah kondisi pemakaian dipetakan. Cat di ruang kering dengan lalu lintas ringan menghadapi tuntutan berbeda dari area yang terkena air, bahan kimia, roda, atau pembersihan berulang.
 
-### KR-10
+Catat kondisi substrat: apakah beton masih mengeluarkan uap air, memiliki retak bergerak, atau perlu perataan. Lalu catat paparan: air atau perendaman, bahan kimia, sinar ultraviolet, perubahan suhu, benturan, abrasi, dan jadwal penghentian operasi. ISO 12944 membagi lingkungan dan sistem pelindung terutama untuk korosi baja; kategorinya tidak boleh dipindahkan menjadi persyaratan lantai tanpa adopsi proyek yang jelas ([ISO 12944-2](https://www.iso.org/standard/64834.html), [ISO 12944-5](https://www.iso.org/standard/77795.html)).
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Perhatikan juga sambungan dan pergerakan. Lapisan kaku di atas sambungan yang bergerak dapat retak meskipun bahan terlihat kuat. Mintalah detail bagaimana sambungan diperlakukan, produk apa yang kompatibel, dan siapa yang berwenang menyetujui perubahan. Data tersebut lebih berguna daripada janji umum seperti “tahan segala kondisi”.
 
-## Evidence gates
+## Contoh keputusan praktis tanpa menebak ketebalan
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Bayangkan dua ruang. Ruang pertama adalah koridor kantor yang kering, dengan beton relatif rata dan kebutuhan utama berupa warna serta kemudahan dibersihkan. Sistem paint atau coating mungkin cukup, tetapi tetap perlu memeriksa persiapan substrat dan petunjuk produk. Ruang kedua adalah area produksi yang sering terkena cairan dan roda. Di sini, pertanyaan tentang topping atau screed, sambungan, paparan kimia, dan waktu pengerasan menjadi lebih penting daripada memilih warna.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Gunakan urutan tanya berikut saat membandingkan penawaran: lapisan ini meratakan atau hanya menutup; lapisan di bawahnya apa; paparan utama apa; bagaimana kelembapan dan retak diperiksa; kapan area boleh dilalui; dan dokumen produk mana yang menjadi dasar keputusan. Jika jawaban berubah setelah data proyek lengkap, itu hal wajar—klasifikasi awal bukan rekomendasi ketebalan.
 
-## Internal-link plan
+## Kesalahan umum yang perlu diperiksa
 
-### Existing local routes
+Kesalahan pertama adalah menganggap semua produk berlabel epoxy setara. Periksa komponen, pengisi, agregat, kondisi pengerasan, dan fungsi yang dinyatakan produsen. Kesalahan kedua adalah menilai keamanan dari bau. Panduan CDC/NIOSH mengingatkan bahwa resin, pengeras, pelarut, pigmen, dan produk pembersih dapat memiliki bahaya berbeda; bau bukan indikator paparan yang andal, sedangkan kecocokan sarung tangan dan ventilasi bergantung pada produk serta tugas ([CDC/NIOSH epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Ikuti lembar data keselamatan dan penilaian kompeten setempat, bukan asumsi umum.
 
-- `/epoxy/pu-coating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan ketiga adalah memakai angka uji laboratorium sebagai janji umur lantai. Abrasi, bahan kimia, suhu, cara pembersihan, dan kriteria penilaian dapat mengubah arti hasil. Minta metode uji dan batas penerapannya sebelum membuat klaim. Jika proyek memiliki tuntutan struktural, kebersihan khusus, atau keselamatan akses, tandai untuk persetujuan teknis: [NEEDS REVIEW: keputusan sistem akhir, kompatibilitas, dan persyaratan proyek harus dikonfirmasi dari data lapangan, dokumen produk, serta tenaga kompeten].
 
-### Planned sibling articles
+Untuk langkah berikutnya, buat tabel sederhana yang memisahkan fungsi setiap lapisan, kondisi dasar, paparan, dan bukti yang tersedia. Bawa tabel itu saat berdiskusi dengan aplikator atau gunakan panduan [sistem PU coating](/epoxy/pu-coating) untuk memahami pilihan pelapis yang tersedia. Jika Anda membutuhkan pemeriksaan lapangan dan penentuan sistem, hubungi [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) dengan membawa data tersebut.
 
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-01-01` → `/artikel/anatomi-sistem-epoxy-flooring.html` — Apa Itu Sistem Epoxy Flooring?
-- `EFL-01-02` → `/artikel/kamus-istilah-epoxy-lantai.html` — Kamus Istilah Epoxy Lantai
-- `EFL-01-04` → `/artikel/komponen-sistem-lantai-epoxy.html` — Komponen Sistem dari Substrate hingga Topcoat
-- `EFL-01-05` → `/artikel/siklus-proyek-epoxy-lantai.html` — Siklus Project Epoxy dari Survey hingga Recoat
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Coating, Topping, Screed, dan Paint”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, coating, topping, screed, dan paint adalah peran berbeda dalam susunan lantai; epoxy hanyalah salah satu keluarga bahan. Sobat Lantai.id, putuskan klasifikasinya terlebih dahulu, lalu minta bukti produk dan kondisi proyek sebelum membahas detail pelaksanaan. Artikel ini tidak menetapkan ketebalan atau menggantikan persetujuan teknis untuk proyek tertentu.
