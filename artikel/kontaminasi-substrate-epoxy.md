@@ -3,7 +3,8 @@ article_id: EFL-04-04
 title: "Oil, Dust, Curing Compound, dan Contamination"
 slug: "kontaminasi-substrate-epoxy"
 description: "Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-27"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -19,50 +20,24 @@ sources:
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Oil, Dust, Curing Compound, dan Contamination
 
-## Assignment lock
+Halo, Teman Lantai.id! Lantai beton yang tampak kering dan bersih belum otomatis siap menerima epoxy. Minyak dapat meresap, debu dapat menjadi lapisan pemisah, dan cairan perawat beton (curing compound) dapat menutup pori yang diperlukan untuk ikatan. Keputusan awalnya bukan memilih mesin pembersih, melainkan memastikan apa yang menghalangi ikatan dan bukti apa yang akan memastikannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Oil, Dust, Curing Compound, dan Contamination”
-- **Reader and situation:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Reader outcome:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Primary intent:** Mengidentifikasi bond inhibitors
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Cleaning method bukan universal.
-- **Final public route:** `/artikel/kontaminasi-substrate-epoxy.html`
-- **Appointed CMS date:** `2025-09-27` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jika sumber kontaminasi, kelembapan, lapisan lemah, dan profil permukaan belum dipetakan, menambah lapisan epoxy hanya memindahkan masalah ke bawah lapisan baru. Jawaban amannya: identifikasi kondisi, hilangkan penghalang dengan metode yang sesuai, lalu verifikasi; jangan menganggap satu cara pembersihan berlaku untuk semua lantai. Hasil pengukuran kelembapan, kondisi beton, jenis kontaminan, dan persyaratan produk dapat mengubah keputusan.
 
-## Opening instructions
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Oil, Dust, Curing Compound, dan Contamination**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,186 +48,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa yang dimaksud kontaminasi pada substrate epoxy?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Bagian ini membantu Anda membedakan kotoran yang terlihat dari penghalang ikatan yang tidak terlihat, sehingga pemeriksaan tidak berhenti pada sapu dan pel.
 
-### KR-01
+Kontaminasi adalah bahan atau kondisi pada permukaan beton yang mengganggu kontak dan pengerasan sistem epoxy. Oil berarti minyak atau lemak yang menembus pori. Dust berarti debu lepas dari penggerindaan atau lapisan rapuh. Curing compound adalah bahan perawat beton yang sengaja membentuk film agar air tidak cepat hilang; film itu bisa menjadi penghalang bagi pelapis berikutnya. Cat lama, sisa perekat, garam, dan air yang terus bergerak juga termasuk hal yang perlu dicurigai.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bedakan “permukaan bersih” dari “permukaan siap ikat”. Permukaan bisa tampak mengilap setelah dipel, tetapi minyak masih berada di dalam pori. Sebaliknya, permukaan berdebu mungkin tidak berminyak, namun lapisan debu membuat epoxy menempel pada partikel lepas, bukan pada beton yang kuat. Panduan persiapan ICRI menempatkan pembersihan, penghilangan kontaminan, penghilangan lapisan lemah, pemeriksaan soundness, profil, tepi, retak, dan pengendalian debu sebagai pekerjaan yang saling terkait tetapi tetap terpisah ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)).
 
-### KR-05
+Batas artikel ini penting: metode pembersihan bukan resep universal. Artikel ini tidak menetapkan angka profil, ambang kelembapan, bahan kimia pembersih, atau keputusan perbaikan struktural. Untuk retak yang berperan struktural, pemilihan bahan, geometri, pergerakan, dan inspeksi harus dinilai dengan dokumen proyek serta tenaga kompeten; standar epoxy pengikat beton sendiri membedakan penggunaan dan persyaratan sistem ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)).
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+## Bagaimana penghalang ikatan menyebabkan epoxy gagal?
 
-### KR-06
+Memahami urutan sebab-akibat membuat Anda tahu pemeriksaan mana yang perlu dilakukan sebelum memesan pekerjaan.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Epoxy membutuhkan permukaan yang cukup bersih, cukup kuat, dan sesuai persyaratan sistem. Minyak mengurangi pembasahan: resin tidak menyebar merata ke pori, sehingga ada bagian yang hanya menempel tipis. Debu dan laitance (lapisan semen rapuh) bertindak seperti selimut; ketika beban atau penyusutan bekerja, selimut itu terlepas bersama coating. Curing compound dapat mengurangi kontak mekanis karena pori tertutup film.
 
-### KR-08
+Kelembapan menambah jalur masalah. Beton dapat terlihat kering di atas, sementara uap air bergerak dari dalam slab. Metode ASTM F2170 menekankan bahwa sumber dan jalur kelembapan, konstruksi slab, penghalang uap, kondisi pengeringan, penempatan sensor, waktu kesetimbangan, serta kondisi lingkungan memengaruhi pembacaan ([ASTM F2170](https://store.astm.org/standards/f2170); [rujukan komite ASTM](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf)). Satu titik pembacaan tidak memetakan seluruh lantai dan tidak menjamin perilaku di kemudian hari.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Gejala yang sama dapat mempunyai sebab berbeda. Lepas atau melepuh mungkin berasal dari kontaminasi, uap air, beton rapuh, atau kombinasi. Karena itu, pengelupasan setempat lalu ditambal tanpa mencari pola dapat menyembunyikan masalah sistemik. Teman Lantai.id, foto permukaan berguna untuk mencatat lokasi, tetapi tidak cukup untuk menyimpulkan sumber kelembapan, serangan kimia, atau cacat produk.
 
-### KR-18
+## Pemeriksaan lapangan yang mengubah keputusan
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Gunakan urutan ini untuk mengubah dugaan menjadi keputusan yang bisa dipertanggungjawabkan, bukan sekadar memilih alat yang paling mudah ditemukan.
 
-### KR-14
+Mulai dengan peta kondisi: tandai area berminyak, perubahan warna, lapisan mengilap, debu berlebih, retak, genangan, dan tempat yang pernah ditambal. Tanyakan riwayat penggunaan ruang, tumpahan, curing compound, pencucian, dan perbaikan. Catatan ini membantu membedakan kontaminasi lokal dari pola seluruh slab.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Lakukan pemeriksaan sederhana yang aman sesuai rencana kerja: usap untuk melihat debu lepas, amati apakah air membasahi permukaan secara seragam, dan buka area uji kecil untuk melihat apakah film atau lapisan lama masih ada. Hasil ini adalah indikasi, bukan pengganti pengujian proyek. Jika ada kecurigaan minyak meresap, pembersihan permukaan saja belum membuktikan pori sudah bebas.
 
-### KR-13
+Pisahkan empat pertanyaan: apakah beton cukup kuat, apakah ada air yang bergerak, apakah ada penghalang ikatan, dan profil permukaan apa yang diminta sistem. ICRI menekankan pemilihan persiapan berdasarkan substrate, coating, kondisi lokasi, profil, dan kendali mutu; bukan berdasarkan satu mesin favorit ([pengantar ICRI](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Setelah persiapan, verifikasi area uji sebelum melanjutkan seluruh lantai. Uji tarik lekat ASTM D7234 dapat membantu menilai sistem pada beton, tetapi kegagalannya bisa terjadi pada lem, lapisan coating, antarmuka, atau beton. Uji ini bersifat merusak dan meninggalkan titik perbaikan; angka tanpa mode kegagalan dan kondisi pengujian tidak lengkap ([ASTM D7234](https://store.astm.org/d7234-21.html)).
 
-### KR-07
+## Contoh keputusan praktis berdasarkan temuan
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Skenario berikut menunjukkan cara berpikir bersyarat. Temuan aktual tetap harus dicatat dan disetujui sesuai kriteria produk serta proyek.
 
-### KR-16
+Jika hanya ada debu lepas dan beton di bawahnya sound, kendalikan debu, bersihkan, lalu verifikasi kebersihan dan profil. Jika ada lapisan mengilap yang diduga curing compound, jangan langsung melapisinya; lakukan area uji untuk memastikan metode penghilangan tidak meninggalkan film baru.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
+Jika lantai menunjukkan noda minyak yang dalam, hentikan asumsi bahwa degreaser sekali pakai sudah cukup. Tetapkan batas area, pilih metode penghilangan yang tidak menyebarkan kontaminan, dan minta bukti bahwa permukaan memenuhi persyaratan sistem. Bila minyak terus muncul, sumbernya perlu dihentikan sebelum pelapisan.
 
-## Evidence gates
+Jika pembacaan kelembapan tidak konsisten atau kondisi ruang berubah, perluas pemetaan dan cocokkan metode dengan persyaratan produk. Jangan mengubah satu angka menjadi jaminan bahwa seluruh lantai aman. Sobat Lantai.id, keputusan “lanjut atau tahan” sebaiknya ditulis bersama lokasi, metode, hasil, dan siapa yang menyetujui.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-04-02` → `/artikel/uji-kelembapan-sebelum-epoxy.html` — Moisture Testing sebelum Epoxy
-- `EFL-04-03` → `/artikel/kekuatan-permukaan-beton-epoxy.html` — Concrete Strength dan Surface Soundness
-- `EFL-04-05` → `/artikel/profil-permukaan-epoxy.html` — Grinding, Shot Blasting, dan Surface Profile
-- `EFL-04-06` → `/artikel/perbaikan-substrate-sebelum-epoxy.html` — Repair Spalls dan Defects sebelum Coating
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk retak, spalling, atau beton rapuh, tentukan dulu apakah masalahnya kosmetik atau berkaitan dengan fungsi struktur. Jangan memilih injeksi, angkur, atau pengisi hanya karena sama-sama berbasis epoxy; desain dan pelaksanaan perbaikan memiliki pertimbangan tersendiri ([ISO 16311-3](https://www.iso.org/standard/79787.html); [ISO 16311-4](https://www.iso.org/standard/79788.html)).
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Oil, Dust, Curing Compound, dan Contamination”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap hasil “sudah dipel” sebagai bukti bebas minyak. Periksa kembali area tepi, sambungan, dan titik tumpahan; dokumentasikan metode dan hasil area uji sebelum menyatakan siap.
 
-## Objection or shortcut to address
+Kesalahan kedua adalah memilih dry grinding tanpa rencana pengendalian debu. Debu silika dapat bergantung pada material, tugas, peralatan, penutup, durasi, perawatan, dan pembersihan; lembar fakta OSHA menekankan pentingnya kontrol rekayasa dan housekeeping ([OSHA floor-grinder fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)). Ketentuan Indonesia tentang lingkungan kerja juga perlu dinilai berdasarkan kondisi tempat kerja aktual, bukan disimpulkan dari halaman metadata peraturan ([Permenaker No. 5 Tahun 2018](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)).
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Kesalahan ketiga adalah menambal titik gagal lalu menganggap masalah selesai. Bandingkan lokasi gagal dengan peta kontaminasi dan kelembapan. Jika pola berulang, lakukan pemeriksaan penyebab sebelum memperluas pelapisan.
 
-## Required conclusion
+## Jalan pintas yang tampak hemat tetapi berisiko
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang sering menggoda adalah “amplas cepat, vacuum, lalu epoxy hari ini”. Cara ini mungkin menghemat waktu saat kondisi memang ringan, tetapi gagal ketika minyak, curing compound, atau lapisan rapuh berada di bawah permukaan. Mekanismenya sederhana: alat mengubah tekstur atas, sementara penghalang tetap berada di pori atau lapisan bawah.
 
-## Draft completion checklist
+Alternatif yang lebih andal adalah membuat area uji kecil, mencatat temuan, menetapkan kriteria berhenti, dan meminta persetujuan teknis sebelum mengulang metode ke seluruh lantai. Jika bukti belum menjawab sumber kelembapan atau kekuatan beton, tandai [NEEDS PROJECT EVIDENCE: sumber kontaminasi, hasil uji kelembapan, dan kriteria kesiapan epoxy belum tersedia] daripada mengisi kekosongan dengan asumsi.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: putuskan berdasarkan bukti, bukan tampilan
+
+Oil, dust, curing compound, dan kontaminasi lain adalah penghalang ikatan yang harus diidentifikasi sebelum memilih pembersihan atau melapisi epoxy. Periksa kondisi beton, kelembapan, kekuatan, kontaminasi, profil, serta kebutuhan perbaikan sebagai pertanyaan terpisah yang saling memengaruhi.
+
+Teman Lantai.id, minta catatan area uji, metode pembersihan, hasil pemetaan kelembapan, dan kriteria penerimaan dari pihak yang bertanggung jawab. Bila bukti belum cukup, tahan pekerjaan pada area tersebut dan lakukan tinjauan kompeten. Aturan operasionalnya: jangan menyatakan substrate siap hanya karena terlihat bersih; nyatakan siap setelah penghalang yang relevan teridentifikasi, ditangani, dan diverifikasi.
+
+Untuk langkah berikutnya, Anda dapat menghubungi [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) guna membahas area uji dan kebutuhan pemeriksaan di lokasi.
+
+Jika proyek berada di Papua, [konsultasi kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html) dapat menjadi titik awal untuk menyamakan data lapangan dan kriteria penerimaan.

@@ -2,8 +2,9 @@
 article_id: EFL-04-05
 title: "Grinding, Shot Blasting, dan Surface Profile"
 slug: "profil-permukaan-epoxy"
-description: "Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs"
-status: outline
+description: "Panduan memilih grinding atau shot blasting setelah memeriksa kondisi, kelembapan, kontaminasi, dan profil permukaan beton."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,54 +16,20 @@ final_route: "/artikel/profil-permukaan-epoxy.html"
 technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf"
-  - "https://www.osha.gov/silica-crystalline"
   - "https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018"
-  - "https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Grinding, Shot Blasting, dan Surface Profile
 
-## Assignment lock
+Halo, Teman Lantai.id! Lantai beton yang tampak kering dan bersih belum otomatis siap menerima epoxy. Kegagalan sering dimulai dari keputusan memakai mesin yang paling cepat tanpa memeriksa lapisan lemah, kelembapan, minyak, atau profil yang diminta sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Grinding, Shot Blasting, dan Surface Profile”
-- **Reader and situation:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Reader outcome:** Mengidentifikasi concrete condition, moisture, strength, contamination, profile, dan repair needs
-- **Primary intent:** Membandingkan preparation methods
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Profile target dari system spec.
-- **Final public route:** `/artikel/profil-permukaan-epoxy.html`
-- **Appointed CMS date:** `2025-10-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih grinding atau shot blasting berdasarkan kondisi beton dan profil target pada spesifikasi sistem, bukan nama alat. Grinding cocok untuk pengikisan terkendali, tepi, dan area sempit; shot blasting lebih efektif membuka permukaan merata di area luas. Keduanya hanya tahap persiapan. Kelembapan, kekuatan, kontaminasi, retak, dan kebutuhan perbaikan tetap harus diperiksa lebih dulu. Jika data proyek atau batas produk belum jelas, tahan keputusan untuk bukti lapangan dan telaah kompeten.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Grinding, Shot Blasting, dan Surface Profile**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,185 +40,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-### KR-01
+## Apa yang diubah oleh grinding dan shot blasting?
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Jangan menyamakan “permukaan kasar” dengan beton sehat. Profil permukaan adalah tekstur dan kedalaman kekasaran yang menjadi bidang cengkeram epoxy. ICRI menempatkan pembersihan, penghilangan kontaminan dan lapisan lemah, pemeriksaan kesoundan, pembentukan profil, serta pemeriksaan retak dan tepi sebagai tugas berbeda ([panduan ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-### KR-05
+Grinding memakai cakram abrasif untuk mengikis tonjolan, laitance, cat lama, atau bagian yang perlu dikendalikan. Tekanan dan lintasan dapat diatur, sehingga alat ini berguna di sudut dan sekitar kolom. Hasil dipengaruhi cakram, kecepatan, tekanan, dan pengendalian debu; gerakan tak konsisten bisa meninggalkan bekas atau gelombang.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Shot blasting menembakkan media logam kecil ke beton lalu menarik kembali media dan debu dengan vakum. Tumbukan berulang membuka permukaan relatif seragam di lantai luas. Mesin ini tidak menyelesaikan minyak yang meresap, beton rapuh, sambungan bergerak, atau beda elevasi; tepi dan sudut biasanya memerlukan alat lain.
 
-### KR-06
+Jadi, lebih kasar bukan selalu lebih baik. Profil harus cocok dengan ketebalan dan cara aplikasi sistem epoxy. Nomor profil tidak boleh ditebak dari foto; gunakan dokumen sistem, area uji, dan persetujuan proyek. Kawan Lantai.id, bila spesifikasi hanya berkata “permukaan dipersiapkan” tanpa target yang dapat diverifikasi, minta klarifikasi sebelum pekerjaan massal.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+## Pemeriksaan sebelum memilih mesin
 
-### KR-08
+Mulai dengan memetakan bagian berongga, mengelupas, retak, tambalan, sambungan, dan perubahan warna. Lakukan pemeriksaan kesoundan sesuai prosedur; jangan menganggap satu ruangan memiliki kondisi seragam.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Periksa kelembapan dari sumber dan jalurnya, bukan hanya rasa kering. ASTM F2170 menjelaskan bahwa penempatan sensor, konstruksi pelat, penghalang uap, pengeringan, dan kondisi udara memengaruhi pembacaan ([ruang lingkup ASTM F2170](https://store.astm.org/standards/f2170)). Satu titik tidak memetakan seluruh slab. Ikuti metode penuh dan batas produk; jangan mencampur angka dari metode berbeda.
 
-### KR-18
+Cari minyak, curing compound, debu halus, atau bahan kimia. Grinding ringan mungkin hanya memoles permukaan terkontaminasi; shot blasting pun tidak otomatis mengeluarkan minyak dari pori. Rencanakan pembersihan atau perbaikan berdasarkan bukti.
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Tentukan profil target dan cara verifikasinya melalui area uji kecil dengan mesin, media, dan kecepatan yang akan dipakai. Bandingkan tekstur, kebersihan, debu tersisa, dan kondisi tepi dengan persyaratan sistem. Simpan lokasi, parameter, foto, dan persetujuan.
 
-### KR-14
+## Membandingkan metode di lapangan
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Gunakan grinding ketika pengikisan harus presisi, area sempit, atau tonjolan lokal perlu diratakan. Gunakan shot blasting ketika bidang terbuka luas membutuhkan profil seragam dan pengumpulan media dapat dijaga. Kombinasi sering paling masuk akal: shot blasting untuk bidang utama, grinding untuk perimeter dan detail.
 
-### KR-13
+Jangan menjadikan kecepatan satu-satunya ukuran. Grinding terlalu agresif dapat membuka agregat atau membuat cekungan; shot blasting yang tidak sesuai dapat meninggalkan profil terlalu dalam atau tidak merata. Nilai hasil dari permukaan yang siap, bukan luas yang dilewati mesin.
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Pertimbangkan debu, kebisingan, ventilasi, dan area yang dihuni. OSHA menyebut paparan debu dipengaruhi material, tugas, peralatan, pengungkung, durasi, perawatan, dan pembersihan, termasuk debu yang mengering ([OSHA floor-grinder fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf)). Di Indonesia, pengendalian perlu disesuaikan dengan penilaian lingkungan kerja dan kerangka Permenaker No. 5 Tahun 2018 ([JDIH Kemnaker](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018)); artikel ini tidak menetapkan batas paparan atau resep alat pelindung.
 
-### KR-07
+## Faktor yang mengubah hasil akhir
 
-- **Original sources:** [OSHA floor-grinder silica control fact sheet](https://www.osha.gov/sites/default/files/publications/OSHA3932.pdf), [OSHA crystalline-silica overview](https://www.osha.gov/silica-crystalline).
-- **Purpose for this article:** Prevent surface-preparation articles from presenting dry grinding, dust cleanup, or PPE as casual DIY detail.
-- **Safe grounded facts:** Dust generation depends on material, task, equipment, enclosure, duration, controls, maintenance, and cleanup. Dried slurry/dust can create secondary exposure.
-- **Limits:** Do not import US exposure limits or equipment prescriptions as Indonesian compliance.
+Profil tepat tidak memperbaiki beton lemah. Perbaikan spall, retak, atau rongga harus dipilih berdasarkan penyebab, pergerakan, kelembapan, geometri, dan fungsi struktur. ASTM C881 membahas spesifikasi perekat untuk beton; jangan menganggap semua retak cocok diisi epoxy ([ASTM C881/C881M](https://store.astm.org/c0881_c0881m-20a.html)).
 
-### KR-16
+Debu tertinggal, embun, perubahan suhu, atau lalu lintas sebelum pembersihan akhir dapat mengubah antarmuka. Tetapkan pemeriksaan kebersihan, profil, dan kelembapan tepat sebelum primer atau lapisan pertama.
 
-- **Original sources:** [Permenaker No. 5 Tahun 2018 — official Kemnaker JDIH](https://jdih.kemnaker.go.id/peraturan/detail/1546/peraturan-menteri-nomor-5-tahun-2018), [official legal database status](https://www.peraturan.go.id/id/permenaker-no-5-tahun-2018).
-- **Purpose for this article:** Anchor chemical, physical, ergonomic, ventilation, exposure, and workplace-environment content in Indonesian law.
-- **Safe grounded facts:** Epoxy work can involve chemical, dust, noise, heat, ventilation, ergonomic, housekeeping, and occupied-workplace controls that need an actual assessment.
-- **Limits:** Do not publish limits, sampling strategies, PPE, or compliance conclusions from the metadata page alone.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-04-03` → `/artikel/kekuatan-permukaan-beton-epoxy.html` — Concrete Strength dan Surface Soundness
-- `EFL-04-04` → `/artikel/kontaminasi-substrate-epoxy.html` — Oil, Dust, Curing Compound, dan Contamination
-- `EFL-04-06` → `/artikel/perbaikan-substrate-sebelum-epoxy.html` — Repair Spalls dan Defects sebelum Coating
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Uji tarik lepas membantu menilai ikatan, tetapi hasil harus dibaca bersama lokasi dan mode kerusakan. Kegagalan bisa terjadi pada lem, lapisan, antarmuka, atau beton; pengujian bersifat merusak ([ASTM D7234](https://store.astm.org/d7234-21.html)). Angka tunggal tanpa metode dan keterangan kerusakan tidak cukup membandingkan area.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Pada gudang luas dengan beton seragam dan akses terbuka, area uji yang menunjukkan shot blasting menghasilkan tekstur merata serta vakum mengangkat media dapat mendukung pemakaian metode itu di bidang utama. Perimeter, drainase, dan sudut tetap diselesaikan dengan grinding terkendali.
+
+Jika lantai memiliki coating tebal dan tambalan berbeda kekerasan, jangan langsung menjalankan shot blaster. Pisahkan zona, periksa kesoundan dan kontaminasi, lalu tentukan apakah lapisan diangkat, ditambal, atau ditinjau ulang. [NEEDS PROJECT REVIEW: profil target, batas kelembapan, dan keputusan perbaikan harus dikonfirmasi dari system spec dan data lapangan.]
+
+Minta peta zona, catatan metode dan parameter mesin, foto area uji, serta hasil pemeriksaan akhir yang ditandatangani. Bukti ini membuat alasan pemilihan metode dapat ditelusuri. Untuk titik kontak survei, lihat [layanan kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau [layanan kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html); detail teknis tetap disepakati setelah survei.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Grinding, Shot Blasting, dan Surface Profile”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Lantai tampak bersih belum berarti bebas kontaminasi. Pemeriksaan yang disetujui proyek harus menjawab apakah minyak dan bahan lain masih berada di pori. Mengejar tekstur paling kasar juga keliru: tekstur berlebihan menambah konsumsi material, sedangkan tekstur dangkal mungkin tidak mengikat sistem.
 
-## Objection or shortcut to address
+Jangan mengulang satu pembacaan kelembapan untuk seluruh area atau menambal gejala lalu menutupinya dengan epoxy. Tanyakan apakah beton sehat sudah dipisahkan dari lapisan lemah, kontaminasi memiliki rencana penanganan, profil target tertulis dan diverifikasi, debu serta slurry terkendali, dan siapa yang menyetujui kondisi akhir. Jika belum lengkap, tahan lapisan berikutnya dan beri penanda [NEEDS SITE EVIDENCE].
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Kesimpulan: pilih hasil yang terbukti
 
-## Required conclusion
+Grinding memberi kendali pada detail dan pengikisan lokal; shot blasting efisien untuk bidang luas yang membutuhkan keseragaman. Keduanya tidak menggantikan pemeriksaan beton, kelembapan, kontaminasi, perbaikan, dan kebersihan akhir.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Lantai.id, minta system spec, buat area uji, catat parameter dan bukti pemeriksaan, lalu dapatkan persetujuan kompeten sebelum pekerjaan massal. Aturan operasinya: jangan lepaskan lapisan epoxy sampai kondisi beton dan profil target dapat ditunjukkan dengan bukti yang sesuai; bila data belum cukup, berhenti dan periksa ulang.
