@@ -2,8 +2,9 @@
 article_id: EFL-03-05
 title: "Epoxy vs Polyurethane Chemistry"
 slug: "epoxy-vs-polyurethane-coating"
-description: "Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence"
-status: outline
+description: "Panduan menilai resin, pengeras, primer, lapisan badan, lapisan akhir, pencampuran, waktu kerja, dan bukti pengerasan sebelum memilih sistem lantai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-09-04"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,75 @@ reader_address: "Sobat Lantai.id"
 final_route: "/artikel/epoxy-vs-polyurethane-coating.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
   - "https://store.astm.org/standards/f2170"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy vs Polyurethane Chemistry
 
-## Assignment lock
+Halo, Sobat Lantai.id! Saat memilih pelapis lantai, pertanyaan “epoxy atau polyurethane (PU)?” sering terdengar seperti memilih merek cat. Padahal yang dibandingkan adalah keluarga kimia, susunan lapisan, kondisi beton, dan bukti pengerasan. PU bukan sinonim epoxy, sehingga mengganti satu dengan yang lain tanpa memeriksa sistem bisa membuat lapisan cepat bermasalah.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy vs Polyurethane Chemistry”
-- **Reader and situation:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Reader outcome:** Menilai resin/hardener, primer, body coat, topcoat, mixing, pot life, dan cure evidence
-- **Primary intent:** Membandingkan chemistry families
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** PU route bukan synonym epoxy.
-- **Final public route:** `/artikel/epoxy-vs-polyurethane-coating.html`
-- **Appointed CMS date:** `2025-09-04` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih berdasarkan beban, paparan, gerakan, kelembapan, dan data produk yang benar-benar akan dipakai. Epoxy dan PU masing-masing dapat menjadi primer, lapisan badan, atau lapisan akhir pada sistem tertentu; label di ember saja tidak membuktikan kecocokan. Artikel ini membantu Anda menilai resin dan pengeras, urutan lapisan, pencampuran, waktu kerja, serta bukti cure sebelum menyetujui pilihan.
 
-## Opening instructions
+![Ilustrasi Epoxy PU Coating](/wp-content/uploads/2025/07/Epoxy-PU-Coating.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy vs Polyurethane Chemistry**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal; bukan dokumentasi proyek tertentu.
 
+## Masalah keputusan yang sebenarnya
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Yang Anda lihat di lapangan biasanya hanya warna dan kilap. Yang menentukan justru apakah beton cukup kering, lapisan lama bersih, dan setiap komponen bereaksi sesuai petunjuknya. Resin adalah bahan dasar pembentuk film, sedangkan pengeras (hardener) memicu reaksi silang; pengisi, pigmen, pelarut, ketebalan film, dan kondisi substrat ikut memengaruhi hasil uji.
+
+Karena itu, “PU lebih tahan” atau “epoxy pasti lebih keras” bukan keputusan yang cukup. Ketahanan adalah kecocokan antara kimia, ketebalan, suhu, bahan kimia yang mengenai lantai, dan cara pemakaian. Minta lembar data teknis untuk sistem spesifik; jika tidak ada, tandai **[NEEDS DATA PRODUK: komposisi, rasio campur, dan kondisi layanan belum diverifikasi]**.
+
+## Bedakan objek sebelum membandingkan
+
+Epoxy dan PU bukan dua lapisan tunggal. Sebuah sistem dapat memiliki primer untuk mengikat beton, body coat (lapisan badan) untuk membangun ketebalan, lalu topcoat (lapisan akhir) untuk tampilan dan paparan tertentu. Setiap lapisan bisa memakai kimia berbeda, tetapi harus dinyatakan kompatibel oleh dokumen produk dan persetujuan proyek.
+
+Pada epoxy dua komponen, resin dan pengeras dicampur dalam rasio yang ditetapkan. Pada PU, komponen dan kelembapan atau kondisi lingkungan tertentu dapat memengaruhi reaksi, bergantung formulasi. Jangan mengubah rasio agar “lebih encer” atau menambah pelarut tanpa instruksi tertulis; perubahan itu mengubah film dan waktu reaksi. Istilah pot life berarti waktu kerja campuran di wadah, bukan jaminan bahwa lapisan di lantai sudah siap dipakai.
+
+Permukaan yang tidak lengket juga belum tentu selesai cure (pengerasan menyeluruh). Waktu bebas sentuh, jendela pelapisan ulang, boleh diinjak ringan, dan siap menerima bahan kimia adalah tonggak berbeda. Tingkat reaksi perlu dibuktikan dengan metode dan kondisi yang sesuai, bukan hanya sentuhan atau hitungan hari.
+
+## Kriteria perbandingan yang relevan
+
+Mulai dari paparan nyata: kendaraan, roda troli, air, minyak, bahan pembersih, sinar matahari, atau perubahan suhu. Tulis siapa yang memakai lantai, seberapa sering, dan bagian mana yang paling berat. Lalu cocokkan dengan batas produk; jangan memindahkan angka dari merek lain.
+
+Periksa antarmuka. Kelembapan beton, uap dari bawah, kontaminasi, dan profil permukaan memengaruhi daya lekat. Metode ASTM F2170 membahas pengukuran kelembapan relatif di dalam pelat beton, tetapi satu pembacaan tidak memetakan seluruh slab atau menjamin perilaku masa depan ([ASTM F2170](https://store.astm.org/standards/f2170)). Jika sumber kelembapan belum diketahui, keputusan resin harus ditahan: **[NEEDS REVIEW: sumber kelembapan, lokasi uji, dan kriteria produk belum disetujui]**.
+
+Bandingkan proses, bukan hanya hasil akhir. Catat suhu dan kelembapan saat mencampur, ukuran batch, alat pengaduk, waktu induksi bila diwajibkan, pot life, dan jendela antar-lapisan. Campuran yang melewati pot life dapat terlihat masih cair tetapi menghasilkan film tidak seragam. Minta catatan batch dan pemeriksaan ketebalan agar keputusan dapat ditelusuri.
+
+Terakhir, sepakati bukti penerimaan. Uji tarik lekat ASTM D7234 bersifat merusak; kegagalan bisa terjadi di lem, lapisan, antarmuka, atau beton. Nilai tanpa jenis kegagalan, kondisi cure, dan substrat tidak dapat dibandingkan begitu saja ([ASTM D7234](https://store.astm.org/d7234-21.html)).
+
+## Kapan masing-masing pilihan masuk akal
+
+Epoxy masuk akal ketika dokumen sistem menunjukkan kebutuhan membangun film dan melekat pada beton yang telah disiapkan, sementara paparan dan gerakan masih berada dalam batasnya. PU dapat masuk akal sebagai lapisan akhir atau sistem tersendiri ketika dokumen produk menyatakan kecocokan terhadap kondisi layanan, perubahan suhu, atau paparan tertentu. Itu bukan kemenangan otomatis salah satu keluarga; bukti produk dan kondisi lokasi yang memutuskan.
+
+Area dalam ruangan dengan lalu lintas terukur mungkin memakai susunan epoxy yang disetujui. Area yang terpapar matahari atau pembersihan tertentu mungkin memerlukan topcoat PU, tetapi hanya setelah primer dan body coat dinyatakan kompatibel. Jika beton masih bergerak, retak aktif, atau lembap, mengganti epoxy dengan PU tidak menghapus penyebab. Tahan keputusan sampai desain sambungan, perbaikan, dan kelembapan ditinjau: **[NEEDS PROFESSIONAL REVIEW: gerakan substrat dan detail perbaikan belum dibuktikan]**.
+
+## Kesalahan perbandingan yang sering terjadi
+
+Pertama, menyamakan merek dengan kimia. Nama dagang bisa mencakup beberapa varian; baca lembar data dan lembar keselamatan untuk komponen yang benar. Resin, pengeras, pigmen, pembersih, dan produk samping reaksi dapat memiliki bahaya berbeda. Bau bukan alat ukur paparan; panduan CDC/NIOSH menekankan perlunya pengendalian tugas dan kecocokan sarung tangan, bukan menilai aman dari aroma ([CDC/NIOSH epoksi](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html); [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
+
+Kedua, memakai kalender sebagai bukti cure. “Sudah tiga hari” tidak menjelaskan suhu, ketebalan, rasio campur, atau tingkat reaksi. Gunakan tonggak dan metode yang ditetapkan produk; simpan catatan kondisi, bukan sekadar foto permukaan.
+
+Ketiga, menambal gejala tanpa mencari sebab. Gelembung, mengelupas, atau bagian lunak dapat berawal dari kelembapan, kontaminasi, persiapan yang kurang, atau kesalahan campur. Tambalan lokal bisa menyembunyikan masalah sistemik. Ambil keputusan setelah pemeriksaan sebab dan, bila perlu, sampel destruktif.
+
+## Bukti yang perlu diminta sebelum memilih
+
+Mintalah satu paket yang dapat dibaca bersama: lembar data teknis dan keselamatan untuk setiap komponen, rasio dan urutan campur, pot life serta jendela pelapisan ulang, batas suhu/kelembapan, persyaratan profil dan kebersihan beton, kompatibilitas antar-lapisan, metode uji, dan kriteria penerimaan proyek. Pastikan versi dokumen dan nama produk sama dengan material yang akan datang.
+
+Tambahkan peta kondisi lokasi: hasil pengukuran kelembapan, area retak atau sambungan, riwayat tumpahan, pola lalu lintas, serta rencana pembersihan. Tentukan siapa yang menyetujui perubahan material dan siapa yang menilai hasil uji. Untuk langkah berikutnya, Anda dapat membaca penjelasan sistem [pelapis epoxy dan PU](/epoxy/pu-coating) lalu meminta peninjauan lapangan dari [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) bila lokasi Anda berada di area tersebut.
+
+## Jalan pintas yang perlu dihindari
+
+“Pilih yang paling keras saja, supaya aman,” terdengar praktis. Kekerasan tidak menggantikan kecocokan terhadap kelembapan, gerakan, bahan kimia, atau cara membersihkan lantai. Sistem yang lebih keras tetapi melekat pada beton lembap tetap dapat gagal di antarmuka. Alternatif yang lebih aman adalah mencatat kondisi lokasi, memeriksa kompatibilitas susunan lapisan, melakukan panel uji bila disyaratkan, lalu menyetujui berdasarkan bukti cure dan uji yang ditentukan.
+
+## Kesimpulan: pilih sistem, bukan singkatan
+
+Epoxy dan PU adalah keluarga kimia dengan peran serta batas berbeda. Keputusan yang dapat dipertanggungjawabkan menghubungkan resin, pengeras, primer, body coat, topcoat, pencampuran, pot life, dan bukti cure dengan kondisi lantai yang nyata. Sobat Lantai.id, sebelum membeli, kumpulkan dokumen produk, hasil kelembapan, rencana persiapan, dan kriteria uji; minta pihak berwenang menutup setiap **[NEEDS REVIEW]** yang masih terbuka. Aturan operasinya sederhana: bila kondisi substrat atau bukti pengerasan belum terverifikasi, jangan menyamakan PU dengan epoxy dan jangan melanjutkan pemasangan.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-002`
@@ -74,185 +94,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy PU Coating` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-002]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-19
-
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-10
-
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/epoxy/pu-coating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-03-03` → `/artikel/mixing-pot-life-epoxy.html` — Mixing Ratio, Induction, dan Pot Life
-- `EFL-03-04` → `/artikel/cure-recoat-window-epoxy.html` — Cure Time, Recoat Window, dan Full Service
-- `EFL-03-06` → `/artikel/batch-substitusi-material-epoxy.html` — Batch Compatibility dan Material Substitution
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy vs Polyurethane Chemistry”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
