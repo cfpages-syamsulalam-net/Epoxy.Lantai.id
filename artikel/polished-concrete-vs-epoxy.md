@@ -2,8 +2,9 @@
 article_id: EFL-06-05
 title: "Polished Concrete vs Epoxy Flooring"
 slug: "polished-concrete-vs-epoxy"
-description: "Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener"
-status: outline
+description: "Panduan membedakan polished concrete, epoxy, mortar, self-levelling, PU coating, dan floor hardener sebelum memilih sistem lantai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-17"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,23 @@ reader_address: "Teman Lantai.id"
 final_route: "/artikel/polished-concrete-vs-epoxy.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Polished Concrete vs Epoxy Flooring
 
-## Assignment lock
+Halo, Teman Lantai.id! Saat memilih lantai, istilah “polished concrete”, epoxy, mortar, self-levelling, PU coating, dan floor hardener sering terdengar seolah-olah menunjuk produk yang sama. Padahal, polished concrete bukan epoxy: yang satu memanfaatkan dan memoles permukaan beton, sedangkan epoxy adalah lapisan resin yang dirancang menempel pada substrat.
 
-- **Writer task:** Expand this file into one complete article answering: “Polished Concrete vs Epoxy Flooring”
-- **Reader and situation:** Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener
-- **Reader outcome:** Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener
-- **Primary intent:** Memilih exposed concrete atau coating
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Polished concrete bukan epoxy.
-- **Final public route:** `/artikel/polished-concrete-vs-epoxy.html`
-- **Appointed CMS date:** `2025-11-17` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya, pilih polished concrete bila Anda ingin beton tetap menjadi tampilan utama dan kondisi slab memang layak dipoles. Pilih sistem epoxy bila Anda memerlukan lapisan terukur untuk mengendalikan tampilan, ketahanan terhadap tumpahan tertentu, atau kebutuhan kebersihan yang disepakati. Keputusan ini bisa berubah setelah pemeriksaan kadar lembap, kekuatan permukaan, retak, kontaminasi, lalu pencocokan dengan paparan dan cara pakai.
 
-## Opening instructions
+![Ilustrasi Epoxy Polished Concrete](/wp-content/uploads/2025/07/Epoxy-Polished-Concrete.jpg)
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Polished Concrete vs Epoxy Flooring**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-007`
@@ -77,185 +42,66 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy Polished Concrete` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-007]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-13
-
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/epoxy/polished-concrete` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/polished-concrete/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-06-03` → `/artikel/self-levelling-epoxy-lantai.html` — Self-Levelling Epoxy: Batas Istilah Level
-- `EFL-06-04` → `/artikel/pu-coating-vs-epoxy-topcoat.html` — PU Coating vs Epoxy Topcoat
-- `EFL-06-06` → `/artikel/floor-hardener-vs-epoxy.html` — Floor Hardener vs Epoxy Flooring
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Masalah keputusan yang sebenarnya
 
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum membandingkan dua nama, tentukan apa yang hendak dilindungi dan siapa yang akan memakai lantai. Gudang dengan roda dan benturan, area produksi yang sering terkena bahan kimia, serta ruang komersial yang mengejar tampilan memiliki pertanyaan berbeda. Menyamakan semuanya hanya karena sama-sama terlihat mengilap membuat biaya dan risiko berpindah ke tahap pelaksanaan.
+
+Bayangkan slab beton sudah ada, tetapi tampak berdebu dan memiliki noda lama. Polishing akan mengikis bagian permukaan yang lemah lalu memadatkan dan menghaluskan beton; epoxy justru membutuhkan permukaan yang bersih, sehat, dan memiliki profil agar dapat mengikat. Jadi, “beton terlihat kering” bukan bukti siap coating. Metode pemeriksaan kelembapan seperti ASTM F2170 menekankan sumber uap, konstruksi slab, kondisi pengujian, dan lokasi pembacaan; satu titik tidak mewakili seluruh lantai ([ASTM F2170](https://store.astm.org/standards/f2170)).
+
+Teman Lantai.id, pertanyaan praktisnya adalah: apakah Anda sedang memilih tampilan beton yang diekspos atau menambahkan lapisan dengan fungsi tertentu? Jawaban itu menentukan pemeriksaan berikutnya, bukan sekadar warna sampel.
 
 ## Bedakan objek sebelum membandingkan
 
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Polished concrete adalah proses pada beton yang sudah ada. Penggerindaan bertahap membuka agregat sesuai kondisi slab, kemudian permukaan dipadatkan dan dipoles. Hasilnya mengikuti variasi beton, sambungan, tambalan, dan bekas perbaikan yang benar-benar ada; tidak ada film resin untuk menyamarkan semuanya.
+
+Epoxy flooring adalah sistem berlapis berbasis resin dan pengeras. Primer, lapisan badan, agregat, atau lapisan akhir dapat disusun berbeda sesuai paparan. Mortar epoxy memakai agregat lebih banyak untuk membentuk atau memperbaiki bidang; self-levelling adalah campuran yang dirancang mengalir meratakan dalam batas produk, bukan alat untuk mengubah lantai miring tanpa perhitungan. PU coating berarti lapisan poliuretan, bukan otomatis pengganti epoxy. Floor hardener adalah bahan yang ditabur atau diaplikasikan pada beton segar untuk meningkatkan permukaan beton, bukan lapisan resin setelah beton mengeras.
+
+ICRI menempatkan pembersihan, penghilangan lapisan lemah, penilaian soundness, pembuatan profil, penanganan tepi, retak, sambungan, dan verifikasi sebagai tugas yang berbeda. Karena itu, merek mesin atau satu metode persiapan tidak cukup menjadi spesifikasi ([ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521); pengantar teknis ICRI tersedia di [artikel CRB](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
 ## Kriteria perbandingan yang relevan
 
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari paparan: air tergenang, bahan pembersih, minyak, panas, sinar matahari, roda, benturan, dan frekuensi pembersihan. Catat juga sambungan dan gerakan slab. Polished concrete tidak menutup sambungan atau retak yang bergerak; epoxy dapat menjembatani detail tertentu hanya jika sistem dan desain sambungannya memang mendukung. Jangan menyimpulkan performa terpasang dari brosur bahan tunggal.
+
+Berikutnya bandingkan antarmuka. Polishing bekerja pada beton yang cukup padat dan seragam untuk menerima tahapan pengasahan. Epoxy membutuhkan permukaan bebas minyak, debu, laitance (lapisan semen lemah), serta profil yang sesuai. ICRI menganjurkan pemilihan persiapan berdasarkan substrat, coating, lokasi, dan kendali mutu, bukan kebiasaan satu alat.
+
+Untuk risiko kelembapan, minta peta sumber dan jalur uap, bukan hanya angka. Jika hasil uji atau kriteria produk belum dipastikan, pertahankan penanda keputusan: **[NEEDS GATE-01: konfirmasi kadar lembap slab, kriteria produk, dan persetujuan teknis sebelum menentukan epoxy atau polishing.]**
+
+Bandingkan pemeliharaan secara operasional. Beton poles tetap perlu pembersihan dan pengendalian noda; lapisan epoxy dapat aus, tergores, atau terkelupas bila detail tepi, sambungan, dan persiapannya buruk. Bau bukan indikator keamanan yang andal. Resin, pengeras, pelarut, pigmen, dan produk pembersih dapat memiliki bahaya berbeda, sehingga ventilasi dan sarung tangan harus mengikuti lembar keselamatan serta tugas aktual ([CDC/NIOSH tentang epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
 ## Kapan masing-masing pilihan masuk akal
 
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Polished concrete masuk akal ketika slab existing cukup sehat, variasi visual beton dapat diterima, dan kebutuhan utama adalah permukaan mudah dibersihkan tanpa menambah film resin. Persetujuan sampel harus menyebut tingkat kilap, paparan agregat, toleransi tambalan, serta cara memperlakukan sambungan. Jangan menjanjikan warna seragam sebelum kondisi nyata diperiksa.
+
+Epoxy masuk akal ketika Anda memerlukan warna atau pola yang dikendalikan, penutupan permukaan tertentu, dan sistem yang dipilih berdasarkan paparan. Sistem ini tetap bukan solusi untuk slab yang terus menerima uap, bergerak, atau memiliki kontaminasi yang belum ditangani. Minta urutan lapisan, jendela pelapisan ulang, kriteria kelembapan, dan rencana perbaikan; waktu kering sentuh tidak sama dengan siap menerima layanan penuh.
+
+Mortar, self-levelling, PU coating, atau floor hardener dapat menjadi bagian dari keputusan yang berbeda. Gunakan mortar untuk kebutuhan pembentukan atau perbaikan yang memang ditentukan, self-levelling untuk toleransi kerataan sesuai data produk, PU ketika paparan dan kompatibilitasnya disetujui, serta floor hardener saat desain beton segar mengizinkannya. Jangan mengubah istilah tersebut menjadi pemenang universal.
 
 ## Kesalahan perbandingan yang sering terjadi
 
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kesalahan pertama adalah menganggap permukaan mengilap berarti tahan semua bahan kimia. Kilap hanya tampilan; ketahanan bergantung pada resin, pengeras, ketebalan, kondisi cure, bahan kimia, suhu, dan waktu kontak. Minta matriks paparan dan data sistem yang benar-benar ditawarkan.
+
+Kesalahan kedua adalah menutup noda atau retak dengan lapisan tanpa mencari penyebab. Minyak mengganggu ikatan, sedangkan retak bergerak dapat memindahkan tegangan ke lapisan. Alternatif yang lebih aman adalah menghentikan keputusan sampai sumber kontaminasi, gerakan, dan kondisi beton dicatat.
+
+Kesalahan ketiga ialah memilih berdasarkan satu pembacaan kelembapan atau satu angka adhesi. Uji tarik adhesi dapat gagal di lem, lapisan, antarmuka, atau beton; hasilnya juga meninggalkan titik perbaikan. Minta metode, lokasi, kondisi cure, dan cara membaca mode kegagalan, bukan angka terpisah.
 
 ## Bukti yang perlu diminta sebelum memilih
 
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Polished Concrete vs Epoxy Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sobat Lantai.id, siapkan berkas keputusan sederhana: denah zona dan sambungan; riwayat tumpahan, pencucian, serta lalu lintas; foto dan peta retak atau tambalan; hasil pemeriksaan kelembapan yang mewakili zona; catatan kontaminasi; serta sampel polished concrete atau mock-up epoxy pada substrat serupa.
 
-## Objection or shortcut to address
+Untuk epoxy, minta lembar data teknis dan keselamatan, komposisi lapisan, batas kondisi aplikasi, kriteria pembukaan area, serta prosedur perbaikan. Untuk polishing, sepakati tahap pengasahan, tingkat agregat yang boleh terlihat, toleransi variasi, dan perlindungan sambungan. Semua keputusan harus ditinjau pihak kompeten yang memahami proyek.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Jika dokumen belum menjawab gerakan slab, kelembapan, paparan, atau kebutuhan pembersihan, tandai: **[NEEDS GATE-02: tetapkan kriteria penerimaan dan pihak yang menyetujui sistem berdasarkan kondisi proyek aktual.]**
 
-## Required conclusion
+## Jalan pintas yang sebaiknya dihindari
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Jalan pintas yang paling sering terdengar adalah, “Epoxy saja supaya cepat dan semua tertutup.” Lapisan memang dapat mengubah tampilan, tetapi tidak menghapus sumber uap, retak bergerak, atau beton rapuh. Persiapan yang dipercepat memindahkan pekerjaan ke fase gagal dan perbaikan.
 
-## Draft completion checklist
+Biar tidak salah langkah, minta kontraktor menunjukkan urutan pemeriksaan sebelum harga dan warna diputuskan. Bandingkan dua skenario bersyarat—polishing pada slab yang lolos pemeriksaan dan epoxy setelah persiapan serta kriteria kelembapan disetujui—bukan dua foto katalog.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+## Kesimpulan: pilih berdasarkan beton dan pekerjaan nyata
+
+Polished concrete dan epoxy flooring bukan dua nama untuk produk yang sama. Polished concrete mengekspos serta memoles beton; epoxy menambahkan sistem lapisan. Pilihan terbaik bergantung pada kondisi slab, paparan, sambungan, tampilan yang disetujui, cara perawatan, dan bukti pemeriksaan.
+
+Langkah berikutnya adalah membuat peta zona, menguji kondisi beton, meminta sistem tertulis, lalu menyetujui mock-up yang mewakili area. Anda dapat membaca perbedaan sistem pada halaman [polished concrete dan epoxy](/epoxy/polished-concrete), lalu melihat konteks [lapisan PU untuk area tertentu](/epoxy/pu-coating) sebelum berdiskusi lebih lanjut. Aturan operasionalnya sederhana: jangan menyebut lantai “siap epoxy” atau “cocok dipoles” sebelum data substrat, paparan, dan persetujuan teknis menjawab pertanyaan proyek Anda.

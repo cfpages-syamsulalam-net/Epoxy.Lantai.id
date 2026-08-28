@@ -3,7 +3,8 @@ article_id: EFL-05-02
 title: "Epoxy Flake atau Chip System"
 slug: "epoxy-flake-chip-lantai"
 description: "Membedakan clear, flake/chip, 3D, colors, dan visual sample process"
-status: outline
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,60 +15,14 @@ reader_address: "Sobat Lantai.id"
 final_route: "/artikel/epoxy-flake-chip-lantai.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Epoxy Flake atau Chip System
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Flake atau Chip System”
-- **Reader and situation:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Reader outcome:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Primary intent:** Memahami broadcast decorative system
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Slip/finish actual perlu sample/test.
-- **Final public route:** `/artikel/epoxy-flake-chip-lantai.html`
-- **Appointed CMS date:** `2025-10-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Flake atau Chip System**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-004`
@@ -78,185 +33,64 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy Flake Chip` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-004]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+Halo, Sobat Lantai.id! Saat vendor menunjukkan contoh lantai penuh serpihan warna, mudah mengira semua tampilan dekoratif itu sama. Padahal keputusan awalnya berbeda: epoxy clear hanya menonjolkan beton, flake atau chip menaburkan serpihan pada lapisan basah, sedangkan sistem 3D dan warna solid memakai cara visual serta urutan lapisan lain.
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Jawaban singkatnya, pilih flake/chip bila Anda ingin permukaan dekoratif dengan pola serpihan yang membantu menyamarkan variasi kecil dan membutuhkan sistem broadcast yang terukur. Jangan menyimpulkan ketahanan licin atau hasil akhir hanya dari foto; ukuran serpihan, resin, agregat, lapisan pelindung, kondisi beton, dan contoh uji di lokasi dapat mengubah keputusan. Artikel ini membantu Anda membedakan opsi tersebut dan menyiapkan pertanyaan sebelum menyetujui sampel.
 
-### KR-01
+![Ilustrasi Epoxy Flake Chip](/wp-content/uploads/2025/07/Epoxy-Flake-Chip.jpg)
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+*Aset lokal proyek; bukan dokumentasi proyek tertentu.*
 
-### KR-14
+## Apa yang dimaksud sistem epoxy flake atau chip?
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Bagian ini menetapkan objek pembicaraan supaya istilah penawaran tidak menyesatkan. Sistem flake/chip adalah rangkaian lapisan, bukan sekadar serpihan yang ditabur di atas cat.
 
-### KR-02
+Epoxy adalah resin yang mengeras setelah bereaksi dengan pengeras. Dalam penawaran lantai, istilah epoxy dapat merujuk pada susunan lapisan dan produk yang berbeda. Karena itu, mintalah nama produk dan lembar data, bukan hanya label “epoxy flake”.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Pada sistem broadcast, lapisan dasar dibuat cukup basah, lalu serpihan warna disebar sampai pola yang disepakati tercapai. Setelah lapisan mengeras, kelebihan serpihan dibersihkan dan permukaan ditutup topcoat, yaitu lapisan pelindung paling atas. Topcoat dapat mengubah kilap, tekstur, kemudahan dibersihkan, dan rasa pijakan. Clear coat transparan berbeda: ia menonjolkan beton atau media di bawahnya tanpa pola serpihan.
 
-### KR-13
+Istilah “chip” sering dipakai bergantian dengan “flake”. Tanyakan ukuran, bentuk, campuran warna, dan target sebarannya pada sampel; jangan menganggap istilah dagang otomatis menetapkan ketebalan, ketahanan, atau tingkat anti-selip.
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+## Cara kerja dan urutan lapisannya
 
-### KR-15
+Urutan ini penting karena cacat pada satu antarmuka dapat terlihat sebagai masalah dekorasi padahal penyebabnya berasal dari beton atau persiapan.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Pertama, beton dibersihkan, diperiksa kekuatannya, dan dibuka porinya sesuai sistem. Panduan ICRI 310.2R memisahkan pembersihan, penghilangan lapisan lemah, penanganan retak atau sambungan, profil permukaan, pengendalian debu, dan verifikasi; satu mesin tidak otomatis menyelesaikan semuanya ([catatan ICRI 310.2R](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521)). Jika ada minyak, laitance, atau beton rapuh, serpihan yang cantik tidak akan memperbaiki ikatan yang buruk.
 
-### KR-03
+Berikutnya primer dan lapisan dasar dipasang sesuai waktu kerja produk. Serpihan dilempar atau disebar ke lapisan basah dengan pola dan kepadatan yang dikendalikan. Setelah cukup mengeras, aplikator menghilangkan serpihan lepas, meratakan tonjolan yang tidak diinginkan, lalu memasang topcoat. Setiap tahap memiliki jendela kerja; permukaan yang terasa kering belum tentu mencapai cure penuh atau siap menerima beban kimia.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Moisture (kelembapan) dari slab juga harus diperiksa. Metode ASTM F2170 mengukur kelembapan relatif di dalam beton dengan penempatan dan waktu ekuilibrasi tertentu; satu titik atau tampilan beton yang kering tidak memetakan seluruh lantai. Minta kriteria produk dan proyek, titik pengujian, serta keputusan bila hasilnya di luar batas ([ASTM F2170](https://store.astm.org/standards/f2170)).
 
-### KR-05
+## Faktor yang membuat hasil visual dan fungsi berubah
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Visual yang sama di katalog bisa terasa berbeda ketika ukuran chip, warna dasar, dan topcoat berubah. Warna gelap biasanya memperlihatkan debu lebih cepat, sedangkan campuran warna dapat menyamarkan noda, tetapi itu bukan jaminan performa kebersihan. Mintalah sampel dengan kombinasi lapisan yang sama, bukan potongan warna saja.
 
-### KR-06
+Tekstur dan slip resistance (ketahanan terhadap selip) adalah keputusan terpisah. Penambahan agregat atau topcoat bertekstur dapat membantu pijakan, namun juga memengaruhi rasa berjalan dan cara mengepel. **[NEEDS SLIP/FINISH SAMPLE: tingkat selip dan finish aktual harus diverifikasi melalui mockup atau uji proyek sebelum persetujuan.]** Sobat Lantai.id, jangan menerima angka atau klaim “anti-slip” tanpa metode uji, kondisi basah-kering, dan kriteria penerimaan yang jelas.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Paparan penggunaan juga mengubah susunan sistem: lalu lintas orang, roda, tumpahan, pembersih, sinar matahari, dan waktu henti memiliki tuntutan berbeda. Sumber keselamatan NIOSH mengingatkan bahwa resin, pengeras, pelarut, pigmen, pembersih, dan produk reaksinya dapat memiliki bahaya berbeda; bau bukan indikator paparan yang andal ([NIOSH epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)). Gunakan lembar keselamatan produk dan rencana ventilasi yang spesifik, bukan asumsi dari aroma.
 
-### KR-11
+## Contoh keputusan untuk situasi nyata
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+Bayangkan area resepsionis yang membutuhkan tampilan berpola namun tetap mudah dirawat. Flake/chip masuk akal bila pemilik menyetujui campuran warna, tekstur, dan topcoat melalui mockup berukuran memadai. Clear lebih tepat bila tujuan utamanya mempertahankan tampilan beton dan tidak menginginkan serpihan. Sistem 3D atau artwork sebaiknya dipilih bila gambar adalah tujuan utama, bukan sekadar pola butiran.
 
-## Evidence gates
+Untuk gudang dengan roda dan tumpahan, pertanyaan berubah: berapa beban dan frekuensi lalu lintas, bahan kimia apa yang mungkin jatuh, bagaimana sambungan bergerak, dan berapa lama area boleh ditutup? Jangan menjawabnya dengan mengganti warna chip. Minta jadwal lapisan, konsumsi, waktu buka area, prosedur perbaikan, serta bukti kesesuaian produk dengan kondisi tersebut.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Jika lokasi berada di Yogyakarta dan Anda memerlukan langkah survei, gunakan [halaman layanan kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) sebagai titik pertanyaan awal, lalu minta penawaran yang menyebut sistem dan batasannya. Untuk kebutuhan di Papua, [informasi kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html) dapat menjadi rujukan kontak; verifikasi kembali ketersediaan dan lingkup aktual sebelum membuat komitmen.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Kesalahan umum dan pemeriksaan sebelum menyetujui
 
-## Internal-link plan
+Kesalahan pertama adalah memilih dari foto ponsel. Foto mengubah pencahayaan, skala chip, dan kilap. Periksa panel sampel di bawah pencahayaan yang mirip lokasi, berjalan di atasnya dengan alas kaki yang relevan, dan tulis kombinasi resin, chip, serta topcoat yang dipakai.
 
-### Existing local routes
+Kesalahan kedua adalah menganggap persiapan beton sebagai pekerjaan kosmetik. Tanyakan bagaimana kontaminasi, retak, sambungan, debu, dan kelembapan ditangani. Bila jawaban berhenti pada “digiling lalu dicat”, minta pemeriksaan yang dapat dicatat dan kriteria berhenti sebelum aplikasi.
 
-- `/epoxy/flake-chip` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/flake-chip/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Kesalahan ketiga adalah menyamakan tack-free (tidak lengket saat disentuh) dengan siap dipakai. Minta jadwal cure produk, kondisi suhu dan kelembapan, serta siapa yang memberi izin buka area. Jangan menambah pengeras atau mempercepat waktu berdasarkan perkiraan.
 
-### Planned sibling articles
+Kawan Lantai.id, keputusan yang rapi biasanya menghasilkan dokumen sederhana: foto dan ukuran mockup, formula campuran chip, nama setiap lapisan, metode persiapan, hasil pemeriksaan kelembapan, batas finish/slip, dan prosedur penerimaan. Dokumen itu membuat perubahan warna atau vendor dapat dibandingkan tanpa mengandalkan ingatan.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesimpulan: pilih sistem, bukan sekadar taburan warna
 
-- `EFL-05-01` → `/artikel/epoxy-clear-lantai.html` — Epoxy Clear untuk Concrete Appearance
-- `EFL-05-03` → `/artikel/epoxy-3d-lantai.html` — Epoxy 3D: Artwork hingga Protective Layer
-- `EFL-05-04` → `/artikel/zonasi-warna-epoxy-lantai.html` — Solid Color dan Color Zoning
+Epoxy flake atau chip adalah sistem broadcast dekoratif yang menggabungkan kondisi beton, lapisan dasar, serpihan, dan topcoat. Ia berbeda dari clear yang menonjolkan media, warna solid yang seragam, dan 3D yang berpusat pada artwork. Pilihan akhirnya harus mengikuti penggunaan, paparan, kelembapan, persiapan, serta sampel nyata.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Flake atau Chip System”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sebelum menyetujui, minta mockup dengan formula lengkap dan lakukan verifikasi finish serta slip di kondisi proyek. Bila data utama belum tersedia, tandai **[NEEDS PROJECT REVIEW: keputusan sistem, kriteria penerimaan, dan izin buka area memerlukan review kompeten.]** Aturan praktisnya sederhana: jangan menyetujui “flake epoxy” dari nama atau foto saja; setujui susunan lapisan dan bukti yang benar-benar dapat diperiksa.

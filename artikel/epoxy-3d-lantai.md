@@ -2,8 +2,9 @@
 article_id: EFL-05-03
 title: "Epoxy 3D: Artwork hingga Protective Layer"
 slug: "epoxy-3d-lantai"
-description: "Membedakan clear, flake/chip, 3D, colors, dan visual sample process"
-status: outline
+description: "Panduan membedakan clear, flake/chip, 3D, warna, dan proses sampel visual sebelum memilih sistem lantai dekoratif."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,60 +15,18 @@ reader_address: "Kawan Lantai.id"
 final_route: "/artikel/epoxy-3d-lantai.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/c0881_c0881m-20a.html"
+  - "https://www.iso.org/standard/52877.html"
   - "https://www.iso.org/standard/79787.html"
   - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
-  - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://www.iso.org/standard/74606.html"
   - "https://www.iso.org/standard/67794.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
+  - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
+  - "https://www.cdc.gov/niosh/skin-exposure/about/"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Epoxy 3D: Artwork hingga Protective Layer
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Epoxy 3D: Artwork hingga Protective Layer”
-- **Reader and situation:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Reader outcome:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Primary intent:** Menyiapkan decorative graphic system
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan durability guarantee.
-- **Final public route:** `/artikel/epoxy-3d-lantai.html`
-- **Appointed CMS date:** `2025-10-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy 3D: Artwork hingga Protective Layer**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,186 +37,62 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Epoxy 3D: Artwork hingga Protective Layer
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Lantai.id! Saat melihat lantai dengan gambar tiga dimensi, orang sering menyebut semua lapisan bening sebagai “epoxy 3D”. Padahal clear, serpihan (flake/chip), warna solid, dan gambar 3D adalah keputusan dekoratif yang berbeda. Jika salah menyebutnya sejak awal, contoh visual, penawaran, dan lapisan pelindung bisa tidak lagi mengacu pada benda yang sama.
 
-### KR-01
+Jawaban singkatnya: tetapkan dulu karya grafis yang ingin dilihat, pilih media dan lapisan pembawa gambar, lalu rancang pelindung bening sesuai paparan ruang. Sampel visual harus menguji urutan dan tampilan, bukan menjadi jaminan ketahanan. Resin, pengeras, pigmen, pengisi, media cetak, kondisi dasar, serta proses curing dapat mengubah perilaku hasil; ringkasan metode ISO menegaskan bahwa komposisi dan persiapan spesimen memengaruhi pengukuran [ISO 18280](https://www.iso.org/standard/52877.html).
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-### KR-14
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+## Tentukan hasil visual sebelum menyebutnya epoxy 3D
 
-### KR-02
+Bagian ini membantu Anda mengubah kata “3D” menjadi keputusan yang bisa diperiksa. Dengan begitu, pembahasan tidak melebar menjadi janji durabilitas atau katalog produk.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Clear adalah lapisan bening yang menonjolkan permukaan di bawahnya. Flake atau chip adalah serpihan yang ditabur pada lapisan dasar lalu dikunci dengan lapisan bening. Warna (colors) berarti pigmen atau campuran warna menjadi tampilan utama. Efek 3D biasanya berasal dari gambar atau pola cetak di bawah lapisan transparan sehingga mata menangkap kedalaman semu. Keempatnya dapat memakai keluarga resin yang sama, tetapi bukan sistem dekoratif yang sama.
 
-### KR-13
+Tulis satu kalimat hasil akhir, misalnya “gambar batu laut terlihat utuh dari sudut masuk sampai area meja”. Kalimat ini mengunci komposisi, sambungan, dan posisi pandang. Hindari kalimat seperti “pasti tahan lama”; itu berada di luar batas artikel ini dan memerlukan bukti proyek serta persetujuan teknis.
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Sobat Lantai.id, keputusan ini sebaiknya dibuat bersama pemilik ruang dan aplikator agar istilah pada gambar kerja punya arti yang sama.
 
-### KR-15
+## Rancang gambar dan media pembawanya
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Artwork adalah berkas gambar atau pola yang akan dilihat pengguna. Ia perlu diperlakukan sebagai komponen fisik: ukur area, tentukan arah pandang, sisakan toleransi sambungan, dan sepakati warna acuan. Minta lembar persetujuan yang mencantumkan ukuran, resolusi, skala pola, serta posisi potongan. Jangan mengandalkan foto layar ponsel karena cahaya dan pengaturan layar dapat mengubah warna.
 
-### KR-03
+Media pembawa dapat berupa cetakan, film, atau pola dekoratif lain yang kompatibel dengan sistem resin. Kompatibilitas berarti media tidak mengganggu pembasahan, perekatan, atau proses pengerasan. Standar perbaikan beton pun menempatkan kondisi dasar, kelembapan, suhu, geometri, dan kompatibilitas sebagai pertimbangan pemilihan sistem; standar tersebut tidak memberi formula siap-pakai untuk lantai dekoratif [ISO 16311-3](https://www.iso.org/standard/79787.html) dan [ISO 16311-4](https://www.iso.org/standard/79788.html). Karena itu, minta data teknis produk dan persetujuan aplikator untuk media yang benar-benar dipilih.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+## Susun urutan lapisan dari dasar sampai lapisan pelindung
 
-### KR-05
+Urutan kerja menjelaskan fungsi tiap lapisan, bukan resep campuran. Dasar beton dibersihkan dan diperiksa agar lapisan berikutnya memiliki permukaan yang layak. Pedoman ICRI memisahkan pembersihan, penghilangan lapisan lemah, profil, tepi, retak, dan verifikasi; satu mesin tidak otomatis menyelesaikan semua tugas [ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Setelah dasar siap, aplikator dapat menempatkan lapisan dasar berwarna atau bening, memasang artwork, kemudian mengunci gambar dengan lapisan bening. Lapisan terakhir disebut protective layer, yaitu pelindung yang dirancang menghadapi paparan ruang. Jenis resin, ketebalan, tekstur, dan waktu antar-lapis harus mengikuti lembar data produk; jangan menyamakan permukaan yang sudah tidak lengket dengan kondisi siap menerima beban penuh. Metode DSC dan FTIR membedakan tahapan pengerasan, sehingga kalender atau sentuhan saja tidak membuktikan curing lengkap [ISO 14322](https://www.iso.org/standard/74606.html) dan [ISO 20368](https://www.iso.org/standard/67794.html).
 
-### KR-06
+## Uji sampel visual sebagai alat keputusan
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Sampel yang berguna menjawab pertanyaan konkret: apakah gambar terbaca dari jarak masuk, apakah sambungan memotong objek penting, apakah tingkat kilap memantulkan lampu, dan apakah warna tetap konsisten setelah lapisan bening. Buat sampel pada susunan lapisan dan media yang sama dengan rencana area utama. Catat nomor batch, produk, waktu aplikasi, kondisi lingkungan, serta perubahan yang disetujui.
 
-### KR-11
+Sampel bukan bukti umur pakai seluruh lantai. Kelembapan dari bawah, misalnya, perlu dinilai dengan metode dan kriteria yang sesuai; ASTM F2170 mengingatkan bahwa penempatan sensor, keseimbangan, kondisi lingkungan, dan batas produk memengaruhi interpretasi, sementara satu pembacaan tidak memetakan seluruh pelat [ASTM F2170](https://store.astm.org/standards/f2170). Jika data ini belum ada, sisipkan keputusan `[NEEDS MOISTURE REVIEW: verifikasi kondisi pelat dan kriteria produk sebelum artwork dipasang]`.
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+## Kapan pekerjaan harus berhenti
 
-## Evidence gates
+Hentikan persetujuan artwork bila warna acuan belum ditandatangani, media belum dinyatakan kompatibel, atau gambar terpotong oleh sambungan yang belum diputuskan. Hentikan aplikasi bila permukaan masih lembap atau lapisan sebelumnya belum memenuhi jendela pelapisan produk. Kawan Lantai.id, bau yang berkurang juga bukan tanda aman; bahan resin, pengeras, pelarut, dan hasil reaksi memiliki bahaya berbeda sehingga ventilasi dan sarung tangan harus mengikuti informasi produk [CDC/NIOSH](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html) dan [panduan paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/).
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Untuk retak yang berperan struktural, jangan menutupnya dengan gambar demi mengejar tampilan. Penyebab, pergerakan, dan fungsi retak memerlukan penilaian kompeten sebelum memilih perbaikan. Artikel ini tidak menetapkan injeksi, penjangkaran, atau penerimaan struktur.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Verifikasi hasil dan serah terima
 
-## Internal-link plan
+Sebelum area dibuka, cocokkan lembar artwork yang disetujui dengan hasil terpasang: orientasi gambar, sambungan, warna, kilap, tekstur, dan cacat yang disepakati. Simpan foto inspeksi tanpa menyimpulkan performa jangka panjang, catat produk dan batch, serta minta instruksi pembersihan dan batas waktu penggunaan dari pemasok. Untuk langkah berikutnya, Anda dapat menghubungi [kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau melihat opsi [kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html) sambil membawa lembar sampel dan data kondisi dasar.
 
-### Existing local routes
+Teman Lantai.id, serah terima yang rapi menyimpan keputusan visual dan batas penggunaan, bukan sekadar foto lantai.
 
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+## Jalan pintas yang sering menggoda
 
-### Planned sibling articles
+Jalan pintasnya adalah memilih gambar dari internet, mencetaknya, lalu menutupnya dengan clear apa pun yang tersedia. Cara ini gagal ketika skala gambar tidak cocok, tinta bereaksi, atau lapisan bening tidak memiliki data kompatibilitas. Alternatif yang lebih dapat ditelusuri ialah membuat sampel kecil dengan media dan produk yang sama, menyetujui hasilnya secara tertulis, lalu menerapkan urutan yang identik di area utama.
 
-These are future routes. Do not link them as live until their HTML exists.
+## Kesimpulan: pisahkan keputusan visual dari klaim ketahanan
 
-- `EFL-05-01` → `/artikel/epoxy-clear-lantai.html` — Epoxy Clear untuk Concrete Appearance
-- `EFL-05-02` → `/artikel/epoxy-flake-chip-lantai.html` — Epoxy Flake atau Chip System
-- `EFL-05-04` → `/artikel/zonasi-warna-epoxy-lantai.html` — Solid Color dan Color Zoning
-- `EFL-05-05` → `/artikel/pilihan-finish-epoxy-lantai.html` — Gloss, Satin, Texture, dan Appearance
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy 3D: Artwork hingga Protective Layer”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Epoxy 3D bukan satu produk tunggal. Bedakan clear, flake/chip, warna, dan gambar 3D; kunci artwork melalui sampel yang mereplikasi urutan lapisan; dan pilih protective layer berdasarkan paparan serta data produk. Langkah Anda sekarang adalah meminta lembar persetujuan visual, data kompatibilitas media, hasil pemeriksaan kelembapan, dan urutan curing dari pihak yang berwenang. Sederhananya, sampel membuktikan kecocokan tampilan dan proses—bukan durability guarantee.

@@ -2,8 +2,9 @@
 article_id: EFL-06-01
 title: "Epoxy Mortar, Self-Levelling, dan PU Coating"
 slug: "sistem-high-build-lantai"
-description: "Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener"
-status: outline
+description: "Panduan membedakan epoxy mortar, self-levelling, PU coating, polished concrete, dan floor hardener sesuai kebutuhan lantai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-11-02"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,22 @@ reader_address: "Teman Lantai.id"
 final_route: "/artikel/sistem-high-build-lantai.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Epoxy Mortar, Self-Levelling, dan PU Coating
 
-## Assignment lock
+Halo, Teman Lantai.id! Saat memilih lantai untuk area yang dilalui troli atau terkena tumpahan, istilah epoxy mortar, self-levelling, dan PU coating sering dianggap sama. Padahal epoxy mortar dipakai untuk lapisan tebal atau perbaikan lokal; self-levelling membantu membentuk permukaan rata; PU coating (pelapis poliuretan) dipertimbangkan berdasarkan kelenturan dan paparannya. Polished concrete dan floor hardener bekerja pada beton, bukan membentuk membran resin.
 
-- **Writer task:** Expand this file into one complete article answering: “Epoxy Mortar, Self-Levelling, dan PU Coating”
-- **Reader and situation:** Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener
-- **Reader outcome:** Membedakan mortar, self-levelling, PU coating, polished concrete, dan floor hardener
-- **Primary intent:** Membedakan heavy-duty systems
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Product claims perlu data.
-- **Final public route:** `/artikel/sistem-high-build-lantai.html`
-- **Appointed CMS date:** `2025-11-02` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: pilih berdasarkan beban, kondisi beton, paparan, dan kerataan yang benar-benar diperlukan, bukan label “heavy-duty”. Data produk, kelembapan pelat, dan persetujuan teknis proyek dapat mengubah keputusan. Artikel ini membantu menyiapkan pertanyaan yang tepat, bukan menggantikan pemeriksaan lapangan.
 
-## Opening instructions
+![Ilustrasi Epoxy Self Levelling](/wp-content/uploads/2025/07/Epoxy-Self-Levelling.jpg)
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Epoxy Mortar, Self-Levelling, dan PU Coating**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-005`
@@ -77,184 +41,44 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy Self Levelling` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-005]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Apa beda mortar, self-levelling, PU coating, polished concrete, dan floor hardener?
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Epoxy mortar adalah campuran resin epoksi, pengeras, dan agregat yang dibentuk menjadi lapisan tebal untuk mengisi atau memperbaiki area. Ia masuk akal pada lubang atau alur, tetapi tetap memerlukan beton dasar yang sehat. Self-levelling adalah bahan sangat mengalir yang meratakan diri dalam batas tertentu; ia tidak memperbaiki semua kemiringan, retak bergerak, atau beton rapuh. Lihat [penjelasan self-levelling](/epoxy/self-levelling) untuk langkah berikutnya.
 
-### KR-01
+PU coating berarti pelapis poliuretan. Sifatnya bergantung formulasi, primer, ketebalan, dan curing; jangan menganggap semua PU otomatis lebih lentur atau tahan kimia. Polished concrete memperoleh tampilan dari penggerindaan dan pemolesan beton, sedangkan floor hardener mengeraskan permukaan beton pada tahap pelaksanaan tertentu. Keduanya bukan pengganti otomatis resin.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+## Cara kerja dari beton sampai lapisan akhir
 
-### KR-13
+Pertanyaan pertama selalu kondisi substrat. Halaman katalog ICRI 310.2R hanya mengidentifikasi dokumen serta cakupan publiknya sebagai rujukan pemilihan persiapan permukaan, pelapis, dan perbaikan beton; halaman katalog itu bukan bukti daftar langkah atau persyaratan teknis proyek. Satu mesin tidak otomatis menyelesaikan semua kebutuhan. [Panduan persiapan permukaan ICRI](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521) dapat menjadi bahan diskusi spesifikasi, sementara rincian pelaksanaan harus diambil dari dokumen metode yang benar-benar tersedia.
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Urutan berikutnya berbeda: mortar perlu penempatan dan pemadatan campuran tebal; self-levelling perlu batas area dan ketebalan; PU atau epoksi perlu primer, waktu kerja, dan jendela pelapisan ulang. Kering disentuh belum membuktikan siap menerima beban atau bahan kimia. Waktu cure harus mengikuti data produk yang dipakai.
 
-### KR-05
+Kelembapan adalah pemeriksaan tersendiri. Halaman katalog [ASTM F2170](https://store.astm.org/standards/f2170) hanya mengidentifikasi standar dan cakupan publiknya; katalog tersebut tidak dengan sendirinya membuktikan prosedur atau persyaratan pengukuran. Rincian seperti lokasi sensor, kondisi lingkungan, sumber uap, dan batas produk harus dirujuk ke dokumen metode serta persyaratan proyek yang benar-benar tersedia. Bila data belum lengkap, pertahankan penanda [NEEDS DATA: kelembapan pelat, kriteria produk, dan persetujuan teknis belum tersedia].
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+## Faktor proyek yang mengubah pilihan
 
-### KR-06
+Tuliskan beban nyata: roda keras, benturan, gesekan, atau lalu lintas pejalan kaki. Mortar dapat menjawab perbaikan tebal, tetapi bukan alasan mengabaikan sambungan dan pergerakan. Self-levelling membantu kerataan dalam batas sistem. Pada area yang sering dicuci atau mengalami perubahan suhu, kelenturan dan detail sambungan harus ditinjau bersama.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Paparan perlu spesifik: jenis bahan kimia, frekuensi tumpahan, suhu, genangan, metode pembersihan, dan waktu henti. Label “tahan kimia” tanpa daftar paparan, konsentrasi, suhu, dan waktu kontak belum cukup. Klaim antiselip juga memerlukan definisi kondisi dan metode uji.
 
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/epoxy/self-levelling` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/self-levelling/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/mortar` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/pu-coating/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/mortar/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-06-02` → `/artikel/epoxy-mortar-lantai.html` — Epoxy Mortar untuk Repair dan Heavy Duty
-- `EFL-06-03` → `/artikel/self-levelling-epoxy-lantai.html` — Self-Levelling Epoxy: Batas Istilah Level
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Selama pencampuran, resin, pengeras, pelarut, dan produk reaksi dapat memiliki bahaya berbeda; bau bukan pengukur paparan yang andal. Ikuti lembar data keselamatan, kecocokan sarung tangan, ventilasi, dan prosedur setempat. Panduan NIOSH tentang epoksi menjelaskan pengendalian kontak kulit sesuai bahan (https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Bayangkan gudang memiliki beton cukup rata, beberapa cekungan dangkal, lalu lintas troli, dan waktu henti singkat. Tanyakan apakah cekungan perlu perbaikan tebal atau cukup diratakan dalam batas sistem. Jika perbaikan lokal diperlukan, mortar dapat dipakai hanya di area itu, lalu lapisan perata dipilih dari data produk. Jika permukaan sudah rata tetapi memerlukan pelindung, bandingkan PU dan epoksi berdasarkan paparan serta waktu curing.
+
+Untuk bengkel dengan retak bergerak dan tumpahan yang belum teridentifikasi, menunda pemilihan lebih bertanggung jawab. Minta peta retak, daftar bahan, hasil kelembapan, dan persetujuan teknis. Sobat Lantai.id, dokumen ini mencegah pembelian sistem yang tampak serbaguna tetapi tidak punya bukti untuk kondisi Anda.
 
 ## Kesalahan umum dan cara memeriksanya
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Epoxy Mortar, Self-Levelling, dan PU Coating”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jangan menganggap semua “high-build” memiliki ketebalan dan performa sama. Periksa definisi sistem, primer, agregat, ketebalan, dan curing. Beton yang tampak kering belum tentu siap; gunakan metode dan kriteria proyek. Pilih metode persiapan setelah memahami kontaminan, lapisan lemah, dan profil. Angka uji adhesi dari proyek lain juga tidak otomatis dapat dibandingkan karena substrat, mode kerusakan, dan kondisi cure berbeda.
 
-## Objection or shortcut to address
+## Apakah PU selalu lebih baik daripada epoksi?
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Tidak. PU dan epoksi adalah keluarga bahan dengan formulasi dan batas berbeda. PU mungkin relevan untuk kebutuhan tertentu, sedangkan epoxy mortar atau self-levelling lebih sesuai untuk perbaikan dan kerataan. Tanpa data paparan dan gerakan sambungan, klaim “lebih baik” tidak operasional. Baca [opsi mortar epoksi](/epoxy/mortar) sambil mencocokkan istilah dengan spesifikasi.
 
-## Required conclusion
+## Kesimpulan: pilih sistem setelah memetakan kondisi
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Teman Lantai.id, mortar menjawab kebutuhan lapisan tebal atau perbaikan, self-levelling menjawab kerataan dalam batas tertentu, dan PU coating harus dibuktikan oleh data produk. Polished concrete serta floor hardener bekerja pada beton dengan cara sendiri. Sebelum memesan, kumpulkan peta beban dan paparan, kondisi sambungan-retak, hasil kelembapan, lembar data, dan rencana uji area. Jika bukti utama belum ada, pertahankan [NEEDS REVIEW: pilihan sistem, kriteria penerimaan, dan detail pelaksanaan memerlukan tinjauan teknis proyek]. Aturan operasionalnya: jangan memilih dari nama; pilih dari kondisi terukur dan bukti yang dapat ditinjau.

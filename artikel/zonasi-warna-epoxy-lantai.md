@@ -2,8 +2,9 @@
 article_id: EFL-05-04
 title: "Solid Color dan Color Zoning"
 slug: "zonasi-warna-epoxy-lantai"
-description: "Membedakan clear, flake/chip, 3D, colors, dan visual sample process"
-status: outline
+description: "Panduan membedakan warna solid, clear, flake, 3D, dan proses sampel untuk zonasi lantai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-10-21"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,60 +15,71 @@ reader_address: "Teman Lantai.id"
 final_route: "/artikel/zonasi-warna-epoxy-lantai.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
-  - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
   - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Solid Color dan Color Zoning
 
-## Assignment lock
+## Hasil akhir dan prasyarat
 
-- **Writer task:** Expand this file into one complete article answering: “Solid Color dan Color Zoning”
-- **Reader and situation:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Reader outcome:** Membedakan clear, flake/chip, 3D, colors, dan visual sample process
-- **Primary intent:** Mengatur visual/operational zones
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Color match perlu approved sample.
-- **Final public route:** `/artikel/zonasi-warna-epoxy-lantai.html`
-- **Appointed CMS date:** `2025-10-21` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Halo, Teman Lantai.id! Saat memilih warna epoxy, banyak orang menyamakan foto warna dengan hasil lantai jadi. Padahal solid color adalah satu warna dominan, sedangkan color zoning membagi area berdasarkan fungsi atau arus kerja. Clear adalah lapisan bening yang menonjolkan permukaan; flake atau chip menambahkan serpihan; sistem 3D memakai gambar; dan proses sampel visual adalah urutan contoh warna sampai persetujuan.
 
-## Opening instructions
+Jawaban singkatnya: pilih solid color bila Anda membutuhkan pembacaan area yang sederhana, lalu gunakan zonasi warna untuk membantu orang mengenali batas operasi. Jangan menjanjikan color match dari layar. Warna akhir dipengaruhi resin, pigmen, pengisi, ketebalan film, substrat, dan proses curing. Sampel fisik yang disetujui menjadi syarat sebelum memesan warna dalam jumlah penuh.
 
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Solid Color dan Color Zoning**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+## Tetapkan tujuan visual dan batas zona
+
+Sebelum memilih kode warna, tulis pekerjaan yang ingin dibantu oleh lantai. Apakah operator perlu melihat jalur pejalan kaki, area penyimpanan, atau batas bersih-kotor? Satu warna dasar bisa memberi tampilan tenang, tetapi tidak otomatis mengatur alur. Terlalu banyak warna juga dapat membuat batas sulit dibaca ketika pencahayaan, debu, atau barang menutupi lantai.
+
+Buat denah sederhana dengan nama zona, fungsi, lalu lintas, dan pihak yang menyetujui. Bedakan warna identitas visual dari tanda keselamatan atau kepatuhan; artikel ini tidak menetapkan arti hukum untuk kombinasi warna tertentu. Jika zona bersinggungan dengan sambungan, saluran, atau retak, catat antarmukanya agar detail teknis ditinjau terpisah. Panduan ICRI 310.2R menempatkan pembersihan, penghilangan lapisan lemah, pembentukan profil, dan verifikasi sebagai pekerjaan terpisah, jadi warna tidak boleh menutupi masalah permukaan (https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521).
+
+## Bedakan clear, solid color, flake, dan 3D
+
+Istilah yang terdengar mirip memiliki keputusan visual berbeda. Clear berarti lapisan bening; ia mempertahankan sebagian tampilan dasar dan tidak mengubah noda atau variasi substrat menjadi seragam. Solid color memakai pigmen untuk bidang warna tunggal, sehingga batas zona mudah direncanakan tetapi cacat dasar dapat tetap terlihat bila persiapan tidak memadai.
+
+Flake atau chip adalah serpihan yang ditaburkan ke lapisan lalu dikunci dengan lapisan bening. Polanya membantu menyamarkan variasi kecil, namun hasilnya bukan padanan solid color. Sistem 3D menggunakan gambar atau motif di bawah lapisan pelindung; kualitas visual bergantung pada file, pencetakan, sambungan, dan perlindungan permukaan. Jadi, jangan memakai contoh 3D sebagai bukti bahwa solid color akan memiliki warna yang sama.
+
+Sobat Lantai.id, minta penyedia menunjukkan panel contoh untuk setiap sistem yang ditawarkan. Tanyakan apakah panel memakai primer, lapisan antara, dan lapisan pelindung akhir yang sama dengan rencana area. Bila komponen atau ketebalan berubah, bandingkan ulang. Nama “epoxy” saja tidak cukup sebagai spesifikasi karena hasil visual bergantung pada sistem dan kondisi aplikasinya.
+
+## Susun proses sampel warna yang dapat dilacak
+
+Mulai dari dua atau tiga kandidat yang melayani fungsi zona, bukan dari katalog yang tidak terbatas. Catat nama produk, nomor batch, substrat panel, jumlah lapisan, tekstur, dan kondisi pencahayaan. Panel sebaiknya diberi kode dan tanggal sehingga keputusan dapat dirujuk saat produksi.
+
+Bandingkan panel di lokasi pada pagi dan sore, juga di bawah lampu kerja bila area beroperasi malam. Periksa warna, kilap, tekstur, dan keterbacaan batas dari jarak orang berjalan. Foto boleh membantu komunikasi, tetapi keputusan akhir tetap pada panel fisik yang ditandatangani pihak berwenang. [NEEDS APPROVAL: tetapkan siapa penandatangan sampel dan kriteria penerimaan warna proyek.]
+
+Setelah satu panel disetujui, bekukan deskripsi sistemnya. Jangan mengganti pigmen, pengencer, atau lapisan pelindung akhir hanya karena stok berbeda tanpa persetujuan ulang. Komponen resin, pengeras, pelarut, dan pigmen dapat memiliki bahaya berbeda; NIOSH mengingatkan bahwa bau bukan indikator paparan yang andal dan perlindungan harus mengikuti produk serta tugas (https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html). Artinya, perubahan material juga memerlukan peninjauan keselamatan, bukan sekadar pencocokan warna.
+
+## Jalankan zonasi dari denah ke lantai
+
+Terjemahkan denah menjadi peta warna dengan legenda singkat. Tandai garis batas, arah transisi, pintu, dan area yang mungkin tertutup rak atau mesin. Gunakan nama zona yang dipahami operator, bukan hanya kode warna. Bila dua warna berdekatan sulit dibedakan pada pencahayaan nyata, ubah kombinasi atau tambahkan pembeda nonwarna yang disetujui.
+
+Urutan kerjanya adalah konfirmasi substrat dan kesiapan area, pasang sampel, setujui panel, tandai batas di denah, lalu aplikasikan sistem sesuai instruksi produk. Pemeriksaan kelembapan, kebersihan, dan profil permukaan tetap merupakan keputusan teknis tersendiri; warna tidak menghapus kebutuhan itu. Selama aplikasi, simpan catatan batch dan foto batas sebelum tertutup lapisan berikutnya agar koreksi tidak bergantung pada ingatan.
+
+## Titik berhenti sebelum aplikasi penuh
+
+Hentikan pengadaan atau aplikasi jika panel belum disetujui, pencahayaan pembanding tidak jelas, atau warna pada dua batch tampak berbeda. Jangan menyimpulkan penyebab hanya dari foto. Periksa nomor batch, kondisi curing, substrat, dan catatan pencampuran bersama aplikator atau pengawas yang kompeten.
+
+Jika area memiliki paparan kimia, lalu lintas berat, sambungan bergerak, atau persyaratan kebersihan khusus, artikel ini tidak menetapkan sistem atau nilai penerimaannya. Minta spesifikasi produk, data proyek, dan telaah teknis. [NEEDS REVIEW: konfirmasi arti warna yang terkait prosedur keselamatan atau kepatuhan setempat.]
+
+## Verifikasi hasil dan serah terima
+
+Serah terima visual harus membandingkan lantai dengan panel yang disetujui di lokasi, bukan dengan gambar katalog. Gunakan daftar: kode zona terbaca, batas berada di posisi denah, warna konsisten dalam area, tekstur sesuai persetujuan, dan tidak ada perubahan material tanpa catatan. Simpan panel referensi, denah berlegenda, lembar batch, serta persetujuan tertulis.
+
+Untuk langkah berikutnya, Anda dapat menghubungkan keputusan warna dengan penjadwalan area melalui [layanan kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau membahas kebutuhan lokasi lain lewat [layanan kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html). Tautan itu hanya titik komunikasi; spesifikasi dan persetujuan tetap harus berasal dari proyek Anda.
+
+## Jalan pintas yang sering menyesatkan
+
+Jalan pintas paling umum adalah memilih kode warna dari layar lalu meminta aplikator “menyamakan persis”. Layar, pencahayaan, tekstur, dan ketebalan mengubah persepsi; penggantian batch juga dapat menggeser hasil. Cara yang lebih dapat dipertanggungjawabkan adalah membuat panel dengan sistem nyata, mengujinya di lokasi, lalu membekukan panel yang ditandatangani sebelum produksi.
+
+## Kesimpulan: warna adalah keputusan sistem
+
+Solid color memberi bidang warna yang jelas, sedangkan color zoning memakai perbedaan bidang untuk membantu orientasi operasi. Clear, flake/chip, dan 3D bukan variasi nama untuk hasil yang sama; masing-masing membutuhkan contoh dan ekspektasi berbeda. Kawan Lantai.id, bawa denah zona, panel fisik, data produk, dan daftar pihak penyetuju ke rapat singkat sebelum aplikasi. Aturan operasionalnya sederhana: tanpa approved sample yang cocok dengan sistem dan kondisi lokasi, jangan menyebut warna sebagai hasil final.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -78,186 +90,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-14
-
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
-
-### KR-02
-
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
-
-### KR-13
-
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
-
-### KR-15
-
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
-
-### KR-03
-
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-05-02` → `/artikel/epoxy-flake-chip-lantai.html` — Epoxy Flake atau Chip System
-- `EFL-05-03` → `/artikel/epoxy-3d-lantai.html` — Epoxy 3D: Artwork hingga Protective Layer
-- `EFL-05-05` → `/artikel/pilihan-finish-epoxy-lantai.html` — Gloss, Satin, Texture, dan Appearance
-- `EFL-05-06` → `/artikel/mockup-epoxy-dekoratif.html` — Mockup Decorative Epoxy
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Solid Color dan Color Zoning”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->
