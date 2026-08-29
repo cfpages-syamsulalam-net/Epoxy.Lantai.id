@@ -2,8 +2,9 @@
 article_id: EFL-07-06
 title: "Chemical Resistance Chart"
 slug: "membaca-ketahanan-kimia-epoxy"
-description: "Memeriksa thickness, adhesion, abrasion, impact, compressive, dan chemical evidence"
-status: outline
+description: "Panduan mencocokkan paparan bahan kimia dengan bukti ketahanan sistem epoxy secara kontekstual."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2025-12-16"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,59 +15,20 @@ reader_address: "Kawan Lantai.id"
 final_route: "/artikel/membaca-ketahanan-kimia-epoxy.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
   - "https://stacks.cdc.gov/view/cdc/135632"
   - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Chemical Resistance Chart
 
-## Assignment lock
+Halo, Kawan Lantai.id! Saat melihat tabel ketahanan kimia, kita sering tergoda mencari satu tanda centang lalu langsung memilih produk. Padahal, catatan “tahan” baru bermakna setelah konsentrasi bahan, lama kontak, suhu, cara pembersihan, dan kondisi lapisan disamakan dengan pemakaian Anda. Keputusan awalnya sederhana: jangan cocokkan nama bahan kimia saja; cocokkan seluruh pola paparannya.
 
-- **Writer task:** Expand this file into one complete article answering: “Chemical Resistance Chart”
-- **Reader and situation:** Memeriksa thickness, adhesion, abrasion, impact, compressive, dan chemical evidence
-- **Reader outcome:** Memeriksa thickness, adhesion, abrasion, impact, compressive, dan chemical evidence
-- **Primary intent:** Mencocokkan chemicals/exposure
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Concentration/time/temperature matter.
-- **Final public route:** `/artikel/membaca-ketahanan-kimia-epoxy.html`
-- **Appointed CMS date:** `2025-12-16` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Artikel ini membantu Anda membaca bukti ketebalan, daya lekat, abrasi, benturan, tekan, dan ketahanan kimia sebagai satu rangkaian pemeriksaan. Hasil uji laboratorium tidak otomatis menjadi jaminan umur pakai lantai. Jika data paparan atau kriteria penerimaan belum tersedia, tandai sebagai [NEEDS PROJECT REVIEW: data konsentrasi, waktu kontak, dan suhu belum lengkap] sebelum memesan atau menyetujui sistem.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Chemical Resistance Chart**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -77,184 +39,56 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-### KR-01
+## Hasil yang ingin dicapai sebelum memilih sistem
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Tujuannya bukan mencari angka tertinggi, melainkan memastikan bukti mewakili lantai, bahan kimia, dan cara kerja di lokasi. Mulailah dengan lembar paparan: nama bahan, konsentrasi, suhu, durasi tumpahan atau perendaman, frekuensi, tekanan roda, dan cara pembersihan. Catat apakah lapisan baru, sudah mengeras penuh, atau pernah diperbaiki.
 
-### KR-08
+Resin, bahan pengeras, pigmen, pengisi, agregat, pelarut, ketebalan film, dan persiapan benda uji dapat mengubah hasil pengukuran; istilah “epoxy” bukan identitas satu formulasi. Ringkasan komite ASTM D01 menjelaskan bahwa metode dan bahan uji harus dibaca bersama konteksnya (https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf). Tetapkan pula pihak berwenang menyetujui: pemilik fasilitas, penanggung jawab mutu, dan tenaga teknis yang memahami produk.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+## Langkah 1 — batasi paparan yang benar-benar dinilai
 
-### KR-14
+Asam encer yang segera dibilas berbeda dari larutan pekat yang menggenang semalaman; cairan hangat berulang berbeda dari cipratan sesekali. Tulis unit dan rentang, bukan kata “tinggi” atau “rendah”. Jika angka belum diketahui, minta catatan proses atau data keselamatan bahan dari pengguna area.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Pisahkan kontak sesaat, genangan, pencucian bertekanan, dan perendaman. Periksa tepi, sambungan, retak, lubang drainase, serta area yang sering dilalui roda. Kawan Lantai.id, tahan klaim pada skenario yang tertulis; jangan memperluas “tahan terhadap X” menjadi “tahan semua bahan kimia”.
 
-### KR-09
+## Langkah 2 — cocokkan bukti, bukan sekadar label
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+Baca lembar hasil dengan empat pertanyaan: benda uji apa, bagaimana kondisinya, berapa lama paparannya, dan kriteria kerusakannya apa. Perubahan warna, lunak, lengket, menggelembung, retak, atau kehilangan daya lekat memiliki arti operasional berbeda. Tabel yang hanya menampilkan “lulus” tanpa metode dan kondisi tidak cukup untuk membandingkan dua sistem.
 
-### KR-02
+Ketebalan dan daya lekat memberi informasi apakah lapisan terpasang sesuai rancangan, tetapi tidak membuktikan ketahanan terhadap bahan tertentu. Uji abrasi menggambarkan perilaku terhadap penggosokan pada kondisi uji tertentu, bukan otomatis umur lantai. Uji benturan dan tekan perlu dibaca sesuai beban dan geometri aktual; jangan gunakan satu uji untuk mengisi kekosongan uji lainnya.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Untuk risiko kulit saat menangani resin, pengeras, pembersih, dan hasil reaksi, ikuti informasi bahaya produk serta pengendalian paparan yang spesifik. CDC/NIOSH menekankan bahwa bau bukan indikator paparan yang andal dan bahan dalam sistem epoxy dapat memiliki bahaya berbeda (https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html; https://www.cdc.gov/niosh/skin-exposure/about/). Gunakan dokumen keselamatan dan penilaian kompeten, bukan resep alat pelindung yang digeneralisasi.
 
-### KR-03
+## Langkah 3 — jalankan urutan pemeriksaan di lapangan
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+Pertama, cocokkan substrat dan riwayatnya: kelembapan, kontaminasi, perbaikan, dan kondisi sambungan. Kedua, pastikan produk, nomor batch, rasio pencampuran, ketebalan rencana, serta jendela pelapisan ulang terdokumentasi. Ketiga, buat area uji yang menerima bahan, konsentrasi, suhu, dan waktu kontak yang mewakili operasi. Keempat, amati perubahan setelah pembersihan; simpan foto, waktu, suhu, dan nama pengamat.
 
-### KR-15
+Jangan menyamakan permukaan yang kering disentuh dengan siap menerima layanan kimia. Waktu kerja campuran, tidak lengket, pelapisan ulang, dan pengerasan penuh adalah tonggak berbeda yang bergantung pada produk serta kondisi. Bila area harus segera dibuka, minta keputusan tertulis dari pihak berwenang, bukan menebak dari kalender.
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+Jika lantai juga harus aman dilalui, bahas tekstur, kontaminasi, kondisi basah-kering, alas kaki, kemiringan, dan cara membersihkan; koleksi standar jalur pejalan kaki ASTM menunjukkan risiko tergantung protokol dan populasi pengguna, bukan satu angka universal (https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html).
 
-### KR-10
+## Kapan pemeriksaan harus dihentikan
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Hentikan keputusan jika konsentrasi, waktu, atau suhu tidak jelas; produk yang diuji berbeda dari yang akan dipasang; lapisan belum mencapai kondisi layanan; atau kerusakan terlihat pada sambungan dan tepi. Hentikan pula jika seseorang meminta jaminan umur, kepatuhan, atau keselamatan hanya dari satu halaman tabel. Buat catatan [NEEDS TECHNICAL REVIEW: kriteria penerimaan dan skenario paparan belum disahkan] dan minta penilaian profesional yang memiliki data proyek.
 
-### KR-11
+Jika terjadi kontak kulit atau dugaan paparan, ikuti prosedur tanggap darurat setempat dan informasi produk. Rekaman ini bukan diagnosis medis; tenaga kesehatan perlu menilai keluhan dan paparannya. Stacks CDC/NIOSH menyediakan catatan bahaya epoxy untuk rujukan awal, bukan pengganti prosedur fasilitas (https://stacks.cdc.gov/view/cdc/135632).
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+## Verifikasi hasil dan serah terima
 
-## Evidence gates
+Serahkan satu paket berisi lembar paparan, identitas produk dan batch, kondisi substrat, rekaman aplikasi, hasil tiap uji beserta metodenya, foto area uji, catatan pembersihan, dan keputusan pihak penyetuju. Tandai mana fakta terukur, asumsi, dan batas yang belum diuji. Sobat Lantai.id, jadwalkan pemeriksaan ulang bila bahan, konsentrasi, suhu proses, atau pola pembersihan berubah.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Sebelum menghubungi [kontraktor epoxy di Yogyakarta](/kontraktor-epoxy-yogyakarta.html), siapkan pertanyaan berdasarkan paket bukti tadi. Jika lokasinya di Papua, rute [layanan epoxy Yalimo](/kontraktor-epoxy-yalimo.html) membantu mengarahkan percakapan lokal, tetapi halaman layanan bukan bukti performa kimia produk tertentu.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Jalan pintas yang sering menyesatkan
 
-## Internal-link plan
+Jalan pintasnya adalah memilih sistem dari kolom “chemical resistant” lalu mengabaikan durasi dan suhu karena dianggap kecil. Penetrasi, pelunakan, perubahan warna, atau hilangnya daya lekat bergantung pada dosis dan waktu; genangan panas memberi beban berbeda dari percikan singkat. Alternatif yang lebih andal ialah mengulang pertanyaan paparan, meminta kondisi uji lengkap, dan membuat area uji yang disetujui sebelum pekerjaan meluas.
 
-### Existing local routes
+## Kesimpulan: chart adalah alat pencocokan, bukan jaminan
 
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-07-04` → `/artikel/bukti-abrasi-epoxy-lantai.html` — Abrasion dan Wear Resistance
-- `EFL-07-05` → `/artikel/bukti-impact-compressive-epoxy.html` — Impact dan Compressive Performance
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 2 — kumpulkan dan cocokkan bukti
-
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 3 — jalankan urutan kerja
-
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Hold point dan kondisi berhenti
-
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Verifikasi hasil dan handover
-
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Chemical Resistance Chart”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Chemical Resistance Chart berguna bila dibaca sebagai peta untuk mencocokkan bahan, konsentrasi, waktu, suhu, lapisan, dan cara pembersihan. Langkah berikutnya adalah meminta bukti uji yang metodenya jelas, menyusun lembar paparan, lalu memperoleh persetujuan teknis untuk skenario yang benar-benar terjadi. Bila satu data penting hilang, pertahankan penanda [NEEDS PROJECT REVIEW] dan jangan mengubah tabel menjadi janji kinerja. Sederhananya, pilih sistem hanya setelah kondisi layanan dan batas buktinya sama-sama tertulis.

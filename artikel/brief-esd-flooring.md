@@ -2,8 +2,9 @@
 article_id: EFL-09-01
 title: "Cara Membuat Brief ESD Flooring"
 slug: "brief-esd-flooring"
-description: "Menyusun ESD brief, grounding, resistance range, test grid, dan verification plan"
-status: outline
+description: "Panduan menyusun kebutuhan ESD, jalur pembumian, rentang resistansi, titik uji, dan rencana verifikasi lantai."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-01-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,57 +15,18 @@ reader_address: "Teman Lantai.id"
 final_route: "/artikel/brief-esd-flooring.html"
 technical_review: required
 sources:
-  - "https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://store.astm.org/standards/f2170"
   - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Cara Membuat Brief ESD Flooring
 
-## Assignment lock
+Halo, Teman Lantai.id! Jika Anda diminta menyiapkan lantai ESD (pengendali pelepasan listrik statis), jangan mulai dari memilih merek epoxy atau menyalin satu angka resistansi. Keputusan pertama adalah mendefinisikan kebutuhan listrik ruangan, jalur pembumian, rentang resistansi yang disetujui, titik uji, serta siapa yang memverifikasi hasilnya.
 
-- **Writer task:** Expand this file into one complete article answering: “Cara Membuat Brief ESD Flooring”
-- **Reader and situation:** Menyusun ESD brief, grounding, resistance range, test grid, dan verification plan
-- **Reader outcome:** Menyusun ESD brief, grounding, resistance range, test grid, dan verification plan
-- **Primary intent:** Menentukan electrical requirements
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Teman Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Kawan Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan electrical design.
-- **Final public route:** `/artikel/brief-esd-flooring.html`
-- **Appointed CMS date:** `2026-01-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Singkatnya, brief yang dapat dipakai berisi tujuan ruang, kondisi operasi, batas pekerjaan, data slab dan kelembapan, rancangan antarmuka pembumian dari pihak listrik, kriteria resistansi dari spesifikasi proyek, peta titik uji, dan aturan berhenti bila bukti belum cukup. Dokumen ini membantu tim memilih dan memeriksa sistem; ia bukan desain kelistrikan atau pengganti persetujuan profesional.
 
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Teman Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Cara Membuat Brief ESD Flooring**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Teman Lantai.id`, `Sobat Lantai.id`, or `Kawan Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -75,179 +37,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-### KR-01
+## Hasil akhir dan prasyarat yang harus siap
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Bagian ini menjelaskan bentuk keluaran yang Anda butuhkan agar vendor, kontraktor, dan tim listrik membaca kebutuhan yang sama. Tanpa prasyarat yang jelas, istilah “ESD” mudah dianggap sebagai janji performa.
 
-### KR-10
+Tuliskan satu lembar ringkasan berisi nama ruang, aktivitas, peralatan sensitif, jam operasi, lalu lintas, bahan kimia pembersih, kondisi basah atau kering, serta target kapan ruang diserahkan. Sertakan denah dengan batas area lantai, sambungan ke dinding atau peralatan, dan siapa pemilik keputusan untuk sistem listrik. Hasil akhirnya adalah dokumen yang bisa ditandatangani untuk dilanjutkan ke desain dan pengujian, bukan instruksi memasang kabel.
 
-- **Original sources:** [ASTM pedestrian/walkway safety standards collection](https://www.astm.org/products-services/standards-and-publications/standards/pedestrian-walkway-safety-standards.html), [ASTM D01 coatings committee overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Prevent generic “anti-slip” claims and invented coefficients.
-- **Safe grounded facts:** Surface texture, wear, contamination, wet/dry condition, footwear, slope, cleaning, test device, protocol, and user population can affect risk and measured values.
-- **Limits:** Obtain the exact current applicable Indonesian/project method and qualified safety/accessibility review before a number or compliance claim.
+Minta data awal berupa gambar arsitektur dan listrik terbaru, spesifikasi produk lantai, catatan kondisi slab, metode pengukuran yang direncanakan, serta kriteria penerimaan dari pemilik fasilitas. Jika salah satu belum tersedia, tandai sebagai `[NEEDS PROJECT INPUT: data belum tersedia untuk ditetapkan]` dan jangan mengisinya dengan angka umum.
 
-### KR-02
+## Langkah 1 — tetapkan batas pekerjaan dan kebutuhan ruangan
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+Sebelum membahas resistansi, sepakati apa yang termasuk dan tidak termasuk dalam pekerjaan lantai. Langkah ini mencegah kontraktor mengira jalur pembumian, panel listrik, atau perlindungan operator otomatis menjadi tanggung jawabnya.
 
-### KR-03
+Gambarkan batas fisik: area yang dilapis, ambang pintu, ramp, kolom, sambungan konstruksi, dan pertemuan dengan material lain. Di sampingnya, tulis antarmuka: siapa menyediakan titik pembumian, siapa menghubungkan ke sistem bumi gedung, dan siapa menguji kontinuitas. Nyatakan tegas bahwa desain konduktor, pemilihan proteksi listrik, dan kepatuhan instalasi berada pada perancang listrik berwenang.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-09
-
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-09-02` → `/artikel/tipe-esd-epoxy-flooring.html` — Conductive, Dissipative, dan Anti-Static
-- `EFL-09-03` → `/artikel/grounding-esd-epoxy.html` — Grounding Network untuk ESD Epoxy
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Hasil akhir dan prasyarat
-
-- **Purpose:** Nyatakan hasil yang ingin dicapai, siapa yang berwenang, data awal, alat/dokumen, dan kondisi yang harus tersedia.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Langkah 1 — tetapkan scope
-
-- **Purpose:** Jelaskan objek, batas pekerjaan, antarmuka, risiko, serta hal yang sengaja tidak dikerjakan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kemudian catat paparan yang memengaruhi keputusan lantai: roda troli, sepatu, cairan pembersih, kelembapan, serta kemiringan. Konteks permukaan dan penggunaan perlu diperiksa bersama metode uji yang disetujui proyek. Jadi, jangan menulis “anti-selip” sebagai fitur ESD tanpa konteks uji dan penggunaan.
 
 ## Langkah 2 — kumpulkan dan cocokkan bukti
 
-- **Purpose:** Susun dokumen, observasi, data, produk, atau standar yang harus cocok dengan kasus.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Setelah batas ruang jelas, kumpulkan bukti yang benar-benar menjawab keputusan. Setiap dokumen perlu diberi pemilik, tanggal, dan status agar pembaca tahu mana fakta lapangan dan mana asumsi.
 
-## Langkah 3 — jalankan urutan kerja
+Untuk slab, minta umur dan konstruksi, sumber kelembapan, keberadaan penghalang uap, kondisi pengeringan, serta hasil pengukuran pada lokasi yang mewakili. Rujukan komite lantai ASTM menempatkan pengujian dan pemilihan metode dalam konteks sistem lantai, bukan satu angka yang berlaku untuk semua slab ([rujukan ASTM F06](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf)). Satu pembacaan tidak memetakan seluruh slab atau menjamin kondisi masa depan; metode, penempatan sensor, waktu ekuilibrasi, dan batas produk harus mengikuti dokumen lengkap yang disetujui proyek. Jika data kelembapan belum mencakup area kritis, tulis `[NEEDS MOISTURE REVIEW: cakupan pengukuran belum disetujui]`.
 
-- **Purpose:** Berikan urutan konseptual yang dapat diikuti tanpa berubah menjadi instruksi teknis berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk material, simpan lembar data teknis, lembar keselamatan, batch, warna, ketebalan rencana, serta instruksi pencampuran dan waktu pengerasan dari produsen. Komite pelapis ASTM menjelaskan bahwa karakteristik dan metode pengujian perlu dibaca sesuai ruang lingkupnya, bukan diperlakukan sebagai bukti universal ([lembar fakta ASTM D01](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf)). Jangan mengubah hasil laboratorium menjadi jaminan kinerja lantai terpasang.
 
-## Hold point dan kondisi berhenti
+Untuk permukaan beton, catat kontaminan, lapisan lemah, retak, sambungan, profil permukaan, debu, dan cara verifikasinya. Panduan pengelolaan persiapan permukaan ICRI menempatkan pembersihan, penghilangan lapisan lemah, pemeriksaan soundness, pembentukan profil, pekerjaan tepi, dan pengendalian debu sebagai tugas yang terpisah ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)). Dengan begitu, brief tidak menyederhanakan semua masalah menjadi “gerinda lalu lapis”.
 
-- **Purpose:** Nyatakan kapan pekerjaan tidak boleh diteruskan tanpa review, tes, atau persetujuan.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah 3 — susun urutan kerja dan matriks verifikasi
 
-## Verifikasi hasil dan handover
+Urutan yang baik menghubungkan kebutuhan dengan bukti, bukan sekadar daftar pekerjaan. Mulai dari rapat kebutuhan dan denah, lanjutkan survei kondisi, tinjau data produk, sepakati antarmuka pembumian dengan tim listrik, lalu tetapkan metode dan titik uji sebelum pemasangan.
 
-- **Purpose:** Buat checklist penerimaan, rekaman, tindak lanjut, dan pemicu koreksi.
-- **Tie back to this article:** Keep the explanation specific to “Cara Membuat Brief ESD Flooring”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Buat matriks sederhana dengan kolom: kebutuhan, bukti yang diminta, penanggung jawab, waktu pemeriksaan, kriteria keputusan, dan rekaman. Contohnya, kebutuhan “jalur pelepasan muatan tersedia” memerlukan gambar antarmuka pembumian serta verifikasi oleh personel listrik; kebutuhan “resistansi berada pada rentang proyek” memerlukan metode alat, kondisi ruang, titik uji, dan persetujuan nilai dari dokumen proyek. Isi angka hanya jika sudah disetujui; jika belum, tulis `[NEEDS ACCEPTANCE CRITERION: rentang resistansi belum ditetapkan]`.
 
-## Objection or shortcut to address
+Peta titik uji harus menyebutkan area tepi, jalur lalu lintas, zona kerja, dan lokasi yang berpotensi berbeda kondisi. Tentukan kapan pengukuran dilakukan setelah lapisan mencapai kondisi yang dipersyaratkan oleh produk dan proyek. “Terasa kering” atau tidak berbau bukan bukti pengerasan penuh, sehingga waktu dan kondisi pengujian harus berasal dari instruksi produk serta persetujuan teknis.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Pisahkan pemeriksaan listrik dari pemeriksaan lantai. Tim lantai dapat merekam lokasi dan hasil alat sesuai metode, sementara perancang listrik menilai kontinuitas dan hubungan ke sistem bumi. Kawan Lantai.id, pembagian ini membuat hasil uji dapat ditelusuri tanpa mengklaim bahwa satu tim telah membuktikan seluruh sistem.
 
-## Required conclusion
+## Kapan pekerjaan harus berhenti untuk pemeriksaan
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Bagian ini menerjemahkan titik henti agar tekanan jadwal tidak mengalahkan bukti. Berhenti bukan berarti proyek gagal; itu tanda bahwa keputusan berikutnya memerlukan data atau otoritas lain.
 
-## Draft completion checklist
+Tahan pemasangan bila denah berubah tetapi batas area dan titik pembumian belum diperbarui, data kelembapan tidak mewakili area, batch produk tidak cocok dengan dokumen, atau kondisi slab menunjukkan lapisan lemah dan kontaminasi yang belum ditangani. Tahan pula pengujian penerimaan jika metode, alat, kondisi ruang, atau rentang nilai belum disetujui.
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Teman Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jangan meneruskan pekerjaan ketika hasil di satu titik terlihat baik tetapi peta menunjukkan area lain belum diuji. Nilai tunggal tidak menjelaskan variasi ruang, dan hasil dari alat atau kondisi yang berbeda tidak otomatis dapat dibandingkan. Minta peninjauan teknis tertulis, tetapkan pengujian tambahan yang proporsional, lalu perbarui matriks sebelum melanjutkan.
+
+## Verifikasi hasil dan serah terima
+
+Serah terima yang berguna membuat orang lain mampu mengulang penelusuran keputusan. Susun berkas berisi versi brief, denah final, data produk dan batch, catatan persiapan permukaan, rekaman kondisi lingkungan, peta titik uji, identitas alat, metode, tanggal, operator, hasil, foto lokasi bila diperlukan, serta daftar penyimpangan dan keputusan koreksi.
+
+Untuk setiap hasil, tulis konteksnya: bagian lantai mana, lapisan atau sambungan apa, kapan diukur, dan kriteria mana yang dipakai. Jika ada hasil di luar rentang, jangan mengubah angka atau menghapus titik. Tandai statusnya, minta keputusan pihak berwenang, dan catat apakah perlu perbaikan, pengujian ulang, atau penerimaan bersyarat.
+
+Gunakan halaman utama [epoxy.lantai.id](/) hanya sebagai pintu menuju informasi umum; jangan menjadikannya bukti teknis proyek. Teman Lantai.id, serah terima dianggap siap ketika setiap kebutuhan di matriks memiliki bukti, pemilik keputusan, dan status yang terbaca—bukan ketika semua kolom diisi dengan angka.
+
+## Mengapa jalan pintas “pakai angka standar saja” bisa gagal
+
+Angka generik tampak menghemat waktu karena mudah ditempel ke spesifikasi. Masalahnya, angka tersebut mungkin berasal dari metode, alat, kondisi, atau penggunaan yang berbeda. Perbedaan permukaan, kontaminasi, kelembapan, ketebalan, dan pengerasan dapat mengubah hasil; angka tanpa konteks tidak memberi tahu tindakan yang harus diambil.
+
+Alternatif yang lebih aman adalah menuliskan kebutuhan sebagai keputusan bersyarat: “ukur dengan metode yang disetujui proyek, pada titik yang dipetakan, dalam kondisi yang ditetapkan, lalu bandingkan dengan rentang yang disetujui.” Jika rentang belum ada, biarkan penanda `[NEEDS ACCEPTANCE CRITERION]` terlihat dan minta persetujuan profesional. Cara ini mungkin menambah satu rapat, tetapi menjaga brief tetap jujur dan dapat diaudit.
+
+## Penutup: dokumen kebutuhan yang mengarahkan keputusan
+
+Cara membuat brief ESD flooring adalah menyatukan tujuan ruangan, batas pekerjaan, data slab dan produk, antarmuka pembumian, rentang resistansi yang disetujui, peta titik uji, serta jalur verifikasi dan serah terima. Dokumen itu membantu tim mengetahui apa yang harus dibuktikan dan kapan berhenti; ia tidak menggantikan desain kelistrikan atau persetujuan proyek.
+
+Langkah Anda berikutnya: minta pemilik fasilitas dan perancang listrik menandatangani batas area, jalur pembumian, metode pengukuran, dan kriteria penerimaan sebelum kontraktor memulai. Sobat Lantai.id, pegang aturan sederhana ini: tidak ada angka tanpa metode dan konteks, tidak ada penerimaan tanpa peta bukti, dan tidak ada keputusan listrik tanpa pihak yang berwenang.
