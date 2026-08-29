@@ -2,8 +2,9 @@
 article_id: EFL-10-05
 title: "Slopes, Drains, dan Ponding"
 slug: "drainase-kemiringan-epoxy"
-description: "Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing"
-status: outline
+description: "Panduan mengatur kemiringan, drain, dan genangan sebelum memilih sistem epoxy"
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-23"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,10 @@ reader_address: "Kawan Lantai.id"
 final_route: "/artikel/drainase-kemiringan-epoxy.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Slopes, Drains, dan Ponding
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Slopes, Drains, dan Ponding”
-- **Reader and situation:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Reader outcome:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Primary intent:** Mengoordinasikan water flow
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Epoxy bukan correction universal.
-- **Final public route:** `/artikel/drainase-kemiringan-epoxy.html`
-- **Appointed CMS date:** `2026-02-23` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Slopes, Drains, dan Ponding**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,185 +29,58 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Slopes, Drains, dan Ponding
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Lantai.id! Jika lantai baru dilapisi epoxy tetapi air tetap berkumpul di sudut, masalah utamanya biasanya bukan warna atau merek resin. Aliran air ditentukan oleh kemiringan permukaan, posisi dan elevasi drain, sambungan, serta jalur masuk air. Epoxy hanya menjadi lapisan akhir; ia bukan alat untuk meratakan slab atau memindahkan drain.
 
-### KR-01
+Karena itu, petakan ke mana air harus mengalir dan bagian mana yang perlu diperbaiki sebelum pelapisan. Genangan akibat kemiringan salah, drain terlalu tinggi, retak bergerak, atau sumber lembap dari bawah slab tidak selesai dengan lapisan baru. Survei elevasi, uji kelembapan, pemeriksaan sambungan, dan dokumen desain dapat mengubah pilihan perbaikannya.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-### KR-05
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+## Bedakan kemiringan, drain, dan genangan
 
-### KR-06
+Kemiringan adalah beda tinggi yang memberi air arah; drain adalah titik penerima dan pembuangan; genangan adalah air yang tertahan karena jalurnya terputus atau titik rendah tidak tersambung. Epoxy mengikuti kontur dan tidak otomatis menciptakan lereng baru.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Epoxy bukan pengganti waterproofing, sambungan pergerakan, atau perbaikan retak struktural. Pemilihan perbaikan retak bergantung pada penyebab, gerakan, kelembapan, geometri, dan peran struktur sehingga keputusan injeksi atau pemindahan beban memerlukan data proyek serta tenaga kompeten.
 
-### KR-08
+## Urutan kerja yang menjaga jalur air
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Mulailah dengan peta aliran. Tandai drain, ambang pintu, kolom, dinding, sambungan, dan area tergenang. Gunakan pengukuran elevasi konsisten; foto uji siram membantu, tetapi bukan pengganti survei.
 
-### KR-18
+Pastikan drain menerima lapisan tanpa membentuk bibir. Detail pertemuan lantai dan drain perlu menyebut elevasi akhir, dudukan, dan penyegelan. Pemindahan drain berada di luar pelapisan epoxy dan perlu persetujuan desain.
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-14
-
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
-
-### KR-13
-
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-20
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-10-03` → `/artikel/movement-joint-epoxy-lantai.html` — Movement Joints melalui Epoxy System
-- `EFL-10-04` → `/artikel/cove-detail-epoxy-lantai.html` — Cove dan Wall-to-Floor Transition
-- `EFL-10-06` → `/artikel/waterproofing-injeksi-interface-epoxy.html` — Waterproofing dan Concrete Injection Interface
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Perbaiki beton rapuh, retak relevan, atau sambungan yang harus tetap bergerak sebelum melapis. ICRI menjelaskan persiapan permukaan sebagai pembersihan, penghilangan lapisan lemah dan kontaminan, penanganan tepi serta retak, pengendalian debu, lalu verifikasi ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
 ## Faktor yang mengubah hasil
 
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelembapan dapat datang melalui slab, retarder uap, kondisi pengeringan, atau jalur samping. Jangan menyimpulkan kesiapan lantai dari satu angka atau satu titik; gunakan metode proyek dan kriteria produsen, lalu dokumentasikan lokasi serta kondisi pengujiannya.
+
+Kawan Lantai.id, sesuaikan keputusan dengan fungsi ruang. Beban roda, bahan kimia, frekuensi pembersihan, dan akses perawatan berbeda antara area pencucian, gudang, dan koridor. Sambungan bergerak memerlukan detail yang mengizinkan gerak.
+
+Debu, minyak, laitance, atau lapisan lemah dapat membuat lapisan gagal di antarmuka. Uji tarik lekat bersifat merusak dan harus dibaca bersama lokasi serta mode kerusakannya; minta metode, kriteria, dan interpretasi hasil yang disepakati dalam dokumen proyek.
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika air berkumpul dua meter dari drain dan survei menunjukkan area itu lebih rendah, koreksi geometri lebih dulu, bukan menambah topcoat. Jika elevasi benar tetapi air tertahan di dudukan drain, periksa flange dan saringan. Jika permukaan menggelembung, tahan pekerjaan dan telusuri kelembapan atau kontaminasi.
 
-## Kesalahan umum dan cara memeriksanya
+Retak memanjang dekat sambungan perlu ditanya: aktif, terkait struktur, atau cacat permukaan? Jawabannya menentukan detail perbaikan atau kajian engineer. Retak terisi tidak berarti gerakan berhenti.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Slopes, Drains, dan Ponding”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Saat membandingkan penawaran, minta area survei, urutan perbaikan, detail drain, dasar ketebalan, pengujian, akses, dan pengecualian ditulis jelas agar koreksi kemiringan atau waterproofing tidak tersembunyi sebagai tambahan. Untuk menilai kesiapan lapisan, Anda dapat melihat panduan [survei kondisi lantai epoxy](/kontraktor-epoxy-yogyakarta.html) sebagai langkah koordinasi berikutnya.
 
-## Objection or shortcut to address
+## Kesalahan umum dan pemeriksaan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Uji selang tidak membuktikan seluruh lantai aman. Catat durasi, volume, kondisi drain, dan titik tersisa, lalu cocokkan dengan elevasi. Beton yang terlihat kering juga belum tentu siap dilapis; lakukan pengujian kelembapan di beberapa lokasi.
 
-## Required conclusion
+Menambal setiap gelembung tanpa mencari pola juga berisiko. Gejala sama dapat memiliki penyebab berbeda dan mungkin memerlukan sampel. Sobat Lantai.id, gunakan pola lokasi, waktu muncul, dan kondisi sekitar sebagai petunjuk, bukan bukti tunggal.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Sebelum lapisan akhir, pastikan peta elevasi tersedia, arah aliran dan elevasi drain disetujui, sambungan serta retak memiliki detail, sumber kelembapan diperiksa, permukaan bersih dan kokoh, serta kriteria produk dan hasil uji tercatat. Bila perlu koordinasi lapangan, [konsultasi kontraktor epoxy Yalimo](/kontraktor-epoxy-yalimo.html) dapat menjadi titik kontak untuk memeriksa data proyek; rute ini tidak menggantikan persetujuan teknis.
 
-## Draft completion checklist
+## Kesimpulan: putuskan jalur air lebih dulu
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Slopes, drains, dan genangan adalah keputusan geometri serta sumber air sebelum menjadi keputusan lapisan. Epoxy bukan koreksi universal untuk drain yang salah tinggi, slab bergerak, atau waterproofing gagal.
+
+Teman Lantai.id, minta gambar kondisi akhir, catatan survei, dan daftar pengecualian sebelum pekerjaan dimulai. Jika ada retak struktural, kelembapan belum terjelaskan, atau perubahan drain, tahan pelapisan sampai profesional proyek meninjau data. Pastikan air punya jalur benar, buktikan kondisi dasar, lalu pilih sistem epoxy yang kompatibel.

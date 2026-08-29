@@ -2,8 +2,9 @@
 article_id: EFL-10-02
 title: "Static Crack vs Moving Crack"
 slug: "retak-statis-vs-bergerak-epoxy"
-description: "Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing"
-status: outline
+description: "Panduan membedakan retak statis dan retak bergerak agar koordinasi perbaikan retak, sambungan, dan waterproofing tidak salah arah."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-14"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -16,54 +17,80 @@ technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
   - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
   - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Static Crack vs Moving Crack
 
-## Assignment lock
+Halo, Sobat Lantai.id! Saat retak muncul di lantai beton, pertanyaan yang sering terdengar adalah, “Cukup diisi epoxy atau harus dibuka dan diperiksa lebih jauh?” Jawabannya bergantung pada perilaku retaknya, bukan pada lebar garis yang terlihat hari ini. Retak statis cenderung tidak berubah setelah penyebabnya berhenti, sedangkan retak bergerak masih membuka, menutup, atau bergeser ketika beban, suhu, susut, atau kondisi struktur berubah.
 
-- **Writer task:** Expand this file into one complete article answering: “Static Crack vs Moving Crack”
-- **Reader and situation:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Reader outcome:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Primary intent:** Menentukan need for escalation
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan remote diagnosis.
-- **Final public route:** `/artikel/retak-statis-vs-bergerak-epoxy.html`
-- **Appointed CMS date:** `2026-02-14` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jadi, epoxy bukan pemenang otomatis. Retak yang benar-benar stabil mungkin cocok untuk perbaikan permukaan setelah sumber masalah dan kondisi beton diverifikasi. Retak yang bergerak perlu detail yang dapat mengakomodasi gerak atau eskalasi ke pemeriksaan teknis; menutupnya dengan bahan kaku dapat membuat lapisan kembali pecah. Artikel ini membantu Anda mengoordinasikan crack repair, movement joint, cove, drain, kemiringan, dan waterproofing tanpa menganggap foto sebagai diagnosis jarak jauh. Batasnya jelas: ini bukan remote diagnosis.
 
-## Opening instructions
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Static Crack vs Moving Crack**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Ilustrasi umum dari aset lokal; bukan dokumentasi proyek tertentu.
 
+## Mengapa label statis dan bergerak mengubah keputusan perbaikan
 
-<!-- BEGIN MANAGED IMAGE PLAN -->
+Sebelum memilih bahan, bagian ini menjelaskan mengapa label perilaku retak lebih penting daripada sekadar ukuran celah. Kesalahan di sini biasanya membuat tim mengecat gejala, lalu retak muncul lagi di sambungan atau tepi drain.
+
+Retak statis berarti tidak ada bukti perubahan berarti selama periode pengamatan yang disepakati. Penyebabnya bisa berupa susut lama atau kejadian tunggal yang sudah berhenti, tetapi kesimpulan itu tetap perlu data proyek. Retak bergerak menunjukkan ada mekanisme yang masih bekerja: dua sisi beton dapat saling menjauh, mendekat, atau bergeser. Perubahan suhu dan beban lalu diteruskan ke lapisan di atasnya.
+
+Akibatnya, sistem perbaikan harus mengikuti fungsi bidang tersebut. Retak di tengah area kering tidak sama dengan retak yang memotong movement joint, cove, atau drain. Jika retak berkaitan dengan waterproofing, air dapat mencari jalur baru walau permukaan tampak sudah tertutup. [NEEDS GATE-01: pastikan penyebab dan perilaku retak dari inspeksi lapangan serta review tenaga kompeten sebelum menetapkan detail perbaikan.]
+
+## Bedakan retak statis, retak bergerak, dan sambungan kerja
+
+Bagian ini membantu Anda mengamati objek yang sebenarnya, karena garis retak sering disamakan dengan sambungan. Pembedaan tersebut menentukan apakah epoxy hanya mengisi celah atau justru mengganggu jalur gerak yang memang direncanakan.
+
+Retak adalah pecahnya beton yang tidak direncanakan; sambungan gerak adalah pemisahan yang sengaja disediakan agar bidang dapat berubah posisi. Dari permukaan, keduanya bisa tampak sebagai garis memanjang. Cari konteks: apakah garis mengikuti grid sambungan, berhenti di sekitar kolom, memotong area dengan perubahan kemiringan, atau terus melewati cove dan drain? Pola itu menjadi petunjuk awal, bukan bukti final.
+
+Untuk menguji kestabilan, catat lokasi, arah, kondisi sekitar, dan waktu pengamatan yang disepakati dalam rencana inspeksi. Ukur ulang dengan metode yang konsisten; satu foto atau satu pembacaan tidak memetakan seluruh slab. ASTM F2170 menekankan bahwa sumber dan jalur kelembapan, konstruksi slab, penghalang uap, kondisi pengeringan, penempatan serta ekuilibrasi pengujian, dan kondisi lingkungan memengaruhi penilaian kelembapan. Karena itu, lantai yang terlihat kering belum otomatis siap dilapisi ([ASTM F2170](https://store.astm.org/standards/f2170); [rujukan komite lantai ASTM](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf)).
+
+Jika bukti menunjukkan retak berubah atau terkait sambungan, jangan menyebutnya statis hanya karena hari ini celahnya kecil. [NEEDS GATE-02: tetapkan klasifikasi retak berdasarkan rekaman inspeksi, kondisi kelembapan, dan persetujuan teknis proyek; jangan mengandalkan foto tunggal.]
+
+## Kriteria membandingkan opsi sebelum membeli epoxy
+
+Di bagian ini, kita menyusun pertanyaan yang harus dijawab bersama kontraktor dan pemilik area. Tujuannya bukan mencari satu produk terbaik, melainkan memastikan sistem, detail tepi, dan urutan pekerjaan saling cocok.
+
+Pertama, tentukan fungsi area: lalu lintas roda, beban diam, pencucian, bahan kimia, atau kebutuhan kedap air. Kedua, petakan antarmuka: retak berakhir di mana, apakah memotong movement joint, bagaimana pertemuannya dengan cove dan drain, dan apakah ada perubahan kemiringan. Ketiga, periksa kondisi dasar: lapisan lemah, kontaminasi, debu, dan kelembapan perlu ditangani terpisah dari pengisian retak.
+
+Pedoman ICRI 310.2R memisahkan pembersihan, pembuangan kontaminan dan lapisan lemah, pemeriksaan soundness, pembentukan profil, penanganan tepi serta sambungan, pengendalian debu, dan verifikasi. Artinya, memilih satu mesin atau satu tingkat profil tanpa melihat substrat dan sistem pelapis bukan dasar yang cukup ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)). Jangan menetapkan angka profil atau prosedur dari ringkasan ini; minta panduan lengkap, syarat produk, dan review kompeten.
+
+Keempat, sepakati bagaimana keberhasilan diperiksa. Uji tarik lekat ASTM D7234 bersifat merusak dan kegagalan dapat terjadi di lem, lapisan, antarmuka, atau beton. Jadi angka tanpa mode kegagalan, jenis substrat, susunan sistem, dan kondisi curing tidak bisa dibandingkan begitu saja ([ASTM D7234](https://store.astm.org/d7234-21.html)).
+
+## Kapan epoxy masuk akal dan kapan perlu eskalasi
+
+Skenario berikut memberi arah bersyarat agar keputusan tidak berubah menjadi janji hasil. Retak yang telah dibuktikan stabil, berada di beton yang sehat, dan tidak berfungsi sebagai sambungan dapat dipertimbangkan untuk perbaikan yang kompatibel dengan sistem lantai. Detail pengisian, persiapan, dan pelapisan tetap mengikuti dokumen produk serta persetujuan proyek.
+
+Sebaliknya, eskalasikan ketika retak memotong movement joint, terus muncul setelah perbaikan, disertai beda elevasi, berhubungan dengan rembesan, atau berada pada elemen yang memikul peran struktural. Epoxy bonding system untuk beton bukan berarti setiap retak, injeksi, angkur, atau grout memiliki tujuan yang sama. Pemilihan dipengaruhi penyebab dan gerak, peran struktur, kelembapan, suhu, beban, kondisi substrat, geometri, kompatibilitas, pemasangan, dan inspeksi. [NEEDS GATE-03: minta engineer atau pihak berwenang menetapkan apakah retak menyentuh fungsi struktural atau waterproofing sebelum pekerjaan ditutup.]
+
+Untuk area dengan muatan listrik statis, baca panduan [sistem epoxy antistatik](/epoxy/anti-static) sebagai langkah berikutnya, tetapi jangan menganggapnya menggantikan klasifikasi retak. Fungsi antistatik dan kemampuan mengakomodasi gerak adalah dua pertanyaan berbeda.
+
+## Tiga jalan pintas yang sering membuat retak kembali
+
+Shortcut pertama adalah mengukur lebar sekali lalu menyebut retak statis. Mekanismenya sederhana: perubahan suhu atau beban terjadi setelah pengukuran, sehingga material kaku menerima gerak yang tidak terhitung. Aturan kerjanya, tetapkan periode dan metode pemantauan sebelum mengunci detail.
+
+Shortcut kedua adalah menutup retak tanpa memeriksa kelembapan. ASTM F2170 menunjukkan bahwa jalur kelembapan dan kondisi pengujian memengaruhi interpretasi. Lapisan yang dipasang di atas dasar bermasalah dapat menggelembung atau terlepas, meski garis retaknya tidak bergerak.
+
+Shortcut ketiga adalah menerima angka uji lekat tanpa melihat lokasi kegagalan. Uji yang merusak meninggalkan titik perbaikan, dan hasil dari sistem atau kondisi curing yang berbeda tidak otomatis setara. Minta catatan substrat, susunan lapisan, umur curing, serta mode kegagalan sebelum menjadikannya dasar penerimaan.
+
+## Bukti koordinasi yang perlu diminta sebelum memilih
+
+Sobat Lantai.id, minta satu paket ringkas yang dapat dibaca semua pihak: gambar area dengan retak, sambungan, cove, drain, dan kemiringan; log perubahan retak; catatan sumber air dan kondisi lingkungan; hasil pengujian kelembapan dengan metode yang disepakati; hasil pemeriksaan soundness dan kontaminan; lembar teknis serta batas penggunaan produk; urutan persiapan dan curing; rencana inspeksi; serta nama pihak yang menyetujui perubahan detail.
+
+Bandingkan penawaran hanya jika luas terukur, sistem lapisan, dasar perhitungan ketebalan atau cakupan, persiapan dan perbaikan, pengujian, akses, waktu henti, pengecualian, kuantitas, pajak, garansi, dan serah terima ditulis dengan basis yang sama. Hak konsumen dan penawaran elektronik tetap memerlukan telaah hukum dan komersial terkini; jangan menyimpulkan kewajiban atau garansi dari artikel ini ([UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999)).
+
+Jika pekerjaan berada di Yogyakarta, Anda dapat memakai [halaman kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta) untuk menyiapkan percakapan awal, lalu kirimkan paket bukti tadi agar penawaran tidak dibangun dari foto saja.
+
+## Keputusan akhir: isi, akomodasi, atau berhenti untuk pemeriksaan
+
+Kawan Lantai.id, jawab judul artikel ini dengan aturan sederhana: perlakukan retak sebagai statis hanya setelah bukti pengamatan dan kondisi dasar mendukungnya; perlakukan sebagai bergerak bila ada perubahan, hubungan dengan sambungan, rembesan, atau indikasi peran struktural. Retak statis dapat diarahkan ke detail perbaikan yang kompatibel, sedangkan retak bergerak biasanya membutuhkan detail yang mengakomodasi gerak atau eskalasi—bukan lapisan kaku yang sekadar menyamarkan garis.
+
+Sebelum pekerjaan ditutup, minta pihak kompeten menandatangani klasifikasi retak, sumber kelembapan, detail pertemuan dengan movement joint, cove, drain, dan waterproofing, serta kriteria inspeksi. Bila data tersebut belum tersedia, tahan keputusan material dan tandai [NEEDS GATE-04: keputusan akhir menunggu bukti proyek dan review teknis yang relevan]. Batas operasinya: artikel ini membantu koordinasi pertanyaan, bukan diagnosis jarak jauh atau persetujuan desain.
+
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,185 +101,4 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-14
-
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
-
-### KR-13
-
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
-
-### KR-11
-
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
-
-### KR-20
-
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/epoxy/anti-static` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/anti-static/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-10-01` → `/artikel/interface-epoxy-lantai.html` — Crack, Joint, Drain, dan Waterproofing Checklist
-- `EFL-10-03` → `/artikel/movement-joint-epoxy-lantai.html` — Movement Joints melalui Epoxy System
-- `EFL-10-04` → `/artikel/cove-detail-epoxy-lantai.html` — Cove dan Wall-to-Floor Transition
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Masalah keputusan yang sebenarnya
-
-- **Purpose:** Jelaskan konteks pemilihan dan mengapa dua opsi ini sering dianggap dapat saling menggantikan.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bedakan objek sebelum membandingkan
-
-- **Purpose:** Definisikan setiap opsi, fungsi, batas sistem, dan bukti identitasnya.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kriteria perbandingan yang relevan
-
-- **Purpose:** Susun kriteria berdasarkan penggunaan, kondisi, antarmuka, risiko, pelaksanaan, perawatan, dan bukti.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kapan masing-masing pilihan masuk akal
-
-- **Purpose:** Berikan skenario bersyarat; jangan menyebut satu pemenang universal.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan perbandingan yang sering terjadi
-
-- **Purpose:** Bongkar sedikitnya tiga shortcut atau asumsi yang membuat keputusan keliru.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Bukti yang perlu diminta sebelum memilih
-
-- **Purpose:** Buat checklist dokumen, data proyek, sampel/tes, persetujuan, dan pihak penanggung jawab.
-- **Tie back to this article:** Keep the explanation specific to “Static Crack vs Moving Crack”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+END MANAGED IMAGE PLAN -->

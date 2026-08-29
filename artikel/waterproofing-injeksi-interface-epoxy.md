@@ -2,8 +2,9 @@
 article_id: EFL-10-06
 title: "Waterproofing dan Concrete Injection Interface"
 slug: "waterproofing-injeksi-interface-epoxy"
-description: "Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing"
-status: outline
+description: "Panduan mengoordinasikan perbaikan retak, sambungan bergerak, sudut lantai, drainase, kemiringan, dan waterproofing tanpa salah serah-terima pekerjaan."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-02-26"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -15,55 +16,11 @@ final_route: "/artikel/waterproofing-injeksi-interface-epoxy.html"
 technical_review: required
 sources:
   - "https://store.astm.org/standards/f2170"
-  - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64833.html"
-  - "https://www.iso.org/standard/64835.html"
-  - "https://www.iso.org/standard/64836.html"
-  - "https://www.iso.org/standard/64834.html"
-  - "https://www.iso.org/standard/77795.html"
-  - "https://www.iso.org/standard/51378.html"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Waterproofing dan Concrete Injection Interface
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Waterproofing dan Concrete Injection Interface”
-- **Reader and situation:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Reader outcome:** Mengoordinasikan crack repair, movement joints, coves, drains, slopes, dan waterproofing
-- **Primary intent:** Menentukan adjacent-scope handoff
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan pengganti repair design.
-- **Final public route:** `/artikel/waterproofing-injeksi-interface-epoxy.html`
-- **Appointed CMS date:** `2026-02-26` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Waterproofing dan Concrete Injection Interface**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,184 +31,77 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Waterproofing dan Concrete Injection Interface
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Lantai.id! Di proyek lantai yang retak dan lembap, keputusan paling mahal sering bukan pilihan merek epoxy, melainkan siapa mengerjakan apa dan kapan pekerjaan itu diserahterimakan. Menutup retak dengan injeksi lalu langsung melapisinya waterproofing terdengar rapi, tetapi retak yang masih bergerak, sambungan yang memang harus bergerak, atau air yang belum punya jalur keluar bisa membuat lapisan baru gagal.
 
-### KR-01
+Jawaban singkatnya: perlakukan injeksi beton, perbaikan retak, sambungan bergerak, detail sudut, drainase, kemiringan, dan waterproofing sebagai lingkup yang saling bertemu tetapi tidak otomatis satu paket. Tetapkan penyebab dan fungsi setiap detail, urutkan pekerjaan berdasarkan kondisi aktual, lalu buat titik serah-terima tertulis sebelum lapisan berikutnya dimulai. Data kelembapan, kondisi permukaan, dan rancangan perbaikan dapat mengubah keputusan; artikel ini bukan pengganti desain perbaikan.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-### KR-05
+*Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.*
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+## Apa yang dimaksud antarmuka waterproofing dan injeksi beton?
 
-### KR-06
+Bagian ini penting karena istilah “epoxy injection” sering dianggap sama dengan menambal semua retak. Kita bedakan fungsi tiap lingkup agar keputusan serah-terima tidak berdiri di atas asumsi.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Injeksi beton adalah memasukkan bahan ke jalur retak atau rongga melalui titik yang dirancang untuk itu. Tujuannya bergantung pada penyebab retak dan peran elemen: mengisi celah, menghentikan jalur air, atau memulihkan fungsi tertentu. Bahan perekat untuk beton memiliki persyaratan kompatibilitas dan pemasangan sendiri; katalog standar seperti ASTM C881/C881M tidak boleh diterjemahkan menjadi resep proyek tanpa dokumen lengkap dan peninjauan kompeten.
 
-### KR-08
+Waterproofing adalah sistem pengendali masuknya air pada permukaan dan detailnya. Ia bukan obat untuk retak struktural yang masih bergerak. Sambungan bergerak, sudut pertemuan lantai-dinding (cove), serta sekitar drain membutuhkan detail yang bisa mengikuti gerakan dan mengalirkan air. Karena itu, batas kerja harus menyebut apakah tim injeksi, tim perbaikan beton, atau aplikator waterproofing yang menyiapkan dan menerima setiap bidang.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Untuk pembanding konteks sistem lantai, Anda dapat melihat penjelasan [pilihan waterproofing dan sistem lantai](/waterproofing) tanpa menganggap halaman tersebut sebagai persetujuan desain proyek ini.
 
-### KR-18
+## Urutan kerja yang membuat serah-terima dapat diperiksa
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Urutan berikut menjawab pertanyaan praktis: kapan satu tim boleh menyatakan bidang siap diteruskan? Mulailah dari bukti, bukan dari jadwal aplikasi.
 
-### KR-14
+Pertama, petakan gejala dan jalur air. Tandai retak, sambungan, sudut, drain, genangan, serta area yang berbeda warna atau mengelupas. Foto dan sketsa membantu, tetapi tidak cukup untuk menentukan apakah retak bergerak atau berasal dari masalah struktur. Bila kesimpulan itu memengaruhi fungsi elemen, tahan pekerjaan dan minta desain perbaikan dari pihak yang berwenang.
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Kedua, periksa kelembapan dan sumbernya. Beton yang tampak kering belum tentu memiliki kondisi yang sama di seluruh pelat. ASTM F2170 membahas pengukuran kelembapan relatif di dalam pelat dan menekankan pentingnya lokasi uji, kondisi lingkungan, serta waktu ekuilibrasi; satu pembacaan tidak memetakan seluruh pelat atau menjamin perilaku masa depan ([ruang lingkup ASTM F2170](https://store.astm.org/standards/f2170)). Gunakan kriteria produk dan proyek yang berlaku, bukan ambang universal yang dipindahkan dari pekerjaan lain.
 
-### KR-13
+Ketiga, siapkan permukaan sebagai pekerjaan tersendiri. Bersihkan kontaminan, singkirkan lapisan lemah, pastikan beton cukup kokoh, kendalikan debu, dan periksa tepi retak. Panduan ICRI 310.2R menempatkan pembersihan, penghilangan laitance (lapisan semen lemah), pembentukan profil, dan verifikasi sebagai keputusan yang dipengaruhi substrat, sistem pelapis, serta kendali mutu; jangan memilih mesin hanya karena kebiasaan ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
 
-- **Original sources:** [ISO 12944-1:2017 general framework](https://www.iso.org/standard/64833.html), [ISO 12944-3:2017 design considerations](https://www.iso.org/standard/64835.html), [ISO 12944-4:2017 surface preparation](https://www.iso.org/standard/64836.html).
-- **Purpose for this article:** Ground non-floor steel coating/lining articles.
-- **Safe grounded facts:** “Epoxy paint” alone omits corrosion environment, geometry/edges/crevices, substrate condition, preparation grade/profile, layer system, dry-film thickness, overcoating, access, and repair.
-- **Limits:** The ISO pages are not Indonesian adoption proof or full requirements; several parts are due for revision.
+Keempat, lakukan perbaikan retak atau injeksi sesuai rancangan dan petunjuk bahan. Catat area, metode, bahan, kondisi saat pemasangan, serta hasil inspeksi. Setelah pekerjaan itu selesai, pemeriksaan bukan sekadar melihat permukaan rata. Tanyakan apakah jalur air berhenti sesuai tujuan, apakah ada sisa bahan atau debu, dan apakah detail sambungan tetap bebas bergerak.
 
-### KR-11
+Kelima, serahkan bidang kepada aplikator waterproofing dengan kriteria yang bisa dilihat dan diukur: permukaan bersih, kering atau berada dalam batas yang disetujui, detail retak dan sambungan telah ditentukan, drain serta kemiringan tidak menghambat aliran, dan area yang belum disetujui diberi tanda. Jika ada syarat belum terbukti, tulis `[NEEDS PROJECT REVIEW: kondisi penerimaan bidang sebelum waterproofing]` pada berita acara dan jangan menutupinya dengan lapisan.
 
-- **Original sources:** [ISO 12944-2:2017 environment classification](https://www.iso.org/standard/64834.html), [ISO 12944-5:2019 protective paint systems](https://www.iso.org/standard/77795.html), [ISO 12944-6:2018 laboratory performance methods](https://www.iso.org/standard/51378.html).
-- **Purpose for this article:** Provide a defensible exposure-to-system decision structure for floors and protective coatings.
-- **Safe grounded facts:** Substrate, chemicals, water/immersion, UV, temperature/cycling, traffic/impact/abrasion, hygiene/cleaning, downtime, joints/movement, and maintenance access are separate inputs.
-- **Limits:** ISO 12944 is primarily steel corrosion and several parts are marked for revision. Do not use its categories as floor requirements without applicable project adoption.
+## Faktor yang mengubah hasil di lapangan
 
-### KR-20
+Antarmuka menjadi rumit karena gejala yang sama dapat muncul dari sebab berbeda. ICRI dan referensi pengujian adhesi ASTM D7234 mengingatkan bahwa kegagalan dapat terjadi pada perekat uji, lapisan pelapis, antarmuka, atau beton; hasil uji juga dipengaruhi tata cara dan kondisi benda uji ([ruang lingkup ASTM D7234](https://store.astm.org/d7234-21.html)). Jadi, angka pull-off tanpa mode keruntuhan dan setup uji tidak cukup untuk menyatakan sistem aman.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Pergerakan adalah pembeda utama. Retak yang berubah lebar mengikuti suhu atau beban memerlukan detail yang berbeda dari retak rambut yang stabil. Sambungan konstruksi atau sambungan susut tidak boleh dipaksa menjadi bidang kaku hanya demi tampilan. Di sekitar drain, kemiringan menentukan apakah air menuju saluran atau menggenang di dekat sambungan; waterproofing tidak dapat menggantikan koreksi geometri yang belum disetujui.
 
-## Evidence gates
+Kondisi lingkungan juga memengaruhi keputusan. Air dari bawah pelat, kebocoran pipa, atau hujan yang masuk dari sisi lain dapat membuat lapisan tampak gagal padahal sumbernya belum ditangani. Suhu dan ventilasi mengubah waktu kerja bahan. Minta data aktual dan petunjuk produsen yang sesuai sistem; jangan menjanjikan waktu buka area atau umur layanan tanpa bukti proyek.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+## Contoh keputusan serah-terima
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+Bayangkan tim menemukan retak diagonal dekat dinding, genangan kecil menuju drain, dan lapisan lama yang mudah terkelupas. Keputusan aman bukan “injeksi sekarang, waterproofing besok”. Tim perlu memisahkan tiga pertanyaan: apakah retak perlu desain perbaikan, apakah kemiringan dan drain berfungsi, dan apakah permukaan sudah cukup sehat untuk menerima sistem baru.
 
-## Internal-link plan
+Jika retak dinyatakan stabil oleh peninjau yang berwenang, injeksi dapat dijadwalkan dengan catatan metode dan batasannya. Jika retak bergerak atau fungsi elemen tidak jelas, keluarkan instruksi perbaikan khusus dan tahan lapisan penutup. Bila drain atau kemiringan belum beres, serah-terima waterproofing ditunda meskipun hasil injeksi terlihat rapi. Sobat Lantai.id, checklist singkat ini mencegah satu tim mewarisi risiko tim lain:
 
-### Existing local routes
+- peta retak, sambungan, sudut, dan drain sudah ditandai;
+- sumber kelembapan dan rencana pemeriksaannya tercatat;
+- status gerakan retak serta kebutuhan desain perbaikan jelas;
+- permukaan, profil, debu, dan kontaminasi telah diverifikasi;
+- detail sambungan, cove, dan penetrasi memiliki gambar atau instruksi;
+- kriteria serah-terima dan pihak yang menandatangani sudah disebut.
 
-- `/epoxy/polished-concrete` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/epoxy/polished-concrete/` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/waterproofing` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-waterproofing-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-waterproofing-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-waterproofing-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+Untuk memilih tampilan akhir setelah detail teknis selesai, pembaca dapat membandingkan [polished concrete dan epoxy](/epoxy/polished-concrete); pilihan visual itu tetap mengikuti persetujuan sistem dan kondisi lapangan.
 
-### Planned sibling articles
+## Kesalahan umum yang perlu dihentikan
 
-These are future routes. Do not link them as live until their HTML exists.
+Kesalahan pertama adalah menutup retak dengan lapisan kedap air tanpa mencari sumber air. Mekanismenya sederhana: tekanan atau jalur air tetap bekerja di bawah lapisan, lalu mendorong gelembung, pengelupasan, atau noda. Pemeriksaan harus kembali ke sumber, bukan hanya memperbaiki titik yang terlihat.
 
-- `EFL-10-04` → `/artikel/cove-detail-epoxy-lantai.html` — Cove dan Wall-to-Floor Transition
-- `EFL-10-05` → `/artikel/drainase-kemiringan-epoxy.html` — Slopes, Drains, dan Ponding
+Kesalahan kedua adalah memakai satu angka kelembapan atau adhesi sebagai tiket otomatis. Metode, lokasi, ekuilibrasi, mode keruntuhan, dan kriteria proyek menentukan arti angka. Jika unsur itu tidak tersedia, catat sebagai bukti belum lengkap.
 
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+Kesalahan ketiga adalah menganggap semua retak dapat diinjeksi dengan bahan yang sama. Penyebab, lebar dan pergerakan retak, kondisi basah, fungsi elemen, kompatibilitas, serta cara inspeksi mengubah pilihan. Bahan yang cocok untuk satu detail belum tentu cocok untuk sambungan bergerak atau area yang terus menerima air.
 
-## Jawaban singkat dan salah paham utama
+Kesalahan keempat adalah membuat berita acara yang hanya berbunyi “siap coating”. Gantilah dengan daftar kondisi, foto penandaan, hasil pemeriksaan, pengecualian, dan nama penanggung jawab. Dengan begitu, perubahan lingkup atau pekerjaan tambahan dapat dibahas sebelum lapisan menutup bukti.
 
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+## Langkah berikutnya sebelum memesan aplikasi
 
-## Definisi dan batas objek
+Kawan Lantai.id, kumpulkan satu paket serah-terima: peta detail, catatan sumber air, hasil pemeriksaan kelembapan yang metodenya disebut, keputusan tentang gerakan retak, instruksi persiapan permukaan, serta kriteria penerimaan waterproofing. Mintalah peninjau kompeten mengisi bagian yang masih `[NEEDS PROJECT REVIEW]`, terutama bila retak menyentuh elemen struktural atau air terus masuk.
 
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Contoh keputusan praktis
-
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Kesalahan umum dan cara memeriksanya
-
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Waterproofing dan Concrete Injection Interface”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Jadi, interface waterproofing dan concrete injection bukan sambungan administrasi semata. Ia adalah keputusan berurutan tentang penyebab, fungsi, kondisi permukaan, dan bukti penerimaan. Aturan operasinya sederhana: jangan serahkan bidang hanya karena terlihat tertutup; serahkan setelah risiko yang menjadi tanggung jawab tim berikutnya benar-benar ditulis, diperiksa, dan disetujui. Artikel ini membantu koordinasi, bukan pengganti repair design atau persetujuan proyek.
