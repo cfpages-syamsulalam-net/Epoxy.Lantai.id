@@ -2,8 +2,9 @@
 article_id: EFL-15-02
 title: "Inspection Schedule dan Condition Map"
 slug: "inspeksi-kondisi-epoxy"
-description: "Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement"
-status: outline
+description: "Panduan mencatat kondisi lantai epoxy, membaca gejala, dan memilih langkah perawatan secara bertahap."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-13"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,55 +15,24 @@ reader_address: "Kawan Lantai.id"
 final_route: "/artikel/inspeksi-kondisi-epoxy.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/64838.html"
   - "https://www.epa.gov/saferchoice/standard"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
   - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://store.astm.org/standards/f2170"
   - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
   - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
 ---
 
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
 # Inspection Schedule dan Condition Map
 
-## Assignment lock
+Halo, Kawan Lantai.id! Lantai epoxy biasanya tidak rusak sekaligus. Mula-mula permukaannya tampak kusam, lalu muncul goresan, noda yang sulit hilang, gelembung, atau bagian yang mengelupas. Kalau semua gejala langsung ditutup lapisan baru, penyebabnya bisa tetap bekerja di bawah permukaan.
 
-- **Writer task:** Expand this file into one complete article answering: “Inspection Schedule dan Condition Map”
-- **Reader and situation:** Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement
-- **Reader outcome:** Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement
-- **Primary intent:** Mencatat deterioration
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Interval based on use/product.
-- **Final public route:** `/artikel/inspeksi-kondisi-epoxy.html`
-- **Appointed CMS date:** `2026-06-13` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Jawaban singkatnya: buat jadwal pemeriksaan berdasarkan pola pemakaian dan petunjuk produk, lalu petakan setiap gejala menurut lokasi, luas, perubahan waktu, dan kemungkinan penyebabnya. Dari catatan itu barulah Anda memilih cukup dibersihkan, dipantau, diperbaiki setempat, dilapis ulang, atau diganti. Interval tidak bisa disamaratakan; lalu lintas, bahan kimia, kelembapan, tekstur, dan instruksi sistem yang terpasang dapat mengubah keputusan.
 
-## Opening instructions
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Inspection Schedule dan Condition Map**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,185 +43,54 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+## Tetapkan objek pemeriksaan dan kondisi awal
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Bagian ini membantu Anda memastikan apa yang sedang dicatat, sehingga perubahan kecil tidak tercampur dengan kerusakan lama. Tentukan zona lantai, fungsi ruang, tanggal pemasangan atau pelapisan terakhir, produk yang diketahui, serta aktivitas yang berlangsung di atasnya.
 
-### KR-01
+Mulailah dengan peta sederhana: gambar denah atau grid, beri kode zona, dan tandai sambungan, tepi, saluran, area dekat pintu, serta jalur roda. Foto dari posisi yang sama setiap kali. Catat juga kegiatan pembersihan, tumpahan, perubahan proses, dan waktu ruang dibuka kembali. Tanpa titik pembanding ini, pernyataan “makin parah” sulit diuji.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+Permukaan terlihat kering bukan bukti bahwa kondisi di bawahnya aman. Sumber dan jalur kelembapan, konstruksi pelat, penghalang uap, kondisi udara, lokasi pengukuran, dan waktu keseimbangan memengaruhi pembacaan; satu angka tidak mewakili seluruh pelat. Rujukan komite lantai ASTM menjelaskan mengapa metode dan penempatan pengujian harus mengikuti dokumen lengkap yang berlaku (https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf). Jika ada indikasi lembap, simpan penanda [NEEDS DATA: hasil pengukuran kelembapan dan kriteria produk] sampai data proyek tersedia.
 
-### KR-09
+## Pahami bagaimana pemakaian mengubah permukaan
 
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
+Gejala yang sama dapat berawal dari mekanisme berbeda. Beban roda dan pasir mempercepat aus; cairan yang tertahan atau bahan kimia tertentu dapat mengubah tampilan; pembersihan dengan alat kasar bisa mengikis lapisan atas; gerakan retak atau kelembapan dari bawah dapat mendorong lapisan terlepas.
 
-### KR-19
+Karena itu, jangan menulis “tahan abrasi” atau “tahan kimia” sebagai janji umur pakai. Lembar komite ASTM menekankan bahwa jenis penggosok, jumlah siklus, beban, benda uji, ketebalan, proses pengerasan, serta cara evaluasi mengubah arti hasil uji (https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf). Di lapangan, catat bahan yang mengenai lantai, perkiraan waktu kontak, suhu, cara membilas, dan perubahan yang terlihat; jangan mengubah hasil laboratorium menjadi prediksi otomatis untuk seluruh lantai.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+Untuk bahan pembersih, cocokkan konsentrasi, waktu kontak, suhu, alat, pembilasan, dan frekuensi dengan petunjuk sistem. Kerangka Safer Choice EPA juga menilai bahan dan dampak penggunaannya dalam konteks standar tertentu, bukan sebagai daftar universal bahan yang selalu aman (https://www.epa.gov/saferchoice/standard). Bila produk atau kondisi tidak jelas, hentikan percobaan pada area kecil dan minta peninjauan teknis.
 
-### KR-14
+## Catat pemeriksaan secara konsisten
 
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
+Pemeriksaan rutin tidak harus rumit. Gunakan lembar per zona dengan kolom tanggal, kondisi ruang, kebersihan, jenis gejala, ukuran perkiraan, foto, aktivitas terakhir, dan tindakan sementara. Bedakan noda, perubahan warna, goresan, pori atau pinhole, gelembung, retak, pengelupasan, dan bagian lunak. Tuliskan apa yang diamati, bukan dugaan penyebabnya.
 
-### KR-06
+Lakukan pemeriksaan cepat setelah kejadian tidak biasa—tumpahan, banjir, benturan, atau perubahan proses—kemudian pemeriksaan berkala mengikuti intensitas penggunaan dan instruksi produsen. Jadwal itu perlu ditinjau ketika lalu lintas, bahan, alat pembersih, atau topcoat berubah. Setiap entri sebaiknya menjawab: di mana, sejak kapan, bertambah atau tidak, dan keputusan apa yang menunggu.
 
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
+Jika perlu pengujian, tulis metode, alat, kondisi, dan mode kegagalan. Pedoman persiapan permukaan ICRI memisahkan pembersihan, penghilangan lapisan lemah atau kontaminan, pemeriksaan soundness, profil, tepi, retak dan sambungan, pengendalian debu, serta verifikasi; tidak ada satu mesin yang otomatis cocok untuk semua substrat (https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf). Pengujian yang merusak harus diberi tanda karena meninggalkan titik perbaikan.
 
-### KR-05
+## Pilih tindakan dari bukti, bukan dari tampilan saja
 
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
+Pemantauan cukup bila gejala kecil, stabil, tidak mengganggu fungsi, dan penyebabnya belum terbukti aktif. Perawatan permukaan berarti memperbaiki pembersihan atau melindungi area sesuai petunjuk produk. Perbaikan setempat masuk akal bila kerusakan benar-benar terlokalisasi dan tepi lapisan sehat; persiapan, kecocokan bahan, dan pengerasan tetap perlu dikonfirmasi.
 
-### KR-08
+Pelapisan ulang lebih luas memerlukan pemeriksaan daya lekat, kontaminasi, kelembapan, dan kesiapan permukaan. Retak yang bergerak, delaminasi luas, atau dugaan masalah struktur bukan pekerjaan tambal biasa. Pedoman perbaikan beton menempatkan penyebab retak, gerakan, kondisi substrat, geometri, kompatibilitas, pemasangan, dan pemeriksaan sebagai faktor pemilihan; keputusan injeksi atau penguatan harus datang dari dokumen proyek, instruksi pabrikan, dan tenaga berkualifikasi. Simpan [NEEDS REVIEW: penyebab kerusakan dan otoritas persetujuan] bila informasi itu belum ada.
 
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
+Untuk orientasi lokasi, Anda dapat merujuk layanan [kontraktor epoxy di Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau [kontraktor epoxy di Yalimo](/kontraktor-epoxy-yalimo.html), lalu tetap minta pemeriksaan kondisi nyata. Halaman lokasi bukan pengganti diagnosis lantai Anda.
 
-### KR-18
+## Urutkan prioritas pekerjaan
 
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
+Prioritaskan gejala yang memengaruhi keselamatan operasional, kebersihan, fungsi area, atau cepat meluas. Tandai jalur licin, serpihan yang dapat masuk proses, tepi terangkat yang dilindas roda, dan tumpahan yang terus berulang sebagai kebutuhan tindakan segera sesuai prosedur tempat kerja. Jangan menetapkan tingkat bahaya hanya dari foto.
 
-### KR-17
+Setelah itu bandingkan dampak penghentian area, akses alat, waktu pengerasan, kemungkinan terulang, dan biaya sepanjang pemakaian. Tambalan murah yang menghalangi sumber kelembapan dapat memindahkan biaya ke pekerjaan lebih besar. Mintalah persetujuan pemilik fasilitas untuk pilihan yang mengubah fungsi, penampilan, atau jadwal operasi.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+## Simpan rekaman dan pemicu pemeriksaan ulang
 
-## Evidence gates
+Simpan denah beranotasi, foto bertanggal, formulir pembersihan, catatan tumpahan, hasil pengujian, lembar data produk, serta persetujuan tindakan dalam satu folder per zona. Saat pekerjaan berpindah tangan, penerima harus dapat melihat kondisi sebelum dan sesudah, area yang belum diperiksa, dan batas keputusan yang masih terbuka.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Tentukan pemicu pemeriksaan ulang: setelah bahan kimia baru dipakai, setelah banjir atau kebocoran, ketika gejala melewati ukuran yang disepakati, atau setelah perbaikan selesai dan area dibuka kembali. Catatan limbah juga penting. Peraturan Indonesia membedakan berbagai sisa komponen, bahan tercampur atau mengeras, cairan pencuci, debu atau lumpur gerinda, lapisan terangkat, kemasan, dan sampah biasa; identifikasi serta jalur pengelolaannya perlu mengikuti aturan yang berlaku dan penilaian lingkungan setempat (https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html; https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+## Jangan memilih jalan pintas “cat saja bagian yang jelek”
 
-## Internal-link plan
+Menutup bercak tanpa mencari pola memang cepat terlihat rapi. Namun, jika lepasan berasal dari kelembapan, kontaminasi, lapisan lemah, atau gerakan retak, tambalan baru dapat terangkat lagi dan menyamarkan luas masalah. Alternatif yang lebih aman adalah memetakan seluruh zona, membuka area uji seperlunya, mencatat hasilnya, lalu menyetujui tindakan berdasarkan penyebab yang terverifikasi.
 
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-15-01` → `/artikel/rencana-pembersihan-epoxy.html` — Cleaning Plan Epoxy Flooring
-- `EFL-15-03` → `/artikel/diagnosis-blister-delaminasi-epoxy.html` — Blister, Delamination, dan Peeling Triage
-- `EFL-15-04` → `/artikel/keausan-perubahan-warna-epoxy.html` — Scratches, Wear, dan Color Change
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Tentukan objek, kondisi, dan tahap siklus hidup
-
-- **Purpose:** Jelaskan apa yang dikelola dan bukti kondisi awalnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Mekanisme perubahan atau penurunan kinerja
-
-- **Purpose:** Hubungkan penggunaan, lingkungan, material/sistem, dan waktu tanpa mengarang umur layanan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Inspeksi dan data yang perlu dicatat
-
-- **Purpose:** Buat baseline, indikator, foto/ukur, riwayat, dan batas pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Pilihan perawatan atau intervensi
-
-- **Purpose:** Bandingkan pemantauan, perawatan, perbaikan, penguatan, penggantian, atau penghentian.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara menentukan prioritas
-
-- **Purpose:** Gunakan konsekuensi, urgensi, akses, biaya siklus hidup, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Rekaman, handover, dan pemicu pemeriksaan ulang
-
-- **Purpose:** Tentukan bukti yang harus bertahan untuk pemilik dan peninjau berikutnya.
-- **Tie back to this article:** Keep the explanation specific to “Inspection Schedule dan Condition Map”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Objection or shortcut to address
-
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
-
-## Required conclusion
-
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
-
-## Draft completion checklist
-
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Singkatnya, jadwal pemeriksaan epoxy mengikuti pemakaian dan petunjuk sistem, sedangkan peta kondisi menghubungkan lokasi, gejala, perubahan waktu, dan keputusan. Mulailah dari satu denah dan satu lembar catatan per zona, lakukan foto pembanding, lalu minta peninjauan teknis ketika kelembapan, retak bergerak, delaminasi luas, bahan kimia, atau limbah membuat konsekuensinya belum jelas. Sobat Lantai.id, aturan operasinya sederhana: jangan memilih repair, recoat, atau replacement sebelum penyebab, bukti, dan otoritas keputusannya tertulis. Teman Lantai.id, simpan catatan itu agar pemeriksaan berikutnya dapat membandingkan kondisi dengan jujur.

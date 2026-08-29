@@ -2,8 +2,9 @@
 article_id: EFL-14-02
 title: "Mixing, Batch Control, dan Application Sequence"
 slug: "urutan-aplikasi-epoxy"
-description: "Mengoordinasikan readiness, mixing, sequence, conditions, cure, inspection, dan acceptance"
-status: outline
+description: "Panduan mengatur kesiapan, pencampuran, urutan lapisan, pengerasan, pemeriksaan, dan penerimaan pekerjaan epoxy."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-05-19"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,56 +15,11 @@ reader_address: "Kawan Lantai.id"
 final_route: "/artikel/urutan-aplikasi-epoxy.html"
 technical_review: required
 sources:
-  - "https://www.iso.org/standard/79788.html"
-  - "https://www.iso.org/standard/64837.html"
   - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
-  - "https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf"
-  - "https://www.iso.org/standard/74606.html"
-  - "https://www.iso.org/standard/67794.html"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.iso.org/standard/52877.html"
-  - "https://www.iso.org/standard/83331.html"
-  - "https://www.iso.org/standard/59248.html"
   - "https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html"
   - "https://www.cdc.gov/niosh/skin-exposure/about/"
-  - "https://stacks.cdc.gov/view/cdc/135632"
-  - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
-  - "https://www.epa.gov/saferchoice/standard"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
-
-# Mixing, Batch Control, dan Application Sequence
-
-## Assignment lock
-
-- **Writer task:** Expand this file into one complete article answering: “Mixing, Batch Control, dan Application Sequence”
-- **Reader and situation:** Mengoordinasikan readiness, mixing, sequence, conditions, cure, inspection, dan acceptance
-- **Reader outcome:** Mengoordinasikan readiness, mixing, sequence, conditions, cure, inspection, dan acceptance
-- **Primary intent:** Mengoordinasikan installation steps
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Kawan Lantai.id`
-- **Natural variants:** `Sobat Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Final method dari manufacturer/installer.
-- **Final public route:** `/artikel/urutan-aplikasi-epoxy.html`
-- **Appointed CMS date:** `2026-05-19` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
-
-## Opening instructions
-
-- Open with the exact short salutation: **“Halo, Kawan Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Mixing, Batch Control, dan Application Sequence**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Kawan Lantai.id`, `Sobat Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
-
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -74,185 +30,72 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
+END MANAGED IMAGE PLAN -->
 
-## Evidence packet
+# Mixing, Batch Control, dan Application Sequence
 
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+Halo, Kawan Lantai.id! Saat pekerjaan epoxy dikejar jadwal, campuran yang tampak rata sering dianggap cukup. Keputusan yang lebih penting adalah apakah bahan, kondisi area, urutan lapisan, dan catatan setiap batch sudah terkendali untuk melanjutkan pekerjaan.
 
-### KR-01
+Jawaban singkatnya: ikuti metode produk yang disetujui, mulai dari kesiapan area dan bahan, campur sesuai petunjuk, catat identitas serta waktu batch, aplikasikan berurutan, lalu lindungi sampai pemeriksaan memberi izin. Foto selesai atau faktur tidak membuktikan substrat siap, campuran benar, atau pengerasan selesai.
 
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-### KR-21
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-- **Original sources:** [ISO 16311-4:2024 repair execution/QC](https://www.iso.org/standard/79788.html), [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ASTM D01 standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Define an auditable contractor workflow from survey through release to service.
-- **Safe grounded facts:** A completion photo or material invoice does not prove approved substrate, preparation, mixing, environment, layer build, cure, test validity, defect closure, warranty scope, or maintenance instruction.
-- **Limits:** Project acceptance requires the governing full standards, approved method/ITP, calibrated instruments, competent personnel, and actual records. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `EFL-01` | KR-01, KR-02, KR-15, KR-14, KR-03, KR-11, KR-08, KR-09, KR-10 | Dasar sistem epoxy flooring; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-02` | KR-01, KR-15, KR-20, KR-11, KR-02, KR-03, KR-05, KR-06, KR-12 | Brief dan pemilihan sistem; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-03` | KR-01, KR-02, KR-03, KR-15, KR-08, KR-19, KR-18, KR-10, KR-05 | Resin chemistry, layers, dan curing; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-04` | KR-01, KR-05, KR-06, KR-08, KR-18, KR-14, KR-13, KR-07, KR-16 | Substrate, moisture, dan preparation; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-05` | KR-01, KR-14, KR-02, KR-13, KR-15, KR-03, KR-05, KR-06, KR-11 | Decorative epoxy systems; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-06` | KR-01, KR-13, KR-05, KR-06, KR-03, KR-02, KR-15, KR-08, KR-11 | High-build systems dan adjacent alternatives; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-07` | KR-01, KR-08, KR-14, KR-09, KR-02, KR-03, KR-15, KR-10, KR-11 | Mechanical dan chemical performance; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-08` | KR-01, KR-10, KR-16, KR-15, KR-08, KR-09, KR-11, KR-07, KR-17, KR-19 | Slip, fire, hygiene, dan indoor-air safety; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-09` | KR-01, KR-10, KR-02, KR-03, KR-05, KR-06, KR-11, KR-08, KR-09 | Anti-static dan ESD flooring; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-10` | KR-01, KR-05, KR-06, KR-08, KR-18, KR-14, KR-13, KR-11, KR-20 | Cracks, joints, drainage, dan waterproofing interfaces; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-11` | KR-01, KR-06, KR-11, KR-12, KR-16, KR-07, KR-08, KR-09, KR-10, KR-21 | Industrial dan heavy-use applications; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-12` | KR-01, KR-10, KR-02, KR-03, KR-11, KR-12, KR-08, KR-09, KR-21 | Commercial, public, dan residential applications; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-13` | KR-01, KR-04, KR-14, KR-21, KR-05, KR-13, KR-20, KR-06, KR-08 | Design, measurement, sample, dan specification; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-14` | KR-01, KR-21, KR-20, KR-03, KR-12, KR-02, KR-15, KR-17, KR-19 | Installation, cure, QA, dan handover; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-15` | KR-01, KR-09, KR-19, KR-14, KR-06, KR-05, KR-08, KR-18, KR-17 | Cleaning, inspection, repair, dan lifecycle; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | | `EFL-16` | KR-01, KR-20, KR-21, KR-02, KR-03, KR-11, KR-15, KR-08, KR-09, KR-10 | Procurement, pricing, warranty, dan compliance documents; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | GATE-01, GATE-02, GATE-03, GATE-04, GATE-05, GATE-06, GATE-07, GATE-08, GATE-09, GATE-10, GATE-11, GATE-12, GATE-13, GATE-14; resolve the applicable project/product/professional evidence before exact selection, dimensions, ratings, compliance, or warranty claims. | Coverage result: **16/16 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A definition, method, regulation, product claim, and complete-system result are different evidence layers. 2. A source supports only its stated jurisdiction, edition, product, specimen, configuration, conditions, and public scope. 3. Standards abstracts identify documents and visible scope; exact requirements require the current full text. 4. Foreign standards and industry guidance do not automatically become Indonesian legal requirements. 5. Procurement and handover claims require current project, supplier, contract, test, warranty, and traceability evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `GATE-01` Exact product formulation and layer system | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain current TDS/SDS, product identity, batch, primer/body/topcoat/aggregate makeup, thickness/coverage, compatibility, and manufacturer approval | | `GATE-02` Concrete/substrate condition and moisture | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Complete dated survey, slab/substrate history, moisture-source assessment, calibrated test plan/results, contamination/strength/profile evidence, and responsible review | | `GATE-03` Full standards and project acceptance | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain current full standards, Indonesian/local/project adoption, specified edition/method, sampling, instrument, conditions, acceptance, and qualified reviewer | | `GATE-04` Structural repair, anchoring, cracks, joints, or movement | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain diagnosis, loads/movement/consequence, responsible engineer's design, exact qualified product/method, inspection, and release criteria | | `GATE-05` Slip, accessibility, hygiene, food/healthcare, fire, or occupied-space claim | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Define building function/users/exposure, current Indonesian/local rule, exact test/system evidence, facility review, and maintenance condition | | `GATE-06` Chemical/abrasion/impact/conductive/UV/immersion performance | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain exact exposure and original system test report with specimen, method, conditions, result, limitations, and project acceptance | | `GATE-07` Mixing, application, cure, and return to service | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain current manufacturer method, environment limits, calibrated proportioning/mixing, batch times, layer/recoat/cure criteria, protection, and responsible approval | | `GATE-08` K3, silica, chemicals, ventilation, hot work, confined/occupied work | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Approve Indonesian task risk assessment, control hierarchy, competence, exposure/ventilation plan, restricted area, PPE/respiratory program, and emergency response | | `GATE-09` Waste, spill, removed coating, dust/slurry, and packaging route | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Characterize each stream from SDS/testing and approve containment, transport, documentation, and authorized local route under current Indonesian rules | | `GATE-10` Defect diagnosis and remedy | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain chronology, original scope/batches/conditions, defect map, substrate/moisture/failure-mode evidence, tests, cause review, and remedy decision | | `GATE-11` Cleaning, maintenance, service life, and end-of-life claim | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain exact O&M instructions, chemical/abrasion compatibility, condition/inspection records, use/exposure history, repair threshold, and actual recovery/disposal route | | `GATE-12` Quantity, price, contractor, warranty, and commercial promise | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain surveyed dimensions, system take-off assumptions, current supplier/contractor quote, inclusions/exclusions, credentials, schedule, warranty terms, and legal/commercial approval | | `GATE-13` QC, case study, and handover evidence | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Obtain permissioned real project records: approved scope/method/ITP, submittals, batch/environment logs, tests, nonconformance closure, acceptance, O&M, warranty, and image rights | | `GATE-14` Environmental, low-VOC, safe, non-toxic, sustainable, or food-contact claim | `EFL-01`, `EFL-02`, `EFL-03`, `EFL-04`, `EFL-05`, `EFL-06`, `EFL-07`, `EFL-08`, `EFL-09`, `EFL-10`, `EFL-11`, `EFL-12`, `EFL-13`, `EFL-14`, `EFL-15`, `EFL-16` | Define claim boundary and obtain current product declaration/test/certification, exposure/usage context, Indonesian regulatory review, and qualified environmental/health approval | ## Source-refresh triggers Recheck a record immediately when: - an Indonesian law, regulation, or official standard status changes; - a standards body publishes a new edition used by the article; - a manufacturer changes product scope, instructions, compatibility, test evidence, or warranty; - an article introduces a number, price, rating, classification, compliance statement, or safety procedure; - the target project/application differs from the exemplar's jurisdiction, user, product, configuration, or operating environment. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+## Apa yang dikendalikan dalam urutan aplikasi
 
-### KR-20
+Bagian ini menjelaskan istilah agar Anda tidak menyamakan daftar pekerjaan dengan kendali mutu.
 
-- **Original sources:** [UU No. 8 Tahun 1999 — BPK](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999), [PP No. 80 Tahun 2019 — official Kemendag PDF](https://jdih.kemendag.go.id/pdf/Regulasi/2019/PP%20Nomor%2080%20Tahun%202019.pdf).
-- **Purpose for this article:** Ground estimating, bid comparison, product claims, electronic offers, approvals, variation, handover, warranty, and complaint evidence.
-- **Safe grounded facts:** Comparable bids need the same surveyed area, layer system, thickness/coverage basis, preparation/repair, tests, access/downtime, exclusions, quantities, taxes/fees, warranty, and handover scope.
-- **Limits:** Obtain current legal/commercial review before asserting price, entitlement, refund, liability, warranty, or mandatory wording.
+Pencampuran berarti menyatukan resin dan pengeras serta komponen lain yang diwajibkan petunjuk produk. Kendali batch berarti memberi identitas pada tiap campuran—bahan, waktu, operator, dan area tujuan—agar masalah dapat ditelusuri. Urutan aplikasi menghubungkan lapisan dan jeda waktunya, bukan sekadar jadwal harian.
 
-### KR-03
+Ringkasan standar membantu menyusun pemeriksaan, tetapi tidak menggantikan spesifikasi proyek atau petunjuk produsen. Rasio, ketebalan, dan waktu pengerasan tidak boleh digeneralisasi; metode final tetap milik produsen dan pelaksana yang menyetujui sistem.
 
-- **Original sources:** [ISO 14322:2018 DSC crosslinking method](https://www.iso.org/standard/74606.html), [ISO 20368:2017 FTIR crosslinking method](https://www.iso.org/standard/67794.html).
-- **Purpose for this article:** Prevent articles from equating surface dryness with complete cure or universal readiness for service.
-- **Safe grounded facts:** Pot life, working time, tack-free time, recoat window, light foot traffic, full cure, and chemical-service readiness are different milestones defined by the actual product and conditions.
-- **Limits:** Do not infer site cure from an abstract, touch test, odor, calendar time, or another product's data.
+## Urutan kerja dari kesiapan sampai perlindungan
 
-### KR-12
+Setiap tahap berikut menjawab apa yang harus benar sebelum tahap berikutnya dimulai.
 
-- **Original sources:** [ISO 12944-7:2017 execution/supervision](https://www.iso.org/standard/64837.html), [ISO 12944-8:2017 specification development](https://www.iso.org/standard/64838.html).
-- **Purpose for this article:** Ground method statements, reference areas/mock-ups, inspection, hold points, and records.
-- **Safe grounded facts:** Approved materials do not prove correct storage, substrate readiness, proportioning, mixing, batch control, application conditions, layer sequence, cure protection, inspection, or handover.
-- **Limits:** These abstracts do not replace product instructions or an epoxy-floor project specification.
+### Pastikan area dan bahan siap
 
-### KR-02
+Cocokkan identitas produk, nomor batch, masa simpan, penyimpanan, dan metode yang berlaku. Pastikan pemeriksaan substrat, kebersihan, kelembapan, akses, serta pembatasan aktivitas tercatat. Jika data penting belum ada, tahan pekerjaan dan minta keputusan penanggung jawab.
 
-- **Original sources:** [ISO 18280:2010 epoxy-resin test-method overview](https://www.iso.org/standard/52877.html), [ISO 7142:2023 binders for paints and varnishes](https://www.iso.org/standard/83331.html), [ISO 3673-2:2012 crosslinked epoxy specimens/properties](https://www.iso.org/standard/59248.html).
-- **Purpose for this article:** Ground chemistry and testing articles without treating “epoxy” as one uniform product.
-- **Safe grounded facts:** Resin, curing agent, modifiers, pigments, fillers, aggregate, solvent/water, film build, substrate, cure, and specimen preparation can all change measured behavior.
-- **Limits:** These abstracts do not provide formulations, mixing ratios, acceptance values, or installed-floor requirements.
+### Campur dengan kendali waktu
 
-### KR-15
+Ikuti rasio, alat, dan tahapan pada dokumen produk. Catat waktu komponen dibuka, mulai dicampur, dan ditempatkan. Waktu pakai campuran berbeda dari waktu tidak lengket atau boleh diinjak; bau yang berkurang bukan bukti pengerasan selesai. Kondisi dan metode memengaruhi arti hasil pengujian ([ASTM D01](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf)).
 
-- **Original sources:** [CDC/NIOSH epoxy and reproductive-health guidance](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [CDC/NIOSH skin exposure overview](https://www.cdc.gov/niosh/skin-exposure/about/), [NIOSH epoxy hazard alert record](https://stacks.cdc.gov/view/cdc/135632).
-- **Purpose for this article:** Ground product-specific safety content and reject odor-based safety judgments.
-- **Safe grounded facts:** Resin, hardener, solvents, fillers, pigments, cleaners, and reaction by-products may have different hazards. Smell is not a reliable exposure indicator; glove compatibility and ventilation are product/task specific.
-- **Limits:** Do not diagnose exposure, prescribe PPE generically, or present US requirements as Indonesian law.
+### Hubungkan batch dengan lokasi
 
-### KR-17
+Tuliskan area, lapisan, nomor batch, operator, alat, dan waktu mulai-selesai. Jangan mengganti komponen atau menggabungkan sisa campuran antar batch tanpa izin tertulis dalam metode.
 
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
+### Lindungi sampai pemeriksaan
 
-### KR-19
+Batasi debu, air, lalu lintas, dan pekerjaan lain sesuai metode. Periksa kondisi aktual, cakupan, cacat, dan catatan waktu sebelum lapisan berikutnya atau pemakaian diizinkan. Bila bukti belum lengkap, statusnya menunggu, bukan otomatis lulus.
 
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
+## Faktor yang dapat mengubah hasil
 
-## Evidence gates
+Jadwal sama dapat menghasilkan keputusan berbeda ketika produk, substrat, atau lingkungan berubah. Suhu, kelembapan, aliran udara, dan kondisi permukaan memengaruhi waktu kerja serta pengerasan. Catat kondisi saat aplikasi, lalu bandingkan dengan batas dokumen produk; jangan memakai kalender atau sentuhan sebagai pengganti pemeriksaan.
 
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
+Resin, pengeras, pigmen, pengisi, dan agregat dapat mengubah perilaku campuran. Substitusi, pengenceran, atau pemakaian sisa batch adalah perubahan metode yang memerlukan persetujuan.
 
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-14-01` → `/artikel/kesiapan-lokasi-epoxy.html` — Site Readiness sebelum Epoxy Installation
-- `EFL-14-03` → `/artikel/kondisi-lingkungan-epoxy.html` — Temperature, Humidity, dan Dew Point
-- `EFL-14-04` → `/artikel/proteksi-cure-epoxy-lantai.html` — Cure Protection dan Reopening Area
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
-
-## Jawaban singkat dan salah paham utama
-
-- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Definisi dan batas objek
-
-- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Cara kerjanya
-
-- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
-
-## Faktor yang mengubah hasil
-
-- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kawan Lantai.id, resin, pengeras, pelarut, dan produk samping dapat memiliki bahaya berbeda. Bau bukan penanda paparan yang andal; kecocokan sarung tangan dan ventilasi bergantung pada produk serta tugas ([panduan epoxy](https://www.cdc.gov/niosh/reproductive-health/prevention/epoxies-resins.html), [paparan kulit](https://www.cdc.gov/niosh/skin-exposure/about/)).
 
 ## Contoh keputusan praktis
 
-- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Jika lapisan dasar sudah tercampur tetapi nomor batch dan waktu mulai hilang, tahan lapisan berikutnya. Cocokkan kemasan dan saksi yang tersedia, lalu minta penanggung jawab memutuskan apakah bukti cukup atau perlu pemeriksaan tambahan.
 
-## Kesalahan umum dan cara memeriksanya
+Jika permukaan terasa kering tetapi ruangan sempat lembap, kering sentuh hanya menjawab permukaan saat disentuh. Periksa batas metode dan rekaman kondisi sebelum memberi izin.
 
-- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
-- **Tie back to this article:** Keep the explanation specific to “Mixing, Batch Control, dan Application Sequence”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Untuk langkah berikutnya, Anda dapat berkonsultasi melalui [layanan kontraktor epoxy Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau membandingkan pertanyaan logistik pada [layanan kontraktor epoxy Yahukimo](/kontraktor-epoxy-yahukimo.html); keduanya bukan bukti kondisi proyek yang sama.
 
-## Objection or shortcut to address
+## Kesalahan umum dan pemeriksaan
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+Mencampur ember besar demi kecepatan dapat membuat bagian awal dan akhir menerima campuran pada umur berbeda. Periksa ukuran batch dan batas waktu pakai pada metode produk.
 
-## Required conclusion
+Mengandalkan foto mengilap keliru karena foto tidak menunjukkan proporsi, kondisi substrat, atau perlindungan pengerasan. Minta log batch, catatan kondisi, hasil pemeriksaan, dan keputusan penanggung jawab.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Membuka area karena permukaan keras mengabaikan perbedaan antara waktu boleh diinjak, waktu lapisan berikutnya, dan kesiapan layanan. Ikuti dokumen produk dan pertahankan area tertutup jika datanya belum ada.
 
-## Draft completion checklist
+## Kesimpulan: urutan adalah bukti
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Kawan Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Sobat Lantai.id, kesiapan membuka jalan untuk pencampuran; pencatatan menghubungkan campuran dengan lokasi; kondisi menentukan waktu; pemeriksaan menjadi dasar lanjut atau tahan. Metode final tetap berasal dari produsen dan pelaksana yang menyetujui sistem.
+
+Minta metode produk terkini, formulir log batch, batas kondisi, dan kriteria pemeriksaan sebelum pekerjaan dimulai. Jika bukti penting belum ada, tandai `[NEEDS TECHNICAL REVIEW: metode dan kriteria penerimaan proyek belum tersedia]`. Aturan operasinya sederhana: tanpa catatan, tidak ada dasar untuk menyatakan lapisan siap diterima.

@@ -2,8 +2,9 @@
 article_id: EFL-15-03
 title: "Blister, Delamination, dan Peeling Triage"
 slug: "diagnosis-blister-delaminasi-epoxy"
-description: "Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement"
-status: outline
+description: "Panduan menyaring gejala lantai epoxy sebelum memilih perbaikan, pelapisan ulang, atau penggantian."
+status: draft
+writing_contract_version: "native-id-v2"
 publication_date: "2026-06-18"
 publication_date_basis: editorial_backfill
 date_modified: null
@@ -14,55 +15,22 @@ reader_address: "Sobat Lantai.id"
 final_route: "/artikel/diagnosis-blister-delaminasi-epoxy.html"
 technical_review: required
 sources:
-  - "https://store.astm.org/d4060-19.html"
-  - "https://store.astm.org/standards/d1308"
-  - "https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf"
-  - "https://www.iso.org/standard/64838.html"
-  - "https://www.epa.gov/saferchoice/standard"
-  - "https://store.astm.org/c0881_c0881m-20a.html"
-  - "https://www.iso.org/standard/79787.html"
-  - "https://www.iso.org/standard/79788.html"
-  - "https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521"
-  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
-  - "https://store.astm.org/standards/f2170"
   - "https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf"
-  - "https://store.astm.org/d7234-21.html"
-  - "https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html"
+  - "https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf"
   - "https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html"
-  - "https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf"
 ---
-
-<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
 
 # Blister, Delamination, dan Peeling Triage
 
-## Assignment lock
+Halo, Sobat Lantai.id! Ketika permukaan epoxy menggelembung, terangkat seperti kulit jeruk, atau mengelupas, godaan pertama biasanya menambal titik yang rusak lalu mengecat ulang. Triage yang aman justru dimulai dari keputusan yang lebih sederhana: catat gejalanya, batasi area yang berisiko, dan cari tahu apakah kerusakan hanya lokal atau menyebar. Dari sana barulah Anda memilih perbaikan setempat, pelapisan ulang, atau pembongkaran sistem.
 
-- **Writer task:** Expand this file into one complete article answering: “Blister, Delamination, dan Peeling Triage”
-- **Reader and situation:** Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement
-- **Reader outcome:** Menjalankan maintenance, diagnose symptoms, dan memilih repair/recoat/replacement
-- **Primary intent:** Mengenali failure symptoms
-- **Reader community:** `Lantai.id`
-- **Primary friendly address:** `Sobat Lantai.id`
-- **Natural variants:** `Kawan Lantai.id` and `Teman Lantai.id`
-- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
-- **Scope boundary:** Bukan remote root-cause finding.
-- **Final public route:** `/artikel/diagnosis-blister-delaminasi-epoxy.html`
-- **Appointed CMS date:** `2026-06-18` (`editorial_backfill`; preserve exactly)
-- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
-- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+Foto saja tidak cukup untuk menetapkan akar masalah. Kelembapan dari bawah, lapisan lemah, kontaminasi, gerakan retak, ketidakcocokan bahan, atau proses aplikasi dapat memberi tampilan yang mirip. Artikel ini membantu Anda menyaring gejala dan menyiapkan pemeriksaan; penetapan penyebab akhir tetap memerlukan data proyek dan pemeriksaan kompeten. Bukan remote root-cause finding.
 
-## Opening instructions
+![Ilustrasi Epoxy 3D](/wp-content/uploads/2025/07/Epoxy-3D.jpg)
 
-- Open with the exact short salutation: **“Halo, Sobat Lantai.id!”**
-- Start with the concrete decision, confusion, risk, or costly shortcut behind **Blister, Delamination, dan Peeling Triage**.
-- Give the short answer within the first two or three paragraphs.
-- State what evidence or condition can change that answer.
-- Later, sprinkle `Sobat Lantai.id`, `Kawan Lantai.id`, or `Teman Lantai.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
-- Do not use a generic industry-history or “Di era digital” introduction.
+Aset lokal proyek; jangan klaim sebagai dokumentasi proyek tertentu.
 
-
-<!-- BEGIN MANAGED IMAGE PLAN -->
+<!-- BEGIN MANAGED IMAGE PLAN
 ## Image plan
 
 - **Image ID:** `LOCAL-001`
@@ -73,186 +41,58 @@ sources:
 - **Selection basis:** filename/source metadata identifies `Epoxy 3D` as relevant content media; no pixels were inspected.
 - **Hard boundary:** do not infer or describe unseen visual details, project ownership, location, people, brands, condition, performance, or outcome.
 - **Substitution rule:** do not replace this image. If unavailable or provenance is incomplete, insert `[NEEDS IMAGE REVIEW: LOCAL-001]` and continue drafting the prose.
-<!-- END MANAGED IMAGE PLAN -->
-
-## Evidence packet
-
-Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
-
-### KR-01
-
-- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
-- **Purpose for this article:** Freeze the verified editorial scope for `epoxy.lantai.id` and prevent family research from overriding this project's actual catalog boundaries.
-- **Safe grounded facts:** The catalog contains 16 parent topics and 128 distinct briefs. Existing commercial/location pages and repository claims are evidence candidates, not proof of technical performance, price, coverage, experience, or compliance.
-- **Limits:** Planning artifacts establish editorial scope only.
-
-### KR-09
-
-- **Original sources:** [ASTM D4060 abrasion method](https://store.astm.org/d4060-19.html), [ASTM D1308 household-chemical effects](https://store.astm.org/standards/d1308), [ASTM D01 current standards overview](https://www.astm.org/v3/assets/blt5eb0a2cb04534832/blt00cec9a555817198/69d75d173445405e438dc789/D01_Fact_Sheet_2025.pdf).
-- **Purpose for this article:** Stop “abrasion resistant” and “chemical resistant” from becoming unbounded marketing claims.
-- **Safe grounded facts:** Abradant, cycles, load, specimen, thickness, cure, cleaning, exposure chemical/concentration/time/temperature, and evaluation criterion change the meaning of a result.
-- **Limits:** A laboratory result is not service-life, slip, hygiene, impact, or whole-floor proof.
-
-### KR-19
-
-- **Original sources:** [ISO 12944-8 specification/maintenance planning](https://www.iso.org/standard/64838.html), [US EPA Safer Choice standard](https://www.epa.gov/saferchoice/standard).
-- **Purpose for this article:** Ground cleaning chemistry, inspection, repair, renewal, and end-of-life planning.
-- **Safe grounded facts:** Soil, chemical, concentration, dwell time, temperature, tool/abrasion, rinse, frequency, texture, wear, contamination, and current topcoat instructions affect outcomes.
-- **Limits:** Do not publish universal cleaning agents, intervals, service life, or recycling claims without exact system and local operational evidence.
-
-### KR-14
-
-- **Original sources:** [ASTM C881/C881M epoxy bonding systems for concrete](https://store.astm.org/c0881_c0881m-20a.html), [ISO 16311-3:2024 repair design](https://www.iso.org/standard/79787.html), [ISO 16311-4:2024 repair execution](https://www.iso.org/standard/79788.html).
-- **Purpose for this article:** Prevent repair articles from treating every crack, anchor, patch, injection, or grout as the same epoxy job.
-- **Safe grounded facts:** Crack cause/movement, structural role, moisture, temperature, load duration/creep, substrate condition, geometry, compatibility, installation, and inspection affect repair selection.
-- **Limits:** Do not prescribe structural injection, anchoring, load transfer, or acceptance without the full governing documents, project data, manufacturer instructions, and qualified engineer.
-
-### KR-06
-
-- **Original sources:** [ICRI 310.2R surface-preparation guideline record](https://store.icri.org/item/3102r2013-english-pdf-selecting-concrete-surface-preparation-sealers-coatings-polymer-overlays-concrete-repair-342521), [ICRI introduction to 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Ground preparation selection in substrate, coating, site, profile, and QC rather than one favorite machine.
-- **Safe grounded facts:** Cleaning, contaminant removal, laitance/weak-layer removal, soundness, profile, edges, cracks/joints, dust control, and verification are separate tasks.
-- **Limits:** Do not reproduce paid tables or assign a CSP number without the governing guide, product requirements, substrate test, and competent review.
-
-### KR-05
-
-- **Original sources:** [ASTM F2170 in-situ relative-humidity method](https://store.astm.org/standards/f2170), [ASTM flooring-committee reference list](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf).
-- **Purpose for this article:** Ground substrate-moisture diagnosis and stop “concrete looks dry” reasoning.
-- **Safe grounded facts:** Moisture source/path, slab construction, vapor retarder, drying conditions, test placement/equilibration, ambient conditions, and product limits matter. One reading cannot map an entire slab or guarantee future behavior.
-- **Limits:** Obtain the current full method and exact manufacturer/project criteria. Do not mix methods or publish a universal threshold.
-
-### KR-08
-
-- **Original sources:** [ASTM D7234 pull-off adhesion on concrete](https://store.astm.org/d7234-21.html), [ASTM coating standards index](https://store.astm.org/products-services/standards-and-publications/standards/paint-standards-and-related-coating-standards.html).
-- **Purpose for this article:** Ground adhesion specifications and explain why a single number without failure mode/test setup is incomplete.
-- **Safe grounded facts:** Failure may occur in glue, coating layers, interface, or substrate. The test is destructive and leaves repair locations.
-- **Limits:** Obtain the full current method and project specification. Do not compare unlike instruments, substrates, systems, or cure states as equivalent.
-
-### KR-18
-
-- **Original sources:** [ASTM F2170 moisture scope](https://store.astm.org/standards/f2170), [ASTM D7234 adhesion scope](https://store.astm.org/d7234-21.html), [ICRI surface-preparation framework](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf).
-- **Purpose for this article:** Build a cause-tree for blisters, peeling, bubbles, pinholes, soft cure, discoloration, cracking, and delamination.
-- **Safe grounded facts:** Similar visible symptoms can have different causes, and destructive sampling may be needed. Local patching can hide a systemic problem.
-- **Limits:** A photo or article cannot diagnose structural movement, moisture source, contamination, chemical attack, or product defect conclusively.
-
-### KR-17
-
-- **Original sources:** [PP No. 22 Tahun 2021 — BPK](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html), [Permen LHK No. 6 Tahun 2021 PDF](https://peraturan.bpk.go.id/Home/Download/205145/permen%20LHK%20No.%206%20tahun%202021.pdf).
-- **Purpose for this article:** Ground cleanup, leftover components, grinding dust/slurry, removed coating, solvent, packaging, and end-of-life discussions.
-- **Safe grounded facts:** Unused components, mixed/cured material, contaminated absorbent, wash liquid, dust/slurry, removed legacy coating, packaging, and ordinary debris may require different identification and routes.
-- **Limits:** Do not classify a waste stream or recommend disposal from generic resin chemistry; use current Indonesian/local rules and competent environmental review.
-
-## Evidence gates
-
-- **GATE-01:** Resolve the gate from current project evidence and competent review.
-- **GATE-02:** Resolve the gate from current project evidence and competent review.
-- **GATE-03:** Resolve the gate from current project evidence and competent review.
-- **GATE-04:** Resolve the gate from current project evidence and competent review.
-- **GATE-05:** Resolve the gate from current project evidence and competent review.
-- **GATE-06:** Resolve the gate from current project evidence and competent review.
-- **GATE-07:** Resolve the gate from current project evidence and competent review.
-- **GATE-08:** Resolve the gate from current project evidence and competent review.
-- **GATE-09:** Resolve the gate from current project evidence and competent review.
-- **GATE-10:** Resolve the gate from current project evidence and competent review.
-- **GATE-11:** Resolve the gate from current project evidence and competent review.
-- **GATE-12:** Resolve the gate from current project evidence and competent review.
-- **GATE-13:** Resolve the gate from current project evidence and competent review.
-- **GATE-14:** Resolve the gate from current project evidence and competent review.
-
-If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
-
-## Internal-link plan
-
-### Existing local routes
-
-- `/kontraktor-epoxy-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
-- `/kontraktor-epoxy-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
-
-### Planned sibling articles
-
-These are future routes. Do not link them as live until their HTML exists.
-
-- `EFL-15-01` → `/artikel/rencana-pembersihan-epoxy.html` — Cleaning Plan Epoxy Flooring
-- `EFL-15-02` → `/artikel/inspeksi-kondisi-epoxy.html` — Inspection Schedule dan Condition Map
-- `EFL-15-04` → `/artikel/keausan-perubahan-warna-epoxy.html` — Scratches, Wear, dan Color Change
-- `EFL-15-05` → `/artikel/repair-vs-recoat-epoxy.html` — Spot Repair, Recoat, atau Replacement
-
-<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+END MANAGED IMAGE PLAN -->
 
 ## Mulai dari gejala, bukan tebakan penyebab
 
-- **Purpose:** Tentukan apa yang terlihat/terukur, lokasi, waktu, perubahan, dan keterbatasan pengamatan.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Sebelum menyentuh lapisan, tulis apa yang benar-benar terlihat: bentuk gelembung atau pengelupasan, luas dan pola sebarannya, lokasi terhadap dinding atau sambungan, kapan pertama muncul, serta perubahan setelah hujan, pencucian, atau beban kerja. Pisahkan pengamatan dari dugaan. “Lapisan terangkat di dekat pintu setelah pencucian” adalah catatan; “pasti karena air” masih hipotesis.
+
+Gunakan penanda lokasi dan foto berskala agar pemeriksaan berikutnya dapat dibandingkan. Ketuk ringan hanya bila prosedur proyek mengizinkan, dan catat bunyi atau rasa kosong sebagai indikasi yang perlu diverifikasi, bukan bukti tunggal. Gejala serupa dapat berasal dari sebab berbeda, sehingga pengambilan sampel kadang diperlukan ([ASTM F06 Fact Sheet](https://mcsdocs.astm.org/committee-documents/F06_Fact_Sheet_2017.pdf)).
+
+Bedakan tiga istilah yang sering tercampur. Blister adalah tonjolan atau gelembung pada lapisan; delaminasi berarti ikatan antarlapis atau antara lapisan dan beton kehilangan kontinuitas; peeling adalah lapisan yang sudah terkelupas dan terbuka. Satu area dapat menunjukkan lebih dari satu gejala. Keputusan awalnya bukan “produk apa yang dipakai”, melainkan apakah kerusakan berhenti pada lapisan atas atau melibatkan beton dan area yang lebih luas.
 
 ## Saringan risiko langsung
 
-- **Purpose:** Jelaskan kapan pembaca harus membatasi akses, menghentikan pekerjaan, atau meminta pemeriksaan kompeten.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Tunda pekerjaan dan batasi akses bila ada tepi lapisan yang mudah tersandung, serpihan lepas di jalur orang, permukaan licin karena cairan, bau menyengat, atau debu saat lapisan digerinda. Jangan menutupinya dengan cat baru sebelum kondisi dicatat. Untuk area produksi, buat pengendalian sementara yang disetujui pengelola agar lalu lintas tidak memperbesar kerusakan.
+
+Sobat Lantai.id, eskalasi diperlukan bila gelembung muncul luas, retak ikut membuka, beton di bawahnya rapuh, atau kerusakan berulang setelah tambalan. Jika pekerjaan menyentuh struktur, sambungan bergerak, bahan kimia aktif, atau pengelolaan limbah, hentikan keputusan berbasis foto dan minta penilai yang berwenang. Klasifikasi sisa resin, debu, cairan pencuci, dan lapisan terkelupas tidak boleh ditebak dari nama bahan; aturan Indonesia yang berlaku dan penilaian lingkungan setempat perlu diperiksa ([PP No. 22 Tahun 2021](https://peraturan.bpk.go.id/Details/161852/pp-no-22-tahun-2021.html)).
 
 ## Kemungkinan mekanisme
 
-- **Purpose:** Kelompokkan kemungkinan penyebab tanpa menyatakan diagnosis dari bukti yang belum cukup.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kelembapan adalah salah satu cabang yang perlu diuji, bukan jawaban otomatis. Air atau uap yang bergerak dari pelat dapat menekan lapisan atau mengganggu ikatan, terutama ketika kondisi ruang berubah. Beton yang tampak kering di permukaan belum memetakan keadaan di dalam pelat. Metode pengukuran kelembapan relatif in-situ memiliki ketentuan penempatan sensor, waktu ekuilibrasi, dan kondisi lingkungan; satu pembacaan tidak mewakili seluruh lantai. Mintalah metode dan kriteria yang tercantum pada spesifikasi proyek sebelum menilai hasil.
+
+Cabang lain adalah permukaan yang tidak cukup bersih atau kuat. Minyak, debu, laitance (lapisan semen lemah), sisa lapisan lama, dan profil permukaan yang tidak sesuai dapat membuat ikatan tidak seragam. Panduan ICRI menjelaskan bahwa pembersihan, penghilangan lapisan lemah, pemeriksaan soundness, penanganan tepi serta retak, pengendalian debu, dan verifikasi merupakan tugas terpisah; tidak ada satu mesin yang otomatis menyelesaikan semuanya ([pengantar ICRI 310.2R](https://www.icri.org/wp-content/uploads/2024/04/CRBMayJun14_WInkler.pdf)).
+
+Perbedaan suhu, waktu kerja campuran, takaran, atau kompatibilitas antarproduk juga patut ditelusuri melalui catatan pemasangan dan lembar teknis yang benar-benar dipakai. Jangan mengubah dugaan “campuran salah” menjadi tuduhan produk cacat tanpa sampel, batch, dan dokumen. Retak atau pergerakan pada beton dapat memindahkan tegangan ke lapisan; perbaikannya berbeda dari sekadar mengisi lubang kosmetik.
 
 ## Urutan pemeriksaan dan pengujian
 
-- **Purpose:** Susun observasi, dokumen, tes, sampel, atau pengukuran dari yang paling aman dan informatif.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Mulailah dari pemeriksaan tanpa merusak: petakan pola, ukur luas, cek perubahan waktu, tanyakan riwayat pencucian dan beban, lalu kumpulkan dokumen sistem, tanggal aplikasi, kondisi cuaca, serta catatan kelembapan. Bandingkan area rusak dengan area yang masih utuh. Perbedaan lokasi sering lebih informatif daripada satu titik paling parah.
+
+Jika hipotesis masih bersaing, rencanakan pembukaan kecil pada lokasi yang mewakili, dengan persetujuan pengelola. Simpan potongan berlapis dan foto penampangnya agar terlihat apakah kegagalan berada di perekat, lapisan, antarmuka, atau beton. Uji tarik lekat bersifat merusak; hasilnya harus mencatat lokasi dan mode patah, bukan hanya angka. Mode patah membantu menunjukkan bagian yang gagal, tetapi tetap perlu dibaca bersama peta gejala dan persyaratan proyek.
+
+Jangan mencampur hasil pengukuran dari metode, alat, umur pengerasan, atau sistem yang berbeda lalu menyebutnya setara. Tetapkan lebih dulu pertanyaan pemeriksaan: apakah kadar air melampaui batas produk, apakah beton cukup kuat untuk menerima lapisan, atau apakah kerusakan hanya pada lapisan atas. Kriteria penerimaan harus berasal dari spesifikasi proyek dan petunjuk produsen yang digunakan, bukan angka universal.
 
 ## Cara membaca hasil tanpa melompat ke kesimpulan
 
-- **Purpose:** Pisahkan hasil tes, kriteria proyek, sebab, konsekuensi, dan otoritas keputusan.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Hasil tes menjawab pertanyaan yang sempit. Nilai kelembapan memberi gambaran pada titik dan kondisi pengujian, bukan jaminan seluruh pelat akan berperilaku sama. Pola patah pada uji lekat membantu menunjukkan lokasi kegagalan, tetapi tidak sendirian menjelaskan sumber kelembapan, kontaminasi, atau gerakan struktur. Satukan hasil dengan peta gejala, riwayat operasi, dan batas sistem.
+
+Kawan Lantai.id, bila data saling bertentangan, nyatakan ketidakpastian secara tertulis. Contohnya, “lapisan terangkat pada dua zona, penyebab belum dibedakan antara kelembapan dan kontaminasi; perlu sampel tambahan” lebih berguna daripada memilih satu sebab dengan yakin. Keputusan perbaikan harus menyebut siapa yang menyetujui, area yang dicakup, dan pemeriksaan ulang setelah pekerjaan.
 
 ## Pilihan tindakan dan titik eskalasi
 
-- **Purpose:** Bedakan kontrol sementara, pemantauan, perbaikan, penggantian, dan review profesional.
-- **Tie back to this article:** Keep the explanation specific to “Blister, Delamination, dan Peeling Triage”.
-- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
-- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
-- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+Kontrol sementara cocok untuk mengamankan jalur dan mencegah serpihan menyebar, bukan untuk menyembunyikan sumber masalah. Perbaikan setempat masuk akal bila peta menunjukkan kerusakan benar-benar terbatas dan lapisan di sekitarnya terbukti sehat. Jika pola berulang, area luas, atau lapisan berbeda gagal pada batas yang sama, pelapisan ulang parsial mungkin hanya menunda pembongkaran. Penggantian sistem dipertimbangkan setelah penyebab, batas area, kompatibilitas, dan rencana persiapan permukaan disetujui.
 
-## Objection or shortcut to address
+Untuk langkah berikutnya, Anda dapat menghubungi [kontraktor epoxy di Yogyakarta](/kontraktor-epoxy-yogyakarta.html) atau membandingkan kebutuhan lokasi lain melalui [layanan epoxy di Yalimo](/kontraktor-epoxy-yalimo). Tautan itu adalah titik awal komunikasi, bukan bukti bahwa suatu metode pasti cocok untuk lantai Anda.
 
-- Identify one realistic shortcut a reader may prefer.
-- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
-- Give the safer or more reliable alternative.
+## Mengapa menambal lalu mengecat ulang sering gagal
 
-## Required conclusion
+Jalan pintas yang paling umum adalah mengerok gelembung, mengisi cekungan, lalu menutup seluruhnya tanpa memetakan area sekitar. Cara ini tampak cepat karena gejala hilang dari pandangan, tetapi mekanisme yang sama—misalnya uap, kontaminan, atau lapisan lemah—tetap bekerja di bawah lapisan baru. Beberapa hari atau minggu kemudian, tonjolan muncul di tempat lain dan batas kerusakan sulit dilacak.
 
-- Answer the title again in one compact, non-repetitive form.
-- Give the reader the next action, document, question, inspection, or professional review to obtain.
-- End with an operating rule or honest boundary. Do not end with a generic summary.
+Alternatif yang lebih aman adalah membuat keputusan bertahap: amankan area, dokumentasikan pola, uji hipotesis yang paling mungkin, lalu tetapkan batas perbaikan berdasarkan bukti. Bila data tidak cukup untuk membedakan perbaikan lokal dan penggantian, pertahankan `[NEEDS TECHNICAL REVIEW: penyebab dan luas kerusakan belum terkonfirmasi]` dalam berkas pekerjaan sampai pemeriksaan kompeten selesai.
 
-## Draft completion checklist
+## Penutup: keputusan triage yang dapat dipertanggungjawabkan
 
-- [ ] Opening answers the main question within two or three paragraphs.
-- [ ] The article opens with `Halo, Sobat Lantai.id!` and uses friendly `Lantai.id` community address naturally three to five times total.
-- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
-- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
-- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
-- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
-- [ ] Internal links use exact listed routes and helpful natural anchors.
-- [ ] Future sibling routes are not presented as live.
-- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
-- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
-- [ ] Conclusion gives a concrete next action and an honest limit.
+Blister, delaminasi, dan peeling sebaiknya diperlakukan sebagai gejala yang perlu disaring, bukan diagnosis instan. Mulai dengan peta gejala dan pengamanan, lanjutkan dengan pemeriksaan kelembapan, kondisi permukaan, riwayat aplikasi, serta uji terarah bila perlu. Pilih perbaikan setempat hanya setelah area sekitar terbukti sehat; naikkan ke pelapisan ulang atau penggantian bila pola menunjukkan masalah sistemik.
+
+Simpan foto berskala, peta lokasi, hasil uji, lembar teknis, dan keputusan penanggung jawab dalam satu catatan. Aturan operasinya sederhana: jangan menutup gejala sebelum mekanisme yang relevan diuji, dan jangan menyimpulkan akar masalah dari artikel atau foto saja.
